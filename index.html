@@ -431,7 +431,7 @@
         fetch('/.netlify/functions/visitor-counter')
             .then(response => response.json())
             .then(data => {
-                const visitorCounter = parseInt(data.counter) || 0;
+                let visitorCounter = parseInt(data.counter) || 0;
                 document.getElementById('counter').textContent = 'Potential Rescues: ' + visitorCounter;
 
                 visitorCounter++;
