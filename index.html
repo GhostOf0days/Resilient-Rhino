@@ -428,23 +428,18 @@
     <!-- Update counter value dynamically -->
     <!-- Remove for local tests -->
     <script>
-        fetch('/.netlify/functions/visitor-counter')
-            .then(response => response.json())
-            .then(data => {
-                let visitorCounter = parseInt(data.counter) || 0;
-                document.getElementById('counter').textContent = 'Potential Rescues: ' + visitorCounter;
-
-                visitorCounter++;
-
-                // Update the counter value through Netlify function
-                fetch('/.netlify/functions/update-counter', {
-                    method: 'POST',
-                    body: JSON.stringify({ counter: visitorCounter }),
-                });
-            })
-            .catch(error => {
-                console.error('Failed to fetch visitor counter:', error);
-            });
+        // Fetch the current counter value
+        fetch('/.netlify/functions/update-counter', {
+            method: 'POST'
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Update the HTML with the new counter value
+            document.getElementById('counter').textContent = "Potential Rescues: " + data.counter;
+        })
+        .catch(error => {
+            console.error('Failed to fetch the visitor counter:', error);
+        });
     </script>
 
 </body>
