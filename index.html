@@ -434,6 +434,8 @@
                 const visitorCounter = parseInt(data.counter) || 0;
                 document.getElementById('counter').textContent = 'Potential Rescues: ' + visitorCounter;
 
+                visitorCounter++;
+
                 // Update the counter value through Netlify function
                 fetch('/.netlify/functions/update-counter', {
                     method: 'POST',
