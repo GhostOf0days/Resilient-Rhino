@@ -1,6 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Google Analytics tracking code -->
+    <!-- Remove for local tests -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        // Update the tracking ID dynamically
+        fetch('/.netlify/functions/google-analytics-tracking-id')
+          .then(response => response.json())
+          .then(data => {
+            const trackingId = data.trackingId;
+            gtag('config', trackingId);
+      
+            const scriptElement = document.createElement('script');
+            scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${trackingId}`;
+            document.head.appendChild(scriptElement);
+          })
+          .catch(error => {
+            console.error('Failed to fetch Google Analytics tracking ID:', error);
+          });
+      </script>
+      
     <title>Resilient Rhino - Suicide Prevention Resources</title>
     <link rel="icon" href="rhino.png" type="image/x-icon">
     <style>
@@ -44,19 +67,7 @@
         }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
-    <script>
-        // JavaScript code for visitor counter
-        window.onload = function() {
-            let counter = localStorage.getItem('visitorCounter');
-            if (!counter) {
-                counter = 1;
-            } else {
-                counter = parseInt(counter) + 1;
-            }
-            localStorage.setItem('visitorCounter', counter);
-            document.getElementById('counter').textContent = 'Potential Rescues: ' + counter;
-        };
-    </script>
+
 </head>
 <body>
     <div class="top-bar">
@@ -413,6 +424,26 @@
         <li><a href="https://www.samaritanspurse.org/" target="_blank">Samaritans Bulawayo</a> - Phone: <a href="tel:2639220630">263 9 220 630</a></li>
         <li><a href="https://www.7cups.com/" target="_blank">7 Cups</a></li>
     </ul>
+
+    <!-- Update counter value dynamically -->
+    <!-- Remove for local tests -->
+    <script>
+        fetch('/.netlify/functions/visitor-counter')
+            .then(response => response.json())
+            .then(data => {
+                const visitorCounter = parseInt(data.counter) || 0;
+                document.getElementById('counter').textContent = 'Potential Rescues: ' + visitorCounter;
+
+                // Update the counter value through Netlify function
+                fetch('/.netlify/functions/update-counter', {
+                    method: 'POST',
+                    body: JSON.stringify({ counter: visitorCounter }),
+                });
+            })
+            .catch(error => {
+                console.error('Failed to fetch visitor counter:', error);
+            });
+    </script>
 
 </body>
 </html>
