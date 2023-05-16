@@ -2,31 +2,48 @@
 <html>
 <head>
     <title>Resilient Rhino - Suicide Prevention Resources</title>
+    <link rel="icon" href="rhino.png" type="image/x-icon">
     <style>
         /* CSS for the top display bar */
         .top-bar {
-            background-color: #D4C6E9; /* Low stress color */
+            background-color: #F5DDEB; /* Low stress pink color */
             color: #3E4147;
             padding: 10px;
             display: flex;
             justify-content: space-between;
+            align-items: center; 
+            font-family: 'Helvetica Neue', Arial, sans-serif; 
+            font-size: 20px;
         }
 
         .top-bar h1 {
             margin: 0;
             padding: 0;
+            display: flex; 
+            align-items: center; 
+        }
+
+        .top-bar h1 img {
+            width: 60px; 
+            margin-right: 5px; 
         }
 
         #counter {
+            font-family: 'Helvetica Neue', Arial, sans-serif; /* Change font family */
             font-size: 16px;
             margin: 0;
             padding: 0;
         }
+
         body {
             background-color: #E6E6FA; /* Light lavender color to decrease stress */
             color: #333; /* Dark gray text color for better readability */
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
         }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
     <script>
         // JavaScript code for visitor counter
         window.onload = function() {
@@ -43,7 +60,10 @@
 </head>
 <body>
     <div class="top-bar">
-        <h1>Resilient Rhino</h1>
+        <h1>
+            <img src="rhino.png" alt="Favicon">
+            Resilient Rhino
+        </h1>
         <p id="counter">Potential Rescues: 0</p>
     </div>
 
