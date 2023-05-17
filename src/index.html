@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <!-- Google Analytics tracking code -->
     <!-- Remove for local tests -->
@@ -25,7 +25,7 @@
       </script>
       
       <title>Resilient Rhino - Suicide Prevention Resources</title>
-      <link rel="icon" href="../public/images/rhino.png" type="image/x-icon">
+      <link rel="icon" href="../public/images/mascots/rhino.png" type="image/x-icon">
       <style>
           /* General Body CSS */
           body {
@@ -42,7 +42,7 @@
               display: flex;
               justify-content: space-between;
               padding: 20px;
-              background-color: #89CFF0; /* Baby blue color to promote calmness */
+              background-color: #F3D3D9; /* Light pink color to promote warmth */
               color: #333;
           }
   
@@ -91,7 +91,7 @@
               text-decoration: none;
               transition: color 0.2s;
           }
-  
+  a
           a:hover {
               color: #005999;
           }
@@ -103,12 +103,13 @@
               }
           }
       </style>
+      <!-- Flag Icon CSS library -->
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
   </head>
   <body>
       <div class="top-bar">
           <h1>
-              <img src="../public/images/rhino.png" alt="Favicon">
+              <img src="../public/images/mascots/rhino.png" alt="Favicon">
               Resilient Rhino
           </h1>
           <p id="counter">Potential Rescues: 0</p>
@@ -119,8 +120,9 @@
 
     <div id="resources"></div>
 
-    <script src="countries.js" type="module"></script>
-    <script src="app.js" type="module"></script>
+    <script src="countries.js"></script>
+    <script src="countryCodes.js"></script>
+    <script src="app.js"></script>
     
     <!-- Update counter value dynamically -->
     <!-- Remove for local tests -->

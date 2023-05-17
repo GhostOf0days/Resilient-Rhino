@@ -1,32 +1,31 @@
-import countries from './countries.js';
+// import countries from "./countries.js" // NEEDS TO BE FIXED
 
 window.onload = () => {
-  const resourcesContainer = document.getElementById('resources');
+    const resourcesContainer = document.getElementById('resources');
   
-  console.log('countries:', countries);
+    countries.forEach(countryData => {
+      const countryName = Object.keys(countryData)[0];
+      const countryResources = countryData[countryName];
+      const countryCode = getCountryCode(countryName);
   
-  countries.forEach(country => {
-    const countryName = Object.keys(country)[0];
-    const countryResources = country[countryName];
-    
-    console.log('countryName:', countryName);
-    console.log('countryResources:', countryResources);
-    
-    const countryElement = document.createElement('div');
-    countryElement.innerHTML = `
-      <h2>${countryName}</h2>
-      <ul>
-        ${countryResources.map(resource => `
-          <li>
-            <a href="${resource.url}" target="_blank">${resource.name}</a>
-            ${resource.url_info ? `<span class="info">${resource.url_info}</span>` : ''}
-            ${resource.phone.length > 0 ? `<span class="info">- Phone: ${resource.phone.map(phone => `<a href="tel:${phone}">${phone}</a>`).join(' or ')}</span>` : ''}
-            ${resource.phone_info ? `<span class="info">${resource.phone_info}</span>` : ''}
-          </li>
-        `).join('')}
-      </ul>
-    `;
-    
-    resourcesContainer.appendChild(countryElement);
-  });
-};
+      const countryElement = document.createElement('div');
+      countryElement.innerHTML = `
+        <h2>
+          ${countryCode ? `<span class="flag-icon flag-icon-${countryCode}"></span>` : ''}
+          ${countryName}
+        </h2>
+        <ul>
+          ${countryResources.map(resource => `
+            <li>
+              <a href="${resource.url}" target="_blank">${resource.name}</a>
+              ${resource.url_info ? ` (${resource.url_info})` : ''}
+              ${resource.phone.length > 0 ? ` - Phone: ${resource.phone.map(phone => `<a href="tel:${phone}">${phone}</a>`).join(' or ')}` : ''}
+              ${resource.phone_info ? ` (${resource.phone_info})` : ''}
+            </li>
+          `).join('')}
+        </ul>
+      `;
+  
+      resourcesContainer.appendChild(countryElement);
+    });
+  };  

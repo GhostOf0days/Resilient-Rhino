@@ -1,4 +1,4 @@
-const countries = [
+window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT NOT WORKING
     // Add other countries or update countries' resources following the same structure as below.
     {
         "Argentina": [
@@ -1194,4 +1194,4 @@ const countries = [
 
 ];
 
-export default countries;
+// export default countries; // NEEDS TO BE FIXED
