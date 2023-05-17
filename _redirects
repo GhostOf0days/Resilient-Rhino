@@ -1,9 +1,9 @@
 # Redirects for static files
-/src/countries.js       /src/countries.js       200
-/src/countryCodes.js    /src/countryCodes.js    200
-/src/app.js             /src/app.js             200
-/src/country-details.js /src/country-details.js 200
-/src/country-details.html /src/country-details.html 200
+/countries.js       /src/countries.js       200
+/countryCodes.js    /src/countryCodes.js    200
+/app.js             /src/app.js             200
+/country-details.js /src/country-details.js 200
+/country-details.html /src/country-details.html 200
 
 # Redirects for individual country detail pages; MAY HAVE TO BE TWEAKED (ALSO LOOK AT FIRST FUNCTION IN APP.JS) FOR SPECIAL CHARACTERS
 /country-details.html?country=argentina   /src/country-details.html?country=argentina   200
