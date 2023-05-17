@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to MyWorld 👋</h1>
+<h1 align="center">Welcome to Resilient Rhino 👋</h1>
 <p>
   <a href="https://github.com/0dayReaper/Resilient-Rhino" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
