@@ -1,7 +1,7 @@
-
 // CHANGE TO REGULAR FUNCTION INSTEAD OF GLOBAL FUNCTION AND EXPORT
 window.getCountryCode = function(countryName) {
-    // Convert country name to country code using a mapping
+    // Convert country name to country code using a mapping. 
+    // Check if code is present before adding to countries.js. If not, add it here.
     const countryCodes = {
       'Afghanistan': 'af',
       'Albania': 'al',
@@ -78,6 +78,7 @@ window.getCountryCode = function(countryName) {
       'Guyana': 'gy',
       'Haiti': 'ht',
       'Honduras': 'hn',
+      'Hong Kong': 'hk',
       'Hungary': 'hu',
       'Iceland': 'is',
       'India': 'in',
@@ -146,6 +147,7 @@ window.getCountryCode = function(countryName) {
       'Philippines': 'ph',
       'Poland': 'pl',
       'Portugal': 'pt',
+      'Puerto Rico': 'pr',
       'Qatar': 'qa',
       'Romania': 'ro',
       'Russia': 'ru',
@@ -167,6 +169,7 @@ window.getCountryCode = function(countryName) {
       'Solomon Islands': 'sb',
       'Somalia': 'so',
       'South Africa': 'za',
+      'South Korea': 'kr',
       'South Sudan': 'ss',
       'Spain': 'es',
       'Sri Lanka': 'lk',
