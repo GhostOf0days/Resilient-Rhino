@@ -1,5 +1,7 @@
 window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT NOT WORKING
     // Add other countries or update countries' resources following the same structure as below.
+    // Special characters come after the letter "z"
+    // \' to insert ' into a country's name
     {
         "Argentina": [
             {
