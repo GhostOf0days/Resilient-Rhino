@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Google Analytics tracking code -->
+    <!-- Remove for local tests -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        // Update the tracking ID dynamically
+        fetch('/netlify/functions/google-analytics-tracking-id')
+          .then(response => response.json())
+          .then(data => {
+            const trackingId = data.trackingId;
+            gtag('config', trackingId);
+      
+            const scriptElement = document.createElement('script');
+            scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${trackingId}`;
+            document.head.appendChild(scriptElement);
+          })
+          .catch(error => {
+            console.error('Failed to fetch Google Analytics tracking ID:', error);
+          });
+      </script>
+      
+      <title>Resilient Rhino - Suicide Prevention Resources</title>
+      <link rel="icon" href="public/images/rhino.png" type="image/x-icon">
+      <style>
+          /* General Body CSS */
+          body {
+              font-family: 'Helvetica Neue', Arial, sans-serif;
+              background: #E6E6FA; /* Light lavender color to decrease stress */
+              color: #333;
+              line-height: 1.5;
+              margin: 0;
+              padding: 0;
+          }
+  
+          /* Top bar styling */
+          .top-bar {
+              display: flex;
+              justify-content: space-between;
+              padding: 20px;
+              background-color: #89CFF0; /* Baby blue color to promote calmness */
+              color: #333;
+          }
+  
+          .top-bar h1 {
+              display: flex; 
+              align-items: center; 
+              margin: 0;
+          }
+  
+          .top-bar h1 img {
+              width: 60px;
+              margin-right: 10px;
+          }
+  
+          .top-bar #counter {
+              font-size: 18px;
+              color: #333;
+          }
+  
+          /* Content CSS */
+          h1, h2 {
+              color: #3E4147;
+              font-size: 24px;
+              margin-top: 20px;
+              text-align: center;
+          }
+  
+          h2 {
+              font-size: 20px;
+              margin-top: 40px;
+          }
+  
+          ul {
+              list-style-type: none;
+              padding: 0;
+              margin-bottom: 40px;
+          }
+  
+          li {
+              margin: 20px 0;
+              text-align: center;
+          }
+  
+          a {
+              color: #0077cc;
+              text-decoration: none;
+              transition: color 0.2s;
+          }
+  
+          a:hover {
+              color: #005999;
+          }
+  
+          /* Responsive design */
+          @media (max-width: 600px) {
+              .top-bar {
+                  flex-direction: column;
+              }
+          }
+      </style>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
+  </head>
+  <body>
+      <div class="top-bar">
+          <h1>
+              <img src="public/images/rhino.png" alt="Favicon">
+              Resilient Rhino
+          </h1>
+          <p id="counter">Potential Rescues: 0</p>
+      </div>
+
+    <h1>Suicide Prevention Resources</h1>
+    <h2>Need help? Find resources for your country:</h2>
+
+    <div id="resources"></div>
+
+    <script src="countries.js"></script>
+    <script src="app.js"></script>
+    
+    <!-- Update counter value dynamically -->
+    <!-- Remove for local tests -->
+    <script>
+        // Fetch the current counter value
+        fetch('/netlify/functions/update-counter', {
+            method: 'POST'
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Update the HTML with the new counter value
+            document.getElementById('counter').textContent = "Potential Rescues: " + data.counter;
+        })
+        .catch(error => {
+            console.error('Failed to fetch the visitor counter:', error);
+        });
+    </script>
+
+</body>
+</html>
