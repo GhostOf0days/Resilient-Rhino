@@ -259,9 +259,9 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
         "Cyprus": [
             {
                 "name": "Cyprus Samaritans",
-                "url": "http://www.samaritans.org.cy/",
+                "url": "http://www.cyprussamaritans.org/",
                 "url_info": "",
-                "phone": ["00357 2 337 3737"],
+                "phone": ["8000 7773"],
                 "phone_info": ""
             },
             {
