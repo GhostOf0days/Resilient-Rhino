@@ -29,7 +29,7 @@
     <style>
         /* General Body CSS */
         body {
-            cursor: url('../public/images/mascots/cursor.cur'), auto;
+            cursor: url('../public/images/cursors/cursor.cur'), auto;
             font-family: 'Helvetica Neue', Arial, sans-serif;
             background: linear-gradient(120deg, #E6E6FA, #C9E8FF); /* Light lavender color and linear gradient to decrease stress */
             color: #333;
@@ -179,6 +179,10 @@
         background-color: #FF6E98;
         }
 
+        .cursor-fish {
+            cursor: url('../public/images/cursors/koiCursor.cur'), auto;
+        }
+
         .heart {
         position: absolute;
         width: 30px;
@@ -210,10 +214,11 @@
     <div class="top-bar">
         <h1>
             <img src="../public/images/mascots/rhino.png" alt="Favicon">
-            Resilient Rhino
+            <!-- The reason for Resilient Rhino being displayed this way is an easter egg (see fishCursor.js) -->
+            Resilien<span id="t-click" style="cursor: pointer; padding-right: 5px;" onclick="handleTClick(event)">t</span> Rhino
         </h1>
         <p id="counter">Potential Rescues (Manually Verified): 0</p>
-    </div>
+    </div>    
 
     <h1>Suicide Prevention Resources</h1>
     <h2>Need help? Find resources for your location:</h2>
@@ -230,6 +235,7 @@
     <script src="./countryCodes.js"></script>
     <script src="./app.js"></script>
     <script src="./heartsCursor.js"></script>
+    <script src="./fishCursor.js"></script>
 
     <!-- Update counter value dynamically -->
     <!-- Remove for local tests -->
