@@ -1,6 +1,7 @@
 # Redirects for static files
 /countries.js       /src/countries.js       200
 /countryCodes.js    /src/countryCodes.js    200
+/heartsCursor.js    /src/heartsCursor.js    200
 /app.js             /src/app.js             200
 /country-details.js /src/country-details.js 200
 /country-details.html /src/country-details.html 200

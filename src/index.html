@@ -162,6 +162,17 @@
         background-color: #FF6E98;
         }
 
+        .heart {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        background: url('../public/images/heart.png'); /* Replace with your heart image or SVG */
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 100;
+        transition: opacity 0.05s ease-in-out;
+    }
+
         #resources {
         display: flex;
         flex-wrap: wrap;
@@ -201,6 +212,7 @@
     <script src="./countries.js"></script>
     <script src="./countryCodes.js"></script>
     <script src="./app.js"></script>
+    <script src="./heartsCursor.js"></script>
 
     <!-- Update counter value dynamically -->
     <!-- Remove for local tests -->
