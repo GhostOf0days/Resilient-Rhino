@@ -42,6 +42,17 @@ function searchCountry() {
 const searchInput = document.getElementById('search-input');
 const searchTerm = searchInput.value.trim().toLowerCase();
 
+// MyWorld easter egg, paying homage to MyWorld winning the First Penguin Award at TartanHacks 2023
+
+// Reset the body cursor to default and remove 'cursor-fish' class
+document.body.style.cursor = "";
+document.body.classList.remove('cursor-fish');
+
+if (searchTerm === 'myworld') {
+    document.body.style.cursor = "url('../public/images/cursors/penguinCursor.cur'), auto";
+    filteredCountries = window.countries; // Ensure all countries are still displayed when this easter egg is triggered
+}
+
 const filteredCountries = window.countries.filter(country => {
     const countryName = Object.keys(country)[0].toLowerCase();
     return countryName.includes(searchTerm);
