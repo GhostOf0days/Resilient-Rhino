@@ -183,7 +183,7 @@
         position: absolute;
         width: 30px;
         height: 30px;
-        background: url('../public/images/heart.png'); /* Replace with your heart image or SVG */
+        background: url('../public/images/heart.png');
         background-size: contain;
         background-repeat: no-repeat;
         opacity: 100;
@@ -212,7 +212,7 @@
             <img src="../public/images/mascots/rhino.png" alt="Favicon">
             Resilient Rhino
         </h1>
-        <p id="counter">Potential Rescues: 0</p>
+        <p id="counter">Potential Rescues (Manually Verified): 0</p>
     </div>
 
     <h1>Suicide Prevention Resources</h1>
@@ -239,7 +239,7 @@
             .then(response => response.json())
             .then(data => {
                 const counter = document.getElementById('counter');
-                counter.textContent = `Potential Rescues: ${data.uniqueVisitors}`;
+                counter.textContent = `Potential Rescues (Manually Verified): ${data.uniqueVisitors}`;
             });
     });
     </script>
