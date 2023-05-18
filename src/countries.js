@@ -222,11 +222,158 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
                 "phone_info": ""
             },
             {
+                "name": "Lifeline China",
+                "url": "https://lifelinechina.org/",
+                "url_info": "",
+                "phone": ["400 821 1215"],
+                "phone_info": ""
+            },
+            {
                 "name": "Lifeline Shanghai",
                 "url": "http://www.lifeline-shanghai.com/",
                 "url_info": "",
                 "phone": ["021 6279 8990"],
                 "phone_info": ""
+            },
+            {
+                "name": "24小时免费心理援助热线电话",
+                "url": "",
+                "url_info": "",
+                "phone": ["020-81899120"],
+                "phone_info": "Free 24 Hour Helpline"
+            },
+            {
+                "name": "沈阳市心理援助24小时热线",
+                "url": "http://www.symhn.cn/",
+                "url_info": "",
+                "phone": ["024-23813000"],
+                "phone_info": "Shenyang Psychological Assistance 24-Hour Hotline"
+            },
+            {
+                "name": "抚州市心理援助热线",
+                "url": "http://wjw.jxfz.gov.cn/",
+                "url_info": "",
+                "phone": ["17379487044"],
+                "phone_info": "Fuzhou Psychological Assistance Hotline"
+            },
+            {
+                "name": "昆明市24小时心理热线",
+                "url": "https://www.ynjs.com.cn/gyzx/",
+                "url_info": "",
+                "phone": ["0871-65011111"],
+                "phone_info": "Kunming 24-Hour Psychological Hotline"
+            },
+            {
+                "name": "宝鸡市心理咨询",
+                "url": "http://www.bjskfyy.com/",
+                "url_info": "",
+                "phone": ["09173203366"],
+                "phone_info": "Psychological Counseling in Baoji City"
+            },
+            {
+                "name": "焦作市24小时心理援助热线",
+                "url": "http://www.jzsjsby.com/",
+                "url_info": "",
+                "phone": ["0391-3698120"],
+                "phone_info": "Jiaozuo 24-hour psychological assistance hotline"
+            },
+            {
+                "name": "“新型冠状病毒感染的肺炎”疫情防控心理援助热线",
+                "url": "http://www.kfwuyuan.com/",
+                "url_info": "Mental Hospital of Kaifeng",
+                "phone": ["400-1096096"],
+                "phone_info": "“Coronavirus” Prevention and Control Psychological Assistance Hotline"
+            },
+            {
+                "name": "许昌市“新冠肺炎”24小时心理援助热线",
+                "url": "http://www.xcsjayy.com/",
+                "url_info": "Xuchang Jianan Hospital",
+                "phone": ["0374-3361021"],
+                "phone_info": "Xuchang “Coronavirus” 24-Hour Psychological Assistance Hotline"
+            },
+            {
+                "name": "全国咨询热线",
+                "url": "http://www.hbsapc.cn/",
+                "url_info": "Hebei Psychological Consultant Association",
+                "phone": ["13722875022"],
+                "phone_info": "National Hotline"
+            },
+            {
+                "name": "天津天空心理咨询热线",
+                "url": "https://www.skyxinli.com/",
+                "url_info": "Sky Psychological Counsultation Center",
+                "phone": ["022-60877665"],
+                "phone_info": "Tianjin Sky Psychological Counseling Hotline"
+            },
+            {
+                "name": "连心公益热线",
+                "url": "http://www.ynlianxin.org/",
+                "url_info": "",
+                "phone": ["022-60877665"],
+                "phone_info": "Lianxin Charity Hotline"
+            },
+            {
+                "name": "陕西省心理热线",
+                "url": "http://www.xajwzx.com/",
+                "url_info": "",
+                "phone": ["4008960960"],
+                "phone_info": "Shaanxi Psychological Hotline"
+            },
+            {
+                "name": "大理州心理危机干预热线",
+                "url": "",
+                "url_info": "",
+                "phone": ["0872-2181525"],
+                "phone_info": "Dali State Psychological Crisis Intervention Hotline"
+            },
+            {
+                "name": "汉中市24小时心理援助热线",
+                "url": "",
+                "url_info": "",
+                "phone": ["4008096341"],
+                "phone_info": "Hanzhong City 24-Hour Psychological Assistance Hotline"
+            },
+            {
+                "name": "东港市心理援助热线",
+                "url": "http://www.cs120.com.cn/",
+                "url_info": "Donggang Psychiatric Hospital",
+                "phone": ["0415-3312000"],
+                "phone_info": "Donggang Psychological Assistance Hotline"
+            },
+            {
+                "name": "“新老师”心理咨询热线",
+                "url": "http://www.mmhcc.cn/",
+                "url_info": "",
+                "phone": ["0373-3022889"],
+                "phone_info": "“New Teacher” Psychological Counseling Hotline"
+            },
+            {
+                "name": "希望24热线",
+                "url": "http://www.hope9995.com/",
+                "url_info": "",
+                "phone": ["400-161-9995"],
+                "phone_info": "Hope 24 Hotline"
+            },
+            {
+                "name": "徐州市心理援助热线",
+                "url": "https://www.xzdfyy.com/",
+                "url_info": "Xuzhou Oriental People's Hospital",
+                "phone": ["0516-69850665", "15950665120"],
+                "phone_info": "Xuzhou Psychological Aid Hotline [Call 0516-69850665. Text 15950665120]"
+            },
+            {
+                "name": "保护妇女儿童“爱家热线”",
+                "url": "http://www.hnflw.gov.cn/",
+                "url_info": "",
+                "phone": ["18595469898"],
+                "phone_info": "Women and Children “Love Family Hotline”"
+            },
+            {
+                "name": "红枫妇女热线",
+                "url": "http://www.maple.org.cn/",
+                "url_info": "",
+                "phone": ["010-68333388"],
+                "phone_info": "Maple Women Hotline"
             },
             {
                 "name": "7 Cups",
@@ -435,7 +582,7 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
             },
             {
                 "name": "Kék Vonal Child Crisis Foundation",
-                "url": "https://keklapok.hu/",
+                "url": "https://kek-vonal.hu/",
                 "url_info": "",
                 "phone": ["116 111"],
                 "phone_info": ""
@@ -1165,6 +1312,45 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
                 "url_info": "",
                 "phone": [],
                 "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Vietnam": [
+            {
+                "name": "National Child Helpline",
+                "url": "http://tongdai111.vn/",
+                "url_info": "For youth",
+                "phone": ["111"],
+                "phone_info": ""
+            },
+            {
+                "name": "Đường dây nóng Ngày Mai",
+                "url": "https://duongdaynongngaymai.vn/",
+                "url_info": "Hotline Tomorrow",
+                "phone": ["963061414"],
+                "phone_info": ""
+            },
+            {
+                "name": "Tâm lý NQH",
+                "url": "https://tamlynqh.vn/",
+                "url_info": "",
+                "phone": ["19006186"],
+                "phone_info": ""
+            },
+            {
+                "name": "Đường dây nóng hỗ trợ người bị bạo lực giới",
+                "url": "https://csaga.org.vn/",
+                "url_info": "CSAGA Hotline for gender-based violence survivors",
+                "phone": ["024 3333 5599", "(094) 140-9119"],
+                "phone_info": "Call 024 3333 5599. Text (094) 140-9119."
             },
             {
                 "name": "7 Cups",
