@@ -217,7 +217,14 @@
     <!-- Update counter value dynamically -->
     <!-- Remove for local tests -->
     <script>
-        // ...
+    window.addEventListener('DOMContentLoaded', (event) => {
+        fetch('/.netlify/functions/fetch-analytics')
+            .then(response => response.json())
+            .then(data => {
+                const counter = document.getElementById('counter');
+                counter.textContent = `Potential Rescues: ${data.uniqueVisitors}`;
+            });
+    });
     </script>
 </body>
 </html>
