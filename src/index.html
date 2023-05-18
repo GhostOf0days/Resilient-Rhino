@@ -12,6 +12,7 @@
     <style>
         /* General Body CSS */
         body {
+            cursor: url('../public/images/mascots/cursor.cur'), auto;
             font-family: 'Helvetica Neue', Arial, sans-serif;
             background: linear-gradient(120deg, #E6E6FA, #C9E8FF); /* Light lavender color and linear gradient to decrease stress */
             color: #333;
@@ -167,7 +168,6 @@
         justify-content: center;
     }
 
-
         /* Responsive design */
         @media (max-width: 600px) {
             .top-bar {
@@ -191,6 +191,7 @@
     <h2>Need help? Find resources for your location:</h2>
 
     <div class="search-bar">
+        <img src="../public/images/mascots/rhinoHeart.png" alt="Image" style="width: 75px; height: 75px; margin-right: 10px;">
         <input type="text" id="search-input" placeholder="Search for a country">
         <button type="button" onclick="searchCountry()">Search</button>
       </div>      
