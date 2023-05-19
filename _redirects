@@ -9,6 +9,8 @@
 /country-details.html /src/country-details.html 200
 /country-details.css /src/country-details.css 200
 /country-details.js /src/country-details.js 200
+/googleAnalytics.js /src/googleAnalytics.js 200
+/potentialRescues.js /src/potentialRescues.js 200
 
 # Redirects for individual country detail pages; MAY HAVE TO BE TWEAKED (ALSO LOOK AT FIRST FUNCTION IN APP.JS) FOR SPECIAL CHARACTERS
 /country-details.html?country=argentina   /src/country-details.html?country=argentina   200

@@ -1,7 +1,7 @@
 exports.handler = async () => {
-    const uniqueVisitors = process.env.UNIQUE_VISITORS;
+    const potentialRescues = process.env.POTENTIAL_RESCUES;
     return {
       statusCode: 200,
-      body: JSON.stringify({ uniqueVisitors })
+      body: JSON.stringify({ potentialRescues })
     };
   };  
