@@ -48,7 +48,7 @@ const searchTerm = searchInput.value.trim().toLowerCase();
 document.body.classList.remove('cursor-fish');
 
 if (searchTerm === 'myworld') {
-    document.body.style.cursor = "url('../public/images/cursors/penguinCursor.cur'), auto";
+    document.body.style.cursor = "url('../public/cursors/penguinCursor.cur'), auto";
     // Ensure all countries are still displayed when the MyWorld easter egg is triggered
     displayCountryCards(window.countries);
     return;

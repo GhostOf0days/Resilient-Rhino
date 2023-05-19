@@ -1,8 +1,8 @@
-document.body.addEventListener('mousemove', function(e) {
+document.body.addEventListener('mousemove', function(event) {
     let heart = document.createElement('div');
     heart.classList.add('heart');
-    heart.style.left = (e.pageX - 15) + 'px'; // Position the heart at the cursor's x position
-    heart.style.top = (e.pageY - 15) + 'px'; // Position the heart at the cursor's y position
+    heart.style.left = (event.pageX - 15) + 'px'; // Position the heart at the cursor's x position
+    heart.style.top = (event.pageY - 15) + 'px'; // Position the heart at the cursor's y position
     heart.style.pointerEvents = 'none';
     document.body.appendChild(heart);
 
