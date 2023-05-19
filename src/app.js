@@ -58,6 +58,11 @@ const filteredCountries = window.countries.filter(country => {
     return countryName.includes(searchTerm);
 });
 
+if (filteredCountries.length === 0) {
+    displayCountryCards(window.countries);
+    return;
+}
+
 displayCountryCards(filteredCountries);
 }
 
