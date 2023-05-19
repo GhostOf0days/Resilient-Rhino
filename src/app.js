@@ -44,8 +44,7 @@ const searchTerm = searchInput.value.trim().toLowerCase();
 
 // MyWorld easter egg, paying homage to MyWorld winning the First Penguin Award at TartanHacks 2023
 
-// Reset the body cursor to default and remove 'cursor-fish' class
-document.body.style.cursor = "";
+// Remove 'cursor-fish' class
 document.body.classList.remove('cursor-fish');
 
 if (searchTerm === 'myworld') {
