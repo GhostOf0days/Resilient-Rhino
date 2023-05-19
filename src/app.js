@@ -50,7 +50,9 @@ document.body.classList.remove('cursor-fish');
 
 if (searchTerm === 'myworld') {
     document.body.style.cursor = "url('../public/images/cursors/penguinCursor.cur'), auto";
-    filteredCountries = window.countries; // Ensure all countries are still displayed when this easter egg is triggered
+    // Ensure all countries are still displayed when the MyWorld easter egg is triggered
+    displayCountryCards(window.countries);
+    return;
 }
 
 const filteredCountries = window.countries.filter(country => {
@@ -58,7 +60,7 @@ const filteredCountries = window.countries.filter(country => {
     return countryName.includes(searchTerm);
 });
 
-if (filteredCountries.length === 0) {
+if (filteredCountries.length === 0) { 
     displayCountryCards(window.countries);
     return;
 }
