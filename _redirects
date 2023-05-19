@@ -1,12 +1,14 @@
 # Redirects for static files
+/home.css       /src/home.css       200
 /countries.js       /src/countries.js       200
 /countryCodes.js    /src/countryCodes.js    200
 /heartsEffect.js    /src/heartsEffect.js    200
 /penguinCursor.js    /src/penguinCursor.js    200
 /fishCursor.js    /src/fishCursor.js    200
 /app.js             /src/app.js             200
-/country-details.js /src/country-details.js 200
 /country-details.html /src/country-details.html 200
+/country-details.css /src/country-details.css 200
+/country-details.js /src/country-details.js 200
 
 # Redirects for individual country detail pages; MAY HAVE TO BE TWEAKED (ALSO LOOK AT FIRST FUNCTION IN APP.JS) FOR SPECIAL CHARACTERS
 /country-details.html?country=argentina   /src/country-details.html?country=argentina   200
@@ -63,4 +65,4 @@
 /country-details.html?country=zimbabwe   /src/country-details.html?country=zimbabwe   200
 
 # Redirects for routes
-/*    /src/index.html    200
+/*    /src/home.html    200

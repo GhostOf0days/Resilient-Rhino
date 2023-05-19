@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Analytics tracking code -->
+    <!-- Remove for local tests -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        // Update the tracking ID dynamically
+        fetch('/.netlify/functions/google-analytics-tracking-id')
+          .then(response => response.json())
+          .then(data => {
+            const trackingId = data.trackingId;
+            gtag('config', trackingId);
+
+            const scriptElement = document.createElement('script');
+            scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${trackingId}`;
+            document.head.appendChild(scriptElement);
+          })
+          .catch(error => {
+            console.error('Failed to fetch Google Analytics tracking ID:', error);
+          });
+    </script>
+      
+    <title>Resilient Rhino - Suicide Prevention Resources</title>
+    <link rel="icon" href="../public/images/mascots/rhino.png" type="image/x-icon">
+    <!-- Flag Icon CSS library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
+    <link rel="stylesheet" href="./home.css">
+</head>
+<body>
+    <div class="top-bar">
+        <h1>
+            <img src="../public/images/mascots/rhino.png" alt="Favicon">
+            <!-- The reason for Resilient Rhino being displayed this way is an easter egg (see fishCursor.js) -->
+            Resilien<span id="t-click" style="cursor: pointer; padding-right: 5px;" onclick="handleTClick(event)">t</span> Rhino
+        </h1>
+        <p id="counter">Potential Rescues (Manually Verified): 0</p>
+    </div>    
+
+    <h1>Suicide Prevention Resources</h1>
+    <h2>Need help? Find resources for your location:</h2>
+
+    <div class="search-bar">
+        <img src="../public/images/mascots/rhinoHeart.png" alt="Image" style="width: 75px; height: 75px; margin-right: 10px;">
+        <input type="text" id="search-input" placeholder="Search for a country">
+        <button type="button" onclick="searchCountry()">Search</button>
+      </div>      
+
+    <div id="resources"></div>
+
+    <script src="./countries.js"></script>
+    <script src="./countryCodes.js"></script>
+    <script src="./app.js"></script>
+    <script src="./heartsEffect.js"></script>
+    <script src="./fishCursor.js"></script>
+
+    <!-- Update counter value dynamically -->
+    <!-- Remove for local tests -->
+    <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        fetch('/.netlify/functions/fetch-analytics')
+            .then(response => response.json())
+            .then(data => {
+                const counter = document.getElementById('counter');
+                counter.textContent = `Potential Rescues (Manually Verified): ${data.uniqueVisitors}`;
+            });
+    });
+    </script>
+</body>
+</html>
