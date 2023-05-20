@@ -12,6 +12,8 @@ window.animeCursors = {
     'Megumin Cursor (Konosuba)': '../public/cursors/anime/meguminCursor.cur',
     'Mitsuha Miyamizu Cursor (Your Name)': '../public/cursors/anime/mitsuhaMiyamizuCursor.cur',
     'Pochita Cursor (Chainsaw Man)': '../public/cursors/anime/pochitaCursor.cur',
+    'Totoro Cursor (My Neighbor Totoro)': '../public/cursors/anime/totoroCursor.cur',
+    'Totoro And Friends Cursor (My Neighbor Totoro)': '../public/cursors/anime/totoroAndFriendsCursor.cur',
     'Totoro Umbrella Cursor (My Neighbor Totoro)': '../public/cursors/anime/totoroUmbrellaCursor.cur',
     'Totoro Umbrella Version 2 Cursor (My Neighbor Totoro)': '../public/cursors/anime/totoroUmbrellaVersion2Cursor.cur',
 };
