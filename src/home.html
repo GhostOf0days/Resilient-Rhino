@@ -9,6 +9,7 @@
     <!-- Flag Icon CSS library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
     <link rel="stylesheet" href="./home.css">
+    <link rel="stylesheet" href="./animeCursorDropdown.css">
 </head>
 <body>
     <div class="top-bar">
@@ -27,7 +28,13 @@
         <img src="../public/images/mascots/rhinoHeart.png" alt="Image" style="width: 75px; height: 75px; margin-right: 10px;">
         <input type="text" id="search-input" placeholder="Search for a country" onkeydown="if (event.keyCode === 13 || event.key === 'Enter') searchCountry()">
         <button type="button" onclick="searchCountry()">Search</button>
-      </div>      
+    </div>
+    
+    <!-- Anime easter egg (see animeCursors.js and app.js) -->
+    <div id="anime-dropdown-container" class="anime-dropdown-container">
+        <button id="anime-dropdown-button" class="anime-dropdown-button" onclick="toggleDropdown()">Select an Anime Cursor</button>
+        <ul id="anime-dropdown-list" class="anime-dropdown-list"></ul>
+    </div>
 
     <div id="resources"></div>
 
