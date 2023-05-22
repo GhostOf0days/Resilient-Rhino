@@ -17,9 +17,9 @@ if (countryName) {
       <ul>
         ${countryResources.map(resource => `
           <li>
-            <a href="${resource.url}" target="_blank">${resource.name}</a>
+            ${resource.url ? `<a href="${resource.url}" target="_blank">${resource.name}</a>` : resource.name}
             ${resource.url_info ? ` (${resource.url_info})` : ''}
-            ${resource.phone.length > 0 ? ` - Phone: ${resource.phone.map(phone => `<a href="tel:${phone}">${phone}</a>`).join(' or ')}` : ''}
+            ${resource.phone.length > 0 ? ` - Phone: ${resource.phone.map(phone => phone ? `<a href="tel:${phone}">${phone}</a>` : phone).join(' or ')}` : ''}
             ${resource.phone_info ? ` (${resource.phone_info})` : ''}
           </li>
         `).join('')}
