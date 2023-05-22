@@ -129,8 +129,8 @@
 
     /* Disclaimer styling */
     #disclaimer {
-        max-width: 400px;
-        margin: 10px auto;
+        width: 70%;
+        margin: 20px auto;
         padding: 10px;
         background-color: #FFF;
         border-radius: 10px;

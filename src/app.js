@@ -35,6 +35,14 @@ function displayCountryDetails(countryName) {
   
       resourcesDiv.appendChild(countryCard);
     });
+
+    const disclaimer = document.getElementById('disclaimer');
+    if (countries.length === window.countries.length) {
+      disclaimer.style.display = 'block';
+    } else {
+      disclaimer.style.display = 'none';
+    }
+
   }
   
   function displayAnimeCursorsDropdown() {
