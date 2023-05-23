@@ -167,6 +167,28 @@
 
     .search-bar button:hover {
     background-color: #FF6E98;
+    } 
+    
+    /* Quick exit button styling */
+    .quick-exit-button {
+        margin-left: 10px;
+        top: 20px;
+        right: 46%;
+        border: none;
+        outline: none;
+        padding: 10px 20px;
+        margin: 10px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #FFF;
+        background-color: #FF4081;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+    }
+    
+    .quick-exit-button:hover {
+        background-color: #FF6E98;
     }   
 
     .cursor-fish {

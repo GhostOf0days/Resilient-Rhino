@@ -1,6 +1,8 @@
 # Redirects for static files
 /home.css       /src/home.css       200
 /animeCursorDropdown.css /src/animeCursorDropdown.css 200
+/refresh.html /src/refresh.html 200
+/quickExit.js /src/quickExit.js 200
 /countries.js       /src/countries.js       200
 /countryCodes.js    /src/countryCodes.js    200
 /countryNicknames.js /src/countryNicknames.js 200

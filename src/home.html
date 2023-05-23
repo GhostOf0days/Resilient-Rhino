@@ -36,12 +36,16 @@
     <link rel="stylesheet" href="./animeCursorDropdown.css">
 </head>
 <body>
+
+    <script src="./quickExit.js"></script>
+
     <div class="top-bar">
         <h1>
             <img src="../public/images/mascots/rhino.png" alt="Favicon">
             <!-- The reason for Resilient Rhino being displayed this way is an easter egg (see fishCursor.js) -->
             Resilien<span id="t-click" style="cursor: pointer; padding-right: 5px;" onclick="handleTClick(event)">t</span> Rhino
         </h1>
+        <button class="quick-exit-button" onclick="window.handleQuickExit()">Quick Exit</button>
         <p>Try to find the easter eggs! 😄</p>
         <p id="counter">Potential Rescues (Manually Verified): 0</p>
     </div> 
