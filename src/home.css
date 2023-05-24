@@ -31,6 +31,12 @@
         margin-right: 10px;
     }
 
+    .top-bar p {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-size: 18px;
+        color: #333;
+    }
+
     .top-bar #counter {
         font-family: 'Helvetica Neue', Arial, sans-serif;
         font-size: 18px;
