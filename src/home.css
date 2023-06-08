@@ -32,13 +32,13 @@
     }
 
     .top-bar p {
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: 'Fira Sans', sans-serif;
         font-size: 18px;
         color: #333;
     }
 
     .top-bar #counter {
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: 'Fira Sans', sans-serif;
         font-size: 18px;
         color: #333;
     }
