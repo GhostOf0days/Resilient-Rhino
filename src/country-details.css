@@ -117,7 +117,7 @@
   
       /* Add custom styles for the scrollbar */
       ::-webkit-scrollbar {
-      width: 10px; /* Set the width of the scrollbar */
+        width: 10px; /* Set the width of the scrollbar */
       }
   
       ::-webkit-scrollbar-track {
