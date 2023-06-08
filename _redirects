@@ -1,3 +1,6 @@
+# Ensure the user doesn't see .html
+/* /:splat.html 200
+
 # Redirects for static files
 /home.css       /src/home.css 200
 /animeCursorDropdown.css /src/animeCursorDropdown.css 200

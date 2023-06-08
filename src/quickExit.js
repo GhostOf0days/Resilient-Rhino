@@ -1,3 +1,3 @@
 window.handleQuickExit = function() {
-    window.location.href = "refresh.html";
+    window.location.href = "./refresh.html";
 };
