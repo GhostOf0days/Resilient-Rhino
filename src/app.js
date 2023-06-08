@@ -1,3 +1,17 @@
+
+/* Service worker registration */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/service-worker.js')
+    .then(function(registration) {
+      console.log('Service Worker is registered', registration);
+    })
+    .catch(function(error) {
+      console.log('Service Worker registration failed:', error);
+    });
+  });
+}
+
 function displayCountryDetails(countryName) {
     window.location.href = `country-details.html?country=${encodeURIComponent(countryName)}`;
   }
