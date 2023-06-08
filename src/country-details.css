@@ -93,12 +93,12 @@
         border-radius: 30px;
         cursor: pointer;
         transition: background-color 0.2s;
-    }
-    
-    .quick-exit-button:hover {
+      }
+      
+      .quick-exit-button:hover {
         background-color: #FF6E98;
-    }
-  
+      }
+    
       /* Flag Icon CSS */
       .flag-icon {
         vertical-align: middle;
@@ -117,7 +117,7 @@
   
       /* Add custom styles for the scrollbar */
       ::-webkit-scrollbar {
-        width: 10px; /* Set the width of the scrollbar */
+          width: 10px; /* Set the width of the scrollbar */
       }
   
       ::-webkit-scrollbar-track {
@@ -144,4 +144,15 @@
       /* Apply the animation to the scrollbar thumb */
       ::-webkit-scrollbar-thumb {
           animation: cuteScrollbar 1.5s infinite; /* Apply the animation */
+      }
+
+      /* Selection */
+      ::-moz-selection { /* Code for Firefox */
+          color: white;
+          background: #DAB6FF;
+      }
+      
+      ::selection {
+          color: white;
+          background: #DAB6FF;
       }

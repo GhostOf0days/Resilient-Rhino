@@ -64,3 +64,14 @@
     #anime-dropdown-button:active {
         transform: translateY(1px);
     }
+
+    /* Selection */
+    ::-moz-selection { /* Code for Firefox */
+        color: white;
+        background: #DAB6FF;
+    }
+    
+    ::selection {
+        color: white;
+        background: #DAB6FF;
+    }
