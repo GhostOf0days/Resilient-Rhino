@@ -1,0 +1,35 @@
+{
+"name": "Resilient Rhino",
+"short_name": "Resilient Rhino",
+"start_url": "https://resilientrhino.org/",
+"display": "standalone",
+"description": "Resilient Rhino is a global resource platform providing local suicide prevention hotlines, counseling resources, and mental health support.",
+"lang": "en",
+"dir": "auto",
+"theme_color": "#000000",
+"background_color": "#000000",
+"orientation": "any",
+"icons": [
+    {
+        "src": "./public/images/mascots/rhinoMascot_512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "./public/images/mascots/rhinoMascot_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "./public/images/homeScreenshot.png",
+        "sizes": "3840x1840",
+        "type": "image/png",
+        "description": "A screenshot of the home page"
+    }
+],
+"prefer_related_applications": false
+}
