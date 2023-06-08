@@ -12,10 +12,17 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
                 "phone_info": ""
             },
             {
+                "name": "Linea de Prevencion Del Suicido",
+                "url": "https://www.asistenciaalsuicida.org.ar/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
                 "name": "7 Cups",
                 "url": "https://www.7cups.com/",
                 "url_info": "",
-                "phone": [],
+                "phone": ["0800 345 1435"],
                 "phone_info": ""
             }
         ]
@@ -37,6 +44,104 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
                 "phone_info": ""
             },
             {
+                "name": "SANE Australia",
+                "url": "https://www.sane.org",
+                "url_info": "",
+                "phone": ["1800 187 263"],
+                "phone_info": ""
+            },
+            {
+                "name": "Beyond Blue",
+                "url": "https://www.online.beyondblue.org.au",
+                "url_info": "",
+                "phone": ["1300 22 4636"],
+                "phone_info": ""
+            },
+            {
+                "name": "Beyond Blue Coronavirus Mental Health Wellbeing Support Service",
+                "url": "https://www.coronavirus.beyondblue.org.au",
+                "url_info": "",
+                "phone": ["1800 512 348"],
+                "phone_info": ""
+            },
+            {
+                "name": "Support Act Wellbeing Helpline",
+                "url": "https://www.supportact.org.au",
+                "url_info": "",
+                "phone": ["1800 959 500"],
+                "phone_info": ""
+            },
+            {
+                "name": "Listening Ear",
+                "url": "https://www.listeningear.org.au",
+                "url_info": "",
+                "phone": ["02 9477 6777"],
+                "phone_info": ""
+            },
+            {
+                "name": "Counselling Online",
+                "url": "https://www.counsellingonline.org.au",
+                "url_info": "",
+                "phone": [""],
+                "phone_info": ""
+            },
+            {
+                "name": "PANDA(Perinatal Anxiety and Depression Australia",
+                "url": "https://www.panda.org.au",
+                "url_info": "",
+                "phone": ["1300 726 306"],
+                "phone_info": ""
+            },
+            {
+                "name": "Wellways Helpline",
+                "url": "https://www.wellways.org",
+                "url_info": "",
+                "phone": ["1300 111 500"],
+                "phone_info": ""
+            },
+            {
+                "name": "Kids Helpline",
+                "url": "https://kidshelpline.com.au",
+                "url_info": "",
+                "phone": ["1800 55 1800"],
+                "phone_info": ""
+            },
+            {
+                "name": "eheadspace",
+                "url": "https://www.headspace.org.au",
+                "url_info": "",
+                "phone": ["1800 650 890"],
+                "phone_info": ""
+            },
+            {
+                "name": "MensLine",
+                "url": "https://www.mensline.org.au",
+                "url_info": "",
+                "phone": ["1300 65 94 67"],
+                "phone_info": ""
+            },
+            {
+                "name": "Support Act First Nations Dedicated Support Line",
+                "url": "https://www.supportact.org.au",
+                "url_info": "",
+                "phone": ["1800 959 500"],
+                "phone_info": ""
+            },
+            {
+                "name": "TIACS",
+                "url": "https://www.tiacs.org",
+                "url_info": "",
+                "phone": ["0488846988"],
+                "phone_info": ""
+            },
+            {
+                "name": "Open Arms - Veterans & Families Counselling",
+                "url": "https://www.openarms.org.au",
+                "url_info": "",
+                "phone": ["1800 011 046"],
+                "phone_info": ""
+            },
+            {
                 "name": "7 Cups",
                 "url": "https://www.7cups.com/",
                 "url_info": "",
@@ -48,19 +153,55 @@ window.countries = [ //CHANGE TO CONST.COUNTRIES AFTER FIXINGIMPORT AND EXPORT N
     {
         "Austria": [
             {
-                "name": "Rat auf Draht",
-                "url": "http://www.rataufdraht.at/",
-                "url_info": "",
-                "phone": ["147"],
-                "phone_info": ""
-            },
-            {
                 "name": "Telefonseelsorge",
                 "url": "https://www.telefonseelsorge.at/",
                 "url_info": "",
                 "phone": ["142"],
                 "phone_info": ""
             },
+            {
+                "name": "TelefonSeelsorge - Notruf 142",
+                "url": "https://www.telefonseelsorge.at",
+                "url_info": "",
+                "phone": [""],
+                "phone_info": ""
+            },
+            {
+                "name": "Rat auf Draht",
+                "url": "https://www.rataufdraht.at",
+                "url_info": "",
+                "phone": ["1800 187 263"],
+                "phone_info": ""
+            },
+            {
+                "name": "time4friends",
+                "url": "https://www.get-social.at",
+                "url_info": "",
+                "phone": ["0664 1070 144"],
+                "phone_info": ""
+            },
+            {
+                "name": "Pro Mente Vorarlberg",
+                "url": "https://www.promente-v.at.",
+                "url_info": "",
+                "phone": ["05525-63829"],
+                "phone_info": ""
+            },
+            {
+                "name": "time4friends",
+                "url": "https://www.get-social.at",
+                "url_info": "",
+                "phone": ["0664 1070 144"],
+                "phone_info": ""
+            },
+            {
+                "name": "NÖ Frauentelefon",
+                "url": "https://www.hilfswerk.at",
+                "url_info": "",
+                "phone": ["0800 800 810"],
+                "phone_info": ""
+            },
+            
             {
                 "name": "7 Cups",
                 "url": "https://www.7cups.com/",
