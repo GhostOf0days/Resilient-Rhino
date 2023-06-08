@@ -20,6 +20,10 @@
         color: #333;
     }
 
+    .top-bar img {
+        border-radius: 10px;
+    }
+
     .top-bar h1 {
         display: flex; 
         align-items: center; 
