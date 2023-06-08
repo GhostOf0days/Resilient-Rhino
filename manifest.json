@@ -1,7 +1,7 @@
 {
 "name": "Resilient Rhino",
 "short_name": "Resilient Rhino",
-"start_url": "https://resilientrhino.org/",
+"start_url": "/",
 "display": "standalone",
 "description": "Resilient Rhino is a global resource platform providing local suicide prevention hotlines, counseling resources, and mental health support.",
 "lang": "en",
