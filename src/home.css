@@ -136,6 +136,8 @@
 
     /* Disclaimer styling */
     #disclaimer {
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 14px;
         width: 70%;
         margin: 20px auto;
         padding: 10px;
@@ -143,7 +145,6 @@
         border-radius: 10px;
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
         text-align: center;
-        font-size: 14px;
     }
 
     /* Search bar styling */
@@ -263,5 +264,17 @@
     @media (max-width: 600px) {
         .top-bar {
             flex-direction: column;
+        }
+    
+        .top-bar h1, .top-bar p, #counter {
+            text-align: center;
+        }
+
+        .top-bar h1 {
+            justify-content: center;
+        }
+
+        h2 {
+            font-size: 18px;
         }
     }
