@@ -2,12 +2,15 @@
 /* Service worker registration */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/service-worker.js')
-    .then(function(registration) {
-      console.log('Service Worker is registered', registration);
+    Promise.all([
+      navigator.serviceWorker.register('./service-worker.js'),
+      navigator.serviceWorker.register('./service-worker-offline.js')
+    ])
+    .then(function(registrations) {
+      console.log('Service Workers are registered', registrations);
     })
-    .catch(function(error) {
-      console.log('Service Worker registration failed:', error);
+    .catch(function(errors) {
+      console.log('Service Worker registration failed:', errors);
     });
   });
 }

@@ -19,6 +19,7 @@
 /googleAnalytics.js /src/googleAnalytics.js 200
 /potentialRescues.js /src/potentialRescues.js 200
 /service-worker.js /src/service-worker.js 200
+/service-worker-offline.js /src/service-worker-offline.js 200
 
 # Redirects for individual country detail pages; MAY HAVE TO BE TWEAKED (ALSO LOOK AT FIRST FUNCTION IN APP.JS) FOR SPECIAL CHARACTERS
 /country-details.html?country=argentina   /src/country-details.html?country=argentina   200
