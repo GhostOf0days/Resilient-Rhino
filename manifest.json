@@ -11,23 +11,23 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "./public/images/mascots/rhinoMascot_512.png",
+        "src": "./public/images/mascots/rhinoMascot_512.webp",
         "sizes": "512x512",
-        "type": "image/png",
+        "type": "image/webp",
         "purpose": "maskable"
     },
     {
-        "src": "./public/images/mascots/rhinoMascot_192.png",
+        "src": "./public/images/mascots/rhinoMascot_192.webp",
         "sizes": "192x192",
-        "type": "image/png",
+        "type": "image/webp",
         "purpose": "any"
     }
 ],
 "screenshots": [
     {
-        "src": "./public/images/homeScreenshot.png",
+        "src": "./public/images/homeScreenshot.webp",
         "sizes": "3840x1840",
-        "type": "image/png",
+        "type": "image/webp",
         "description": "A screenshot of the home page"
     }
 ],

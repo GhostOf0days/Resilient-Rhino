@@ -109,7 +109,7 @@
         position: absolute;
         width: 30px;
         height: 30px;
-        background: url('../../public/images/lightHeart.png');
+        background: url('../../public/images/lightHeart.webp');
         background-size: contain;
         background-repeat: no-repeat;
         opacity: 1;
