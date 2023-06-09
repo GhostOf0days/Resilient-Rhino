@@ -343,5 +343,5 @@ for country in countrycodes:
     if len(countrydata) > 0:
         output[countrycode] = countrydata
 
-with open('output.json','w') as f:
+with open('scraped.json','w') as f:
     f.write(json.dumps(output,indent=4))
