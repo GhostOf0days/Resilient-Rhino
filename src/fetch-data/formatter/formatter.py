@@ -266,11 +266,29 @@ def format_json_file(input_file, output_file):
             new_item['phone'] = []
             new_item['phone_info'] = ''
 
+            call = False
+            text = False
+            text_numbers = []
+
             for link in item['links']:
-                if link.startswith('tel:'):
+                if link.startswith('tel:') or link.startswith('sms:'):
+                    if link.startswith('tel:'):
+                        call = True
+                        call_number = link.replace('tel:','').strip()
+                    if link.startswith('sms:'):
+                        text = True
+                        text_numbers.append(link.replace('sms:','').strip())
                     new_item['phone'].append(link[4:])
                 else:
                     new_item['url'] = link
+            for number in text_numbers:
+                if (len(new_item['phone_info']) > 0):
+                    new_item['phone_info'] += (' ')
+                new_item['phone_info'] += (f"Text {number}.")
+            if (call) and (text):
+                if (len(new_item['phone_info']) > 0):
+                    new_item['phone_info'] += (' ')
+                new_item['phone_info'] += (f"Call {call_number}.")
             
             country_data[country_name].append(new_item)
 

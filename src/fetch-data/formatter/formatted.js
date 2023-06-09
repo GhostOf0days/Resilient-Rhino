@@ -98,9 +98,10 @@ window.formatted = [
 	            "url": "https://www.lifeline.org.au",
 	            "url_info": "",
 	            "phone": [
+	                "0477 13 11 14",
 	                "13 11 14"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 0477 13 11 14. Call 13 11 14."
 	        },
 	        {
 	            "name": "PANDA (Perinatal Anxiety and Depression Australia)",
@@ -140,12 +141,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "MensLine",
-	            "url": "sms:1300 65 94 67",
+	            "url": "https://mensline.org.au/phone-and-online-counselling/",
 	            "url_info": "",
 	            "phone": [
+	                "1300 65 94 67",
 	                "1300 78 99 78"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 1300 65 94 67. Call 1300 78 99 78."
 	        },
 	        {
 	            "name": "Support Act First Nations Dedicated Support Line",
@@ -161,9 +163,10 @@ window.formatted = [
 	            "url": "https://www.tiacs.org/",
 	            "url_info": "",
 	            "phone": [
+	                "0488846988",
 	                "0488846988"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 0488846988. Call 0488846988."
 	        },
 	        {
 	            "name": "Open Arms - Veterans & Families Counselling",
@@ -223,10 +226,12 @@ window.formatted = [
 	        },
 	        {
 	            "name": "time4friends",
-	            "url": "sms:0664-1070-144",
+	            "url": "https://www.get-social.at/time4friends",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "0664-1070-144"
+	            ],
+	            "phone_info": "Text 0664-1070-144."
 	        },
 	        {
 	            "name": "Pro Mente Vorarlberg - Sozialpsychiatrischer Dienst, Anlaufstelle Jugendliche Nenzing",
@@ -374,9 +379,10 @@ window.formatted = [
 	            "url": "https://bpwbarbados.wordpress.com/",
 	            "url_info": "",
 	            "phone": [
-	                "(246) 435-8222"
+	                "(246) 435-8222",
+	                "(246) 845-0623"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (246) 845-0623. Call (246) 435-8222."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -391,12 +397,13 @@ window.formatted = [
 	    "Belarus": [
 	        {
 	            "name": "Телефон доверия экстренной психологической помощи",
-	            "url": "sms:375 (29) 101-73-73",
+	            "url": "https://mokc.by/",
 	            "url_info": "",
 	            "phone": [
-	                "375 (17) 311-00-99"
+	                "375 (17) 311-00-99",
+	                "375 (29) 101-73-73"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 375 (29) 101-73-73. Call 375 (17) 311-00-99."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -557,9 +564,10 @@ window.formatted = [
 	            "url": "https://humanhealthaid.com/",
 	            "url_info": "",
 	            "phone": [
+	                "+25769776367",
 	                "+25769776367"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +25769776367. Call +25769776367."
 	        },
 	        {
 	            "name": "SOS FED - SOS Femmes en Detresse",
@@ -603,19 +611,22 @@ window.formatted = [
 	    "Canada": [
 	        {
 	            "name": "Kids Help Phone",
-	            "url": "sms:686868",
+	            "url": "https://kidshelpphone.ca/live-chat-counselling/",
 	            "url_info": "",
 	            "phone": [
-	                "1-800-668-6868"
+	                "1-800-668-6868",
+	                "686868"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 686868. Call 1-800-668-6868."
 	        },
 	        {
 	            "name": "Youthspace.ca",
 	            "url": "https://youthspace.ca/",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "(778) 783-0177"
+	            ],
+	            "phone_info": "Text (778) 783-0177."
 	        },
 	        {
 	            "name": "First Nations and Inuit Hope for Wellness Helpline",
@@ -665,18 +676,20 @@ window.formatted = [
 	            "url": "https://talksuicide.ca/",
 	            "url_info": "",
 	            "phone": [
+	                "45645",
 	                "1-833-456-4566"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 45645. Call 1-833-456-4566."
 	        },
 	        {
 	            "name": "Naseeha Mental Helpline",
-	            "url": "sms:1-866-627-3342",
+	            "url": "https://naseeha.org/",
 	            "url_info": "",
 	            "phone": [
+	                "1-866-627-3342",
 	                "1-866-627-3342"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 1-866-627-3342. Call 1-866-627-3342."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -876,9 +889,10 @@ window.formatted = [
 	            "url": "https://www.xzdfyy.com/",
 	            "url_info": "",
 	            "phone": [
+	                "15950665120",
 	                "0516-69850665"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 15950665120. Call 0516-69850665."
 	        },
 	        {
 	            "name": "宝鸡市心理咨询 Psychological Counseling in Baoji City",
@@ -1137,12 +1151,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "BørneTelefonen",
-	            "url": "sms:116 111",
+	            "url": "https://bornetelefonen.dk/",
 	            "url_info": "",
 	            "phone": [
+	                "116 111",
 	                "116 111"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 116 111. Call 116 111."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -1226,21 +1241,23 @@ window.formatted = [
 	    "Ecuador": [
 	        {
 	            "name": "Anima EC",
-	            "url": "sms:(593) 99 719 6911",
+	            "url": "https://institutoneurociencias.med.ec/",
 	            "url_info": "",
 	            "phone": [
+	                "(593) 99 719 6911",
 	                "(593) 99 719 6911"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (593) 99 719 6911. Call (593) 99 719 6911."
 	        },
 	        {
 	            "name": "Linea de Apoyo a Mujeres, para enfrentar la violencia NO ESTAMOS SOLAS",
 	            "url": "https://www.facebook.com/lineadeapoyo/",
 	            "url_info": "",
 	            "phone": [
-	                "2832817"
+	                "2832817",
+	                "958934487"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 958934487. Call 2832817."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -1370,9 +1387,10 @@ window.formatted = [
 	            "url": "http://empowerpacific.com/",
 	            "url_info": "",
 	            "phone": [
+	                "2937141",
 	                "5626"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 2937141. Call 5626."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -1590,18 +1608,20 @@ window.formatted = [
 	            "url": "https://cfcv.asso.fr/",
 	            "url_info": "",
 	            "phone": [
-	                "0-800-05-95-95"
+	                "0-800-05-95-95",
+	                "114"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 114. Call 0-800-05-95-95."
 	        },
 	        {
 	            "name": "Fondation Le Refuge (Ligne pour les jeunes LGBT+)",
-	            "url": "sms:06 31 59 69 50",
+	            "url": "https://www.le-refuge.org/",
 	            "url_info": "",
 	            "phone": [
+	                "06 31 59 69 50",
 	                "06 31 59 69 50"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 06 31 59 69 50. Call 06 31 59 69 50."
 	        },
 	        {
 	            "name": "Fil Santé Jeunes",
@@ -1726,12 +1746,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Childline Gibraltar",
-	            "url": "sms:58008288",
+	            "url": "https://childline.gi/",
 	            "url_info": "",
 	            "phone": [
-	                "8008"
+	                "8008",
+	                "58008288"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 58008288. Call 8008."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -1804,12 +1825,13 @@ window.formatted = [
 	    "Guyana": [
 	        {
 	            "name": "Inter-agency Suicide Prevention Help Line",
-	            "url": "sms:623-4444",
+	            "url": "https://www.facebook.com/pages/category/Community/Guyana-Inter-Agency-Suicide-Prevention-Helpline-1479461159034151/",
 	            "url_info": "",
 	            "phone": [
+	                "623-4444",
 	                "(592) 600-7896"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 623-4444. Call (592) 600-7896."
 	        },
 	        {
 	            "name": "Guyana 24-Hr Crisis Hotline",
@@ -2107,9 +2129,10 @@ window.formatted = [
 	            "url": "https://ngchandrancharities.org/",
 	            "url_info": "",
 	            "phone": [
-	                "1800 121 203040"
+	                "1800 121 203040",
+	                "+91 8489512307"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +91 8489512307. Call 1800 121 203040."
 	        },
 	        {
 	            "name": "MPower Mind Matters , 24/7 Mental Health Support Helpline",
@@ -2149,12 +2172,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Snehi Helpline, Crisis intervention counselling support",
-	            "url": "sms:9582208181",
+	            "url": "https://www.snehi.org.in/",
 	            "url_info": "",
 	            "phone": [
+	                "9582208181",
 	                "9582208181"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 9582208181. Call 9582208181."
 	        },
 	        {
 	            "name": "iCALL",
@@ -2221,12 +2245,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Vandrevala Foundation crisis intervention helpline",
-	            "url": "sms:+91 9999 666 555",
+	            "url": "https://www.vandrevalafoundation.com",
 	            "url_info": "",
 	            "phone": [
+	                "+91 9999 666 555",
 	                "+91 9999 666 555"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +91 9999 666 555. Call +91 9999 666 555."
 	        },
 	        {
 	            "name": "Mann Talks",
@@ -2277,10 +2302,12 @@ window.formatted = [
 	    "Ireland": [
 	        {
 	            "name": "50808 - Text About It",
-	            "url": "sms:50808",
+	            "url": "http://text50808.ie",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "50808"
+	            ],
+	            "phone_info": "Text 50808."
 	        },
 	        {
 	            "name": "Samaritans (Ireland)",
@@ -2314,9 +2341,10 @@ window.formatted = [
 	            "url": "https://www.childline.ie/login/",
 	            "url_info": "",
 	            "phone": [
+	                "50101",
 	                "1800 66 66 66"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 50101. Call 1800 66 66 66."
 	        },
 	        {
 	            "name": "Missing Childrens Hotline",
@@ -2345,21 +2373,23 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Towards Healing",
-	            "url": "sms:(085) 802-2859",
+	            "url": "https://towardshealing.ie/",
 	            "url_info": "",
 	            "phone": [
-	                "1800 303 416"
+	                "1800 303 416",
+	                "(085) 802-2859"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (085) 802-2859. Call 1800 303 416."
 	        },
 	        {
 	            "name": "Pieta",
-	            "url": "sms:51444",
+	            "url": "https://www.pieta.ie/",
 	            "url_info": "",
 	            "phone": [
-	                "1800 247 247"
+	                "1800 247 247",
+	                "51444"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 51444. Call 1800 247 247."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -2381,12 +2411,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "ERAN - Emotional First Aid",
-	            "url": "sms:0529993544",
+	            "url": "https://en.eran.org.il/",
 	            "url_info": "",
 	            "phone": [
-	                "1201"
+	                "1201",
+	                "0529993544"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 0529993544. Call 1201."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -2448,19 +2479,22 @@ window.formatted = [
 	        },
 	        {
 	            "name": "U-Matter",
-	            "url": "sms:876-838-4897",
+	            "url": "https://jamaica.ureport.in/page/umatterprivacypolicy/",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "876-838-4897"
+	            ],
+	            "phone_info": "Text 876-838-4897."
 	        },
 	        {
 	            "name": "SafeSpot",
-	            "url": "sms:876-439-5199",
+	            "url": "https://safespotja.com/",
 	            "url_info": "",
 	            "phone": [
-	                "888-723-3776"
+	                "888-723-3776",
+	                "876-439-5199"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 876-439-5199. Call 888-723-3776."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -2554,9 +2588,10 @@ window.formatted = [
 	            "url": "https://www.facebook.com/Jordanian-Clinical-Psychologists-Association-987247728018555",
 	            "url_info": "",
 	            "phone": [
+	                "962795440416",
 	                "962 7 9544 0416"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 962795440416. Call 962 7 9544 0416."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -2727,12 +2762,13 @@ window.formatted = [
 	    "Libya": [
 	        {
 	            "name": "‎فريق الدعم النفس اجتماعي -ليبيا - Libyan Psychosocial Support Team",
-	            "url": "sms:00218923978252",
+	            "url": "https://www.facebook.com/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-Libyan-Psychosocial-Support-Team-1617969611764812/",
 	            "url_info": "",
 	            "phone": [
-	                "1417"
+	                "1417",
+	                "00218923978252"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 00218923978252. Call 1417."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -2898,9 +2934,10 @@ window.formatted = [
 	            "url": "https://www.facebook.com/snehammalaysia/",
 	            "url_info": "",
 	            "phone": [
-	                "+60443988597"
+	                "+60443988597",
+	                "010 200 5722"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 010 200 5722. Call +60443988597."
 	        },
 	        {
 	            "name": "Befrienders Kuala Lumpur",
@@ -2942,12 +2979,13 @@ window.formatted = [
 	    "Malta": [
 	        {
 	            "name": "Crisis Resolution Malta",
-	            "url": "sms:9933 9966",
+	            "url": "https://m.facebook.com/CrisisResolutionMalta/",
 	            "url_info": "",
 	            "phone": [
+	                "9933 9966",
 	                "9933 9966"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 9933 9966. Call 9933 9966."
 	        },
 	        {
 	            "name": "Supportline 179",
@@ -3113,9 +3151,10 @@ window.formatted = [
 	            "url": "http://www.tponepal.org/",
 	            "url_info": "",
 	            "phone": [
+	                "+977 9847386158",
 	                "+977 16600102005"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +977 9847386158. Call +977 16600102005."
 	        },
 	        {
 	            "name": "११६६ आत्महत्या रोकथामको लागि राष्ट्रिय हेल्पलाईन",
@@ -3222,30 +3261,33 @@ window.formatted = [
 	    "New Zealand": [
 	        {
 	            "name": "Lifeline",
-	            "url": "sms:4357",
+	            "url": "https://www.lifeline.org.nz/",
 	            "url_info": "",
 	            "phone": [
+	                "4357",
 	                "0800 543 354"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 4357. Call 0800 543 354."
 	        },
 	        {
 	            "name": "1737 Need to talk?",
 	            "url": "https://www.1737.org.nz",
 	            "url_info": "",
 	            "phone": [
+	                "1737",
 	                "1737"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 1737. Call 1737."
 	        },
 	        {
 	            "name": "Depression Helpline",
 	            "url": "https://www.depression.org.nz/",
 	            "url_info": "",
 	            "phone": [
+	                "4202",
 	                "0800 111 757"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 4202. Call 0800 111 757."
 	        },
 	        {
 	            "name": "Samaritans Aotearoa",
@@ -3270,9 +3312,10 @@ window.formatted = [
 	            "url": "https://www.youthline.co.nz/web-chat-counselling.html",
 	            "url_info": "",
 	            "phone": [
+	                "234",
 	                "0800 376 633"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 234. Call 0800 376 633."
 	        },
 	        {
 	            "name": "Asian Family Services",
@@ -3303,12 +3346,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "The Lowdown – Youth Helpline",
-	            "url": "sms:5626",
+	            "url": "https://www.thelowdown.co.nz/",
 	            "url_info": "",
 	            "phone": [
-	                "0800 111 757"
+	                "0800 111 757",
+	                "5626"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 5626. Call 0800 111 757."
 	        },
 	        {
 	            "name": "0800 What's Up",
@@ -3324,9 +3368,10 @@ window.formatted = [
 	            "url": "https://www.lifeline.org.nz/services/suicide-crisis-helpline",
 	            "url_info": "",
 	            "phone": [
-	                "0508 828 865"
+	                "0508 828 865",
+	                "4357"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 4357. Call 0508 828 865."
 	        },
 	        {
 	            "name": "Victim Support - Manaaki Tangata",
@@ -3362,18 +3407,20 @@ window.formatted = [
 	            "url": "https://hdinigeria.org/hdinigeria/hdi-child-helpline/",
 	            "url_info": "",
 	            "phone": [
+	                "0808 0551 376",
 	                "0808 0551 376"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 0808 0551 376. Call 0808 0551 376."
 	        },
 	        {
 	            "name": "Mentally Aware Nigeria Initiative (MANI)",
-	            "url": "sms:(809) 111-6264",
+	            "url": "https://mentallyaware.org/emergency/",
 	            "url_info": "",
 	            "phone": [
+	                "(809) 111-6264",
 	                "(809) 111-6264"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (809) 111-6264. Call (809) 111-6264."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -3486,9 +3533,10 @@ window.formatted = [
 	            "url": "https://alltidhjelp.no/",
 	            "url_info": "",
 	            "phone": [
-	                "+47 48425289"
+	                "+47 48425289",
+	                "+47 48046276"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +47 48046276. Call +47 48425289."
 	        },
 	        {
 	            "name": "Mental Helse Hjelpetelefonen",
@@ -3513,9 +3561,10 @@ window.formatted = [
 	            "url": "http://www.116111.no/",
 	            "url_info": "",
 	            "phone": [
+	                "417 16 111",
 	                "116 111"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 417 16 111. Call 116 111."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -3705,9 +3754,10 @@ window.formatted = [
 	            "url": "http://telefonzaufania.org/",
 	            "url_info": "",
 	            "phone": [
+	                "+48 601 665025",
 	                "+48 89 527 00 00"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text +48 601 665025. Call +48 89 527 00 00."
 	        },
 	        {
 	            "name": "Anonimowy Przyjaciel (Anonymous friend)",
@@ -4174,21 +4224,23 @@ window.formatted = [
 	    "Seychelles": [
 	        {
 	            "name": "Quality of Life Division Helpline - Ministry of Family, Youth and Sport",
-	            "url": "sms:2722293",
+	            "url": "https://qld-counselling.sc/",
 	            "url_info": "",
 	            "phone": [
+	                "2722293",
 	                "2722293"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 2722293. Call 2722293."
 	        },
 	        {
 	            "name": "Elderly and Disabled Helpline - Ministry of Family, Youth and Sport",
-	            "url": "sms:2603030",
+	            "url": "",
 	            "url_info": "",
 	            "phone": [
+	                "2603030",
 	                "2603030"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 2603030. Call 2603030."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -4203,12 +4255,13 @@ window.formatted = [
 	    "Singapore": [
 	        {
 	            "name": "Samaritans of Singapore",
-	            "url": "sms:9151 1767",
+	            "url": "https://www.sos.org.sg/",
 	            "url_info": "",
 	            "phone": [
-	                "1767"
+	                "1767",
+	                "9151 1767"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 9151 1767. Call 1767."
 	        },
 	        {
 	            "name": "ec2.sg",
@@ -4327,9 +4380,10 @@ window.formatted = [
 	            "url": "https://www.sadag.org/",
 	            "url_info": "",
 	            "phone": [
+	                "31393",
 	                "0800 567 567"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 31393. Call 0800 567 567."
 	        },
 	        {
 	            "name": "South African Federation For Mental Health Helpline",
@@ -4472,12 +4526,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "1926 - National Mental Health Helpline",
-	            "url": "sms:1926",
+	            "url": "https://nimh.health.gov.lk/en/1926-national-mental-health-helpline/",
 	            "url_info": "",
 	            "phone": [
+	                "1926",
 	                "1926"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 1926. Call 1926."
 	        },
 	        {
 	            "name": "Sri Lanka Sumithrayo",
@@ -4598,9 +4653,10 @@ window.formatted = [
 	            "url": "http://www.147.ch/",
 	            "url_info": "",
 	            "phone": [
+	                "147",
 	                "147"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 147. Call 147."
 	        },
 	        {
 	            "name": "Verband Tel 143 - Die Dargebotene Hand",
@@ -4738,12 +4794,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "RN Vincent & Associates",
-	            "url": "sms:1(868) 689-9391",
+	            "url": "https://www.facebook.com/globalpropheticministries",
 	            "url_info": "",
 	            "phone": [
-	                "1(868) 486-0708"
+	                "1(868) 486-0708",
+	                "1(868) 689-9391"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 1(868) 689-9391. Call 1(868) 486-0708."
 	        },
 	        {
 	            "name": "Trinidad and Tobago Red Cross Society",
@@ -4828,9 +4885,10 @@ window.formatted = [
 	            "url": "https://hope.hw.gov.ae/",
 	            "url_info": "",
 	            "phone": [
+	                "8004673",
 	                "8004673"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 8004673. Call 8004673."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -4881,19 +4939,22 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Shout",
-	            "url": "sms:85258",
+	            "url": "https://www.giveusashout.org",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "85258"
+	            ],
+	            "phone_info": "Text 85258."
 	        },
 	        {
 	            "name": "Runaway Helpline",
 	            "url": "https://www.runawayhelpline.org.uk",
 	            "url_info": "",
 	            "phone": [
+	                "116 000",
 	                "116 000"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 116 000. Call 116 000."
 	        },
 	        {
 	            "name": "The Mix",
@@ -4945,18 +5006,20 @@ window.formatted = [
 	            "url": "https://thesilverline.org.uk",
 	            "url_info": "",
 	            "phone": [
+	                "0800 470 8090",
 	                "0800 470 8090"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 0800 470 8090. Call 0800 470 8090."
 	        },
 	        {
 	            "name": "Combat Stress Helpline - Serving Personnel",
 	            "url": "https://www.combatstress.org.uk",
 	            "url_info": "",
 	            "phone": [
-	                "0800 323 4444"
+	                "0800 323 4444",
+	                "075 3740 4719"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 075 3740 4719. Call 0800 323 4444."
 	        },
 	        {
 	            "name": "Premier Lifeline",
@@ -4969,12 +5032,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Towards Healing (United Kingdom)",
-	            "url": "sms:(085) 802-2859",
+	            "url": "https://towardshealing.ie/",
 	            "url_info": "",
 	            "phone": [
-	                "0800 0963315"
+	                "0800 0963315",
+	                "(085) 802-2859"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (085) 802-2859. Call 0800 0963315."
 	        },
 	        {
 	            "name": "Muslim Youth Helpline",
@@ -4996,12 +5060,13 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Mermaids Helpline",
-	            "url": "sms:85258",
+	            "url": "https://mermaidsuk.org.uk/contact-us/",
 	            "url_info": "",
 	            "phone": [
-	                "0808 801 0400"
+	                "0808 801 0400",
+	                "85258"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 85258. Call 0808 801 0400."
 	        },
 	        {
 	            "name": "Samaritans Helpline",
@@ -5023,21 +5088,23 @@ window.formatted = [
 	        },
 	        {
 	            "name": "HOPELINEUK",
-	            "url": "sms:078 6003 9967",
+	            "url": "https://papyrus-uk.org",
 	            "url_info": "",
 	            "phone": [
-	                "0800 068 4141"
+	                "0800 068 4141",
+	                "078 6003 9967"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 078 6003 9967. Call 0800 068 4141."
 	        },
 	        {
 	            "name": "Self Injury Support",
 	            "url": "https://www.selfinjurysupport.org.uk",
 	            "url_info": "",
 	            "phone": [
-	                "01179279600"
+	                "01179279600",
+	                "075 3743 2444"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 075 3743 2444. Call 01179279600."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -5054,44 +5121,51 @@ window.formatted = [
 	            "name": "Crisis Text Line",
 	            "url": "https://connect.crisistextline.org/chat?utm_source=findahelpline",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "741741"
+	            ],
+	            "phone_info": "Text 741741."
 	        },
 	        {
 	            "name": "Disaster Distress Helpline",
-	            "url": "sms:800-985-5990",
+	            "url": "https://www.samhsa.gov/find-help/disaster-distress-helpline",
 	            "url_info": "",
 	            "phone": [
 	                "(800) 846-8517",
+	                "800-985-5990",
 	                "800-985-5990"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 800-985-5990. Call 800-985-5990."
 	        },
 	        {
 	            "name": "SAMHSA's National Helpline",
-	            "url": "sms:435748",
+	            "url": "https://www.samhsa.gov/find-help/national-helpline",
 	            "url_info": "",
 	            "phone": [
 	                "1-800-487-4889",
-	                "1-800-662-4357"
+	                "1-800-662-4357",
+	                "435748"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 435748. Call 1-800-662-4357."
 	        },
 	        {
 	            "name": "National Alliance on Mental Illness (NAMI) HelpLine",
-	            "url": "sms:62640",
+	            "url": "https://www.nami.org/help",
 	            "url_info": "",
 	            "phone": [
-	                "(800) 950-6264"
+	                "(800) 950-6264",
+	                "62640"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 62640. Call (800) 950-6264."
 	        },
 	        {
 	            "name": "Games and Online Harassment Hotline",
 	            "url": "https://gameshotline.org/",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "23368"
+	            ],
+	            "phone_info": "Text 23368."
 	        },
 	        {
 	            "name": "National Sexual Assault Hotline",
@@ -5131,10 +5205,12 @@ window.formatted = [
 	        },
 	        {
 	            "name": "TXT 4 HELP",
-	            "url": "sms:44357",
+	            "url": "https://www.nationalsafeplace.org/txt-4-help",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "44357"
+	            ],
+	            "phone_info": "Text 44357."
 	        },
 	        {
 	            "name": "National Grad Crisis Line",
@@ -5168,9 +5244,10 @@ window.formatted = [
 	            "url": "https://teenlineonline.org/",
 	            "url_info": "",
 	            "phone": [
+	                "839863",
 	                "(800) 852-8336"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 839863. Call (800) 852-8336."
 	        },
 	        {
 	            "name": "LGBT National Hotline",
@@ -5213,18 +5290,20 @@ window.formatted = [
 	            "url": "https://www.veteranscrisisline.net/",
 	            "url_info": "",
 	            "phone": [
+	                "838255",
 	                "988"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 838255. Call 988."
 	        },
 	        {
 	            "name": "Military Helpline",
 	            "url": "http://militaryhelpline.org/",
 	            "url_info": "",
 	            "phone": [
+	                "839863",
 	                "(888) 457-4838"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 839863. Call (888) 457-4838."
 	        },
 	        {
 	            "name": "TheHopeLine",
@@ -5235,17 +5314,21 @@ window.formatted = [
 	        },
 	        {
 	            "name": "Amala Muslim Youth Helpline",
-	            "url": "sms:855-95",
+	            "url": "https://amala.mas-ssf.org/",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "855-95"
+	            ],
+	            "phone_info": "Text 855-95."
 	        },
 	        {
 	            "name": "Hey Sam",
 	            "url": "https://samaritanshope.org/heysam",
 	            "url_info": "",
-	            "phone": [],
-	            "phone_info": ""
+	            "phone": [
+	                "439-726"
+	            ],
+	            "phone_info": "Text 439-726."
 	        },
 	        {
 	            "name": "LGBT National Youth Talkline",
@@ -5261,45 +5344,50 @@ window.formatted = [
 	            "url": "https://www.yourlifeyourvoice.org/",
 	            "url_info": "",
 	            "phone": [
+	                "20121",
 	                "(800) 448-3000"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 20121. Call (800) 448-3000."
 	        },
 	        {
 	            "name": "Postpartum Support International",
 	            "url": "https://www.postpartum.net/",
 	            "url_info": "",
 	            "phone": [
+	                "(800) 944-4773",
 	                "(800) 944-4773"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (800) 944-4773. Call (800) 944-4773."
 	        },
 	        {
 	            "name": "988 Suicide & Crisis Lifeline",
 	            "url": "https://988lifeline.org/chat/",
 	            "url_info": "",
 	            "phone": [
+	                "988",
 	                "988"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 988. Call 988."
 	        },
 	        {
 	            "name": "TrevorLifeline",
 	            "url": "https://www.TheTrevorProject.org",
 	            "url_info": "",
 	            "phone": [
+	                "678678",
 	                "(866) 488-7386"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 678678. Call (866) 488-7386."
 	        },
 	        {
 	            "name": "StrongHearts Native Helpline",
-	            "url": "sms:(844) 762-8483",
+	            "url": "https://strongheartshelpline.org/",
 	            "url_info": "",
 	            "phone": [
+	                "(844) 762-8483",
 	                "(844) 762-8483"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text (844) 762-8483. Call (844) 762-8483."
 	        },
 	        {
 	            "name": "7 Cups",
@@ -5392,12 +5480,13 @@ window.formatted = [
 	    "Wales": [
 	        {
 	            "name": "C.A.L.L. Helpline",
-	            "url": "sms:81066",
+	            "url": "http://www.callhelpline.org.uk",
 	            "url_info": "",
 	            "phone": [
-	                "(080) 013-2737"
+	                "(080) 013-2737",
+	                "81066"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 81066. Call (080) 013-2737."
 	        },
 	        {
 	            "name": "LGBT+ Cymru Helpline",
@@ -5413,9 +5502,10 @@ window.formatted = [
 	            "url": "https://www.meiccymru.org",
 	            "url_info": "",
 	            "phone": [
+	                "84001",
 	                "0808 802 3456"
 	            ],
-	            "phone_info": ""
+	            "phone_info": "Text 84001. Call 0808 802 3456."
 	        },
 	        {
 	            "name": "7 Cups",
