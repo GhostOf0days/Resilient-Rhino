@@ -31,7 +31,7 @@ npm run test
 
 * Github: [@0dayReaper](https://github.com/0dayReaper)
 
-* Roles: Founder, Frontend Design, Website Functionality, Resources
+* Roles: Founder, Frontend Design, Website Functionality, Resources, SEO, Formatter
 
 👤 **Thomas Kozlowski**
 
