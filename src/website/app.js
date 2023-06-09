@@ -1,4 +1,3 @@
-
 /* Service worker registration */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
@@ -117,7 +116,7 @@ function displayCountryDetails(countryName) {
     document.body.classList.remove('cursor-fish');
   
     if (searchTerm === 'myworld') {
-      document.body.style.cursor = "url('../public/cursors/penguinCursor.cur'), auto";
+      document.body.style.cursor = "url('../../public/cursors/penguinCursor.cur'), auto";
       displayCountryCards(window.countries);
       return;
     }

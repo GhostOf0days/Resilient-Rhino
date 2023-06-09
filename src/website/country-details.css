@@ -1,6 +1,6 @@
     /* General Body CSS */
     body {
-        cursor: url('../public/cursors/rhinoHeartCursor.cur'), auto;
+        cursor: url('../../public/cursors/rhinoHeartCursor.cur'), auto;
         font-family: 'Helvetica Neue', Arial, sans-serif;
         background: linear-gradient(120deg, #E6E6FA, #C9E8FF);
         color: #333;
@@ -109,7 +109,7 @@
         position: absolute;
         width: 30px;
         height: 30px;
-        background: url('../public/images/lightHeart.png');
+        background: url('../../public/images/lightHeart.png');
         background-size: contain;
         background-repeat: no-repeat;
         opacity: 1;
