@@ -1,10 +1,7 @@
 import json
 import os
 
-def decode_unicode_string(unicode_string):
-    return bytes(unicode_string, "utf-8").decode("unicode_escape")
-
-def decode_json_file(input_file, output_file):
+def format_json_file(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as infile:
         data = json.load(infile)
 
@@ -263,7 +260,7 @@ def decode_json_file(input_file, output_file):
 
         for item in data[country]:
             new_item = {}
-            new_item['name'] = decode_unicode_string(item['name'])
+            new_item['name'] = item['name']
             new_item['url'] = ''
             new_item['url_info'] = ''
             new_item['phone'] = []
@@ -289,7 +286,7 @@ def decode_json_file(input_file, output_file):
         formatted_data.append(country_data)
 
     with open(output_file, 'w', encoding='utf-8') as outfile:
-        outfile.write('window.decoded = [\n')
+        outfile.write('window.formatted = [\n')
         for i, country_data in enumerate(formatted_data):
             indented_data = json.dumps(country_data, ensure_ascii=False, indent=4).replace('\n', '\n\t')
             indented_data = indented_data.replace('{', '\t{', 1)
@@ -302,6 +299,6 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define the relative paths to the input and output files
 input_file = os.path.join(current_dir, '..', 'scraper', 'scraped.json')
-output_file = os.path.join(current_dir, 'decoded.js')
+output_file = os.path.join(current_dir, 'formatted.js')
 
-decode_json_file(input_file, output_file)
+format_json_file(input_file, output_file)

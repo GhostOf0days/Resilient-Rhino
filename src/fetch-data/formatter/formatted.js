@@ -1,4 +1,4 @@
-window.decoded = [
+window.formatted = [
 	{
 	    "Albania": [
 	        {
@@ -22,7 +22,7 @@ window.decoded = [
 	{
 	    "Argentina": [
 	        {
-	            "name": "LÃ­nea de PrevenciÃ³n Del Suicidio",
+	            "name": "Línea de Prevención Del Suicidio",
 	            "url": "https://www.asistenciaalsuicida.org.ar/",
 	            "url_info": "",
 	            "phone": [
@@ -204,7 +204,7 @@ window.decoded = [
 	{
 	    "Austria": [
 	        {
-	            "name": "TelefonSeelsorge â Notruf 142",
+	            "name": "TelefonSeelsorge – Notruf 142",
 	            "url": "https://chat.onlineberatung-telefonseelsorge.at/hc/de",
 	            "url_info": "",
 	            "phone": [
@@ -283,7 +283,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "NÃ Frauentelefon",
+	            "name": "NÖ Frauentelefon",
 	            "url": "https://www.hilfswerk.at/niederoesterreich/familie-beratung/jugendliche/noe-frauentelefon/",
 	            "url_info": "",
 	            "phone": [
@@ -390,7 +390,7 @@ window.decoded = [
 	{
 	    "Belarus": [
 	        {
-	            "name": "Ð¢ÐµÐ»ÐµÑÐ¾Ð½ Ð´Ð¾Ð²ÐµÑÐ¸Ñ ÑÐºÑÑÑÐµÐ½Ð½Ð¾Ð¹ Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸",
+	            "name": "Телефон доверия экстренной психологической помощи",
 	            "url": "sms:375 (29) 101-73-73",
 	            "url_info": "",
 	            "phone": [
@@ -410,7 +410,7 @@ window.decoded = [
 	{
 	    "Belgium": [
 	        {
-	            "name": "TÃ©lÃ©-Accueil",
+	            "name": "Télé-Accueil",
 	            "url": "https://www.sos-amitie.com/web/internet/chat",
 	            "url_info": "",
 	            "phone": [
@@ -419,7 +419,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Centre de PrÃ©vention des Violences Conjugales et Familiales",
+	            "name": "Centre de Prévention des Violences Conjugales et Familiales",
 	            "url": "https://www.cpvcf.org/",
 	            "url_info": "",
 	            "phone": [
@@ -455,7 +455,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Centre de PrÃ©vention du Suicide",
+	            "name": "Centre de Prévention du Suicide",
 	            "url": "https://www.preventionsuicide.be/",
 	            "url_info": "",
 	            "phone": [
@@ -504,7 +504,7 @@ window.decoded = [
 	{
 	    "Brazil": [
 	        {
-	            "name": "Centro de ValorizaÃ§Ã£o da Vida",
+	            "name": "Centro de Valorização da Vida",
 	            "url": "https://www.cvv.org.br/",
 	            "url_info": "",
 	            "phone": [
@@ -524,7 +524,7 @@ window.decoded = [
 	{
 	    "Bulgaria": [
 	        {
-	            "name": "ÐÐ°ÑÐ¸Ð¾Ð½Ð°Ð»Ð½Ð° ÑÐµÐ»ÐµÑÐ¾Ð½Ð½Ð° Ð»Ð¸Ð½Ð¸Ñ Ð·Ð° Ð´ÐµÑÐ° - National Telephone Line for Children",
+	            "name": "Национална телефонна линия за деца - National Telephone Line for Children",
 	            "url": "https://116111.bg/",
 	            "url_info": "",
 	            "phone": [
@@ -533,7 +533,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÐ°ÑÐ¸Ð¾Ð½Ð°Ð»Ð½Ð° Ð³Ð¾ÑÐµÑÐ° Ð»Ð¸Ð½Ð¸Ñ Ð·Ð° Ð¿Ð¾ÑÑÑÐ°Ð´Ð°Ð»Ð¸ Ð¾Ñ Ð½Ð°ÑÐ¸Ð»Ð¸Ðµ Ð·Ð° ÐÑÐ»Ð³Ð°ÑÐ¸Ñ",
+	            "name": "Национална гореща линия за пострадали от насилие за България",
 	            "url": "http://animusassociation.org/programi-uslugi/goreshta-linia",
 	            "url_info": "",
 	            "phone": [
@@ -690,7 +690,7 @@ window.decoded = [
 	{
 	    "Chile": [
 	        {
-	            "name": "PsicÃ³logos X Chile",
+	            "name": "Psicólogos X Chile",
 	            "url": "https://psicologosvoluntarios.cl/",
 	            "url_info": "",
 	            "phone": [
@@ -699,7 +699,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea Libre",
+	            "name": "Línea Libre",
 	            "url": "https://www.linealibre.cl/",
 	            "url_info": "",
 	            "phone": [
@@ -719,7 +719,7 @@ window.decoded = [
 	{
 	    "China": [
 	        {
-	            "name": "24å°æ¶åè´¹å¿çæ´å©ç­çº¿çµè¯ Free 24 Hours Helpline",
+	            "name": "24小时免费心理援助热线电话 Free 24 Hours Helpline",
 	            "url": "https://www.gzcrisis.com/",
 	            "url_info": "",
 	            "phone": [
@@ -728,7 +728,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "æ²é³å¸å¿çæ´å©24å°æ¶ç­çº¿ Shenyang Psychological Assistance 24-Hour Hotline",
+	            "name": "沈阳市心理援助24小时热线 Shenyang Psychological Assistance 24-Hour Hotline",
 	            "url": "http://www.symhn.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -737,7 +737,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ææå¸24å°æ¶å¿çç­çº¿ Kunming 24-Hour Psychological Hotline",
+	            "name": "昆明市24小时心理热线 Kunming 24-Hour Psychological Hotline",
 	            "url": "https://www.ynjs.com.cn/gyzx/",
 	            "url_info": "",
 	            "phone": [
@@ -746,7 +746,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "æå·å¸å¿çæ´å©ç­çº¿ Fuzhou Psychological Assistance Hotline",
+	            "name": "抚州市心理援助热线 Fuzhou Psychological Assistance Hotline",
 	            "url": "http://wjw.jxfz.gov.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -755,7 +755,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ç¦ä½å¸24å°æ¶å¿çæ´å©ç­çº¿ Jiaozuo 24-hour psychological assistance hotline",
+	            "name": "焦作市24小时心理援助热线 Jiaozuo 24-hour psychological assistance hotline",
 	            "url": "http://www.jzsjsby.com/",
 	            "url_info": "",
 	            "phone": [
@@ -764,7 +764,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "âæ°åå ç¶çæ¯ææçèºçâç«æé²æ§å¿çæ´å©ç­çº¿ \"Coronavirus\" Prevention and Control Psychological Assistance Hotline",
+	            "name": "“新型冠状病毒感染的肺炎”疫情防控心理援助热线 \"Coronavirus\" Prevention and Control Psychological Assistance Hotline",
 	            "url": "http://www.kfwuyuan.com/",
 	            "url_info": "",
 	            "phone": [
@@ -773,7 +773,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "è®¸æå¸âæ°å èºçâ24å°æ¶å¿çæ´å©ç­çº¿ Xuchang \"Corona Virus\" 24-Hour Psychological Assistance Hotline",
+	            "name": "许昌市“新冠肺炎”24小时心理援助热线 Xuchang \"Corona Virus\" 24-Hour Psychological Assistance Hotline",
 	            "url": "http://www.xcsjayy.com/",
 	            "url_info": "",
 	            "phone": [
@@ -782,7 +782,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å¨å½å¨è¯¢ç­çº¿ National Hotline",
+	            "name": "全国咨询热线 National Hotline",
 	            "url": "http://www.hbsapc.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -791,7 +791,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å¤©æ´¥å¤©ç©ºå¿çå¨è¯¢ç­çº¿ Tianjin Sky Psychological Counseling Hotline",
+	            "name": "天津天空心理咨询热线 Tianjin Sky Psychological Counseling Hotline",
 	            "url": "https://www.skyxinli.com/",
 	            "url_info": "",
 	            "phone": [
@@ -800,7 +800,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "è¿å¿å¬çç­çº¿ Lianxin Charity Hotline",
+	            "name": "连心公益热线 Lianxin Charity Hotline",
 	            "url": "http://www.ynlianxin.org",
 	            "url_info": "",
 	            "phone": [
@@ -809,7 +809,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "éè¥¿çå¿çç­çº¿ Shaanxi Psychological Hotline",
+	            "name": "陕西省心理热线 Shaanxi Psychological Hotline",
 	            "url": "http://www.xajwzx.com/",
 	            "url_info": "",
 	            "phone": [
@@ -818,7 +818,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å¤§çå·å¿çå±æºå¹²é¢ç­çº¿ Dali State Psychological Crisis Intervention Hotline",
+	            "name": "大理州心理危机干预热线 Dali State Psychological Crisis Intervention Hotline",
 	            "url": "https://www.dlzdermyy.com/",
 	            "url_info": "",
 	            "phone": [
@@ -827,7 +827,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "âæ°èå¸âå¿çå¨è¯¢ç­çº¿ \"New Teacher\" Psychological Counseling Hotline",
+	            "name": "“新老师”心理咨询热线 \"New Teacher\" Psychological Counseling Hotline",
 	            "url": "http://www.mmhcc.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -836,7 +836,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "æ±ä¸­å¸24å°æ¶å¿çæ´å©ç­çº¿ Hanzhong City 24-Hour Psychological Assistance Hotline",
+	            "name": "汉中市24小时心理援助热线 Hanzhong City 24-Hour Psychological Assistance Hotline",
 	            "url": "https://www.hzjswszx.com/",
 	            "url_info": "",
 	            "phone": [
@@ -845,7 +845,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ä¸æ¸¯å¸å¿çæ´å©ç­çº¿ Donggang Psychological Assistance Hotline",
+	            "name": "东港市心理援助热线 Donggang Psychological Assistance Hotline",
 	            "url": "http://www.cs120.com.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -863,7 +863,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å¸æ24ç­çº¿Hope Line",
+	            "name": "希望24热线Hope Line",
 	            "url": "http://www.hope9995.com",
 	            "url_info": "",
 	            "phone": [
@@ -872,7 +872,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å¾å·å¸å¿çæ´å©ç­çº¿Psychological Aid Hotline of Xuzhou Municipal",
+	            "name": "徐州市心理援助热线Psychological Aid Hotline of Xuzhou Municipal",
 	            "url": "https://www.xzdfyy.com/",
 	            "url_info": "",
 	            "phone": [
@@ -881,7 +881,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å®é¸¡å¸å¿çå¨è¯¢ Psychological Counseling in Baoji City",
+	            "name": "宝鸡市心理咨询 Psychological Counseling in Baoji City",
 	            "url": "http://www.bjskfyy.com/",
 	            "url_info": "",
 	            "phone": [
@@ -890,7 +890,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "çº¢æ«å¦å¥³ç­çº¿Maple Women Hotline",
+	            "name": "红枫妇女热线Maple Women Hotline",
 	            "url": "http://www.maple.org.cn",
 	            "url_info": "",
 	            "phone": [
@@ -899,7 +899,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ä¿æ¤å¦å¥³å¿ç«¥âç±å®¶ç­çº¿â Women and Children \"Love Family Hotline\"",
+	            "name": "保护妇女儿童“爱家热线” Women and Children \"Love Family Hotline\"",
 	            "url": "http://www.hnflw.gov.cn/",
 	            "url_info": "",
 	            "phone": [
@@ -919,7 +919,7 @@ window.decoded = [
 	{
 	    "Colombia": [
 	        {
-	            "name": "LÃ­nea 106 \"El poder de ser escuchado\" BogotÃ¡ D.C",
+	            "name": "Línea 106 \"El poder de ser escuchado\" Bogotá D.C",
 	            "url": "http://www.saludcapital.gov.co/Paginas2/Linea106-Inicio.aspx",
 	            "url_info": "",
 	            "phone": [
@@ -928,7 +928,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea Salvavidas",
+	            "name": "Línea Salvavidas",
 	            "url": "https://www.sergiourrego.org/",
 	            "url_info": "",
 	            "phone": [
@@ -937,7 +937,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "141 LÃ­nea de ProtecciÃ³n a NiÃ±os, NiÃ±as y Adolescentes",
+	            "name": "141 Línea de Protección a Niños, Niñas y Adolescentes",
 	            "url": "https://www.icbf.gov.co/noticias/linea-141",
 	            "url_info": "",
 	            "phone": [
@@ -957,7 +957,7 @@ window.decoded = [
 	{
 	    "Costa Rica": [
 	        {
-	            "name": "LÃ­nea AquÃ­ Estoy del Colegio De Profesionales en PsicologÃ­a",
+	            "name": "Línea Aquí Estoy del Colegio De Profesionales en Psicología",
 	            "url": "https://psicologiacr.com/aqui-estoy/",
 	            "url_info": "",
 	            "phone": [
@@ -977,7 +977,7 @@ window.decoded = [
 	{
 	    "Croatia": [
 	        {
-	            "name": "Linija pomoÄi Plavi telefon",
+	            "name": "Linija pomoći Plavi telefon",
 	            "url": "http://www.plavi-telefon.hr",
 	            "url_info": "",
 	            "phone": [
@@ -986,7 +986,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "PsiholoÅ¡ki centar Tesa (The Psychological Center Tesa) Helpline",
+	            "name": "Psihološki centar Tesa (The Psychological Center Tesa) Helpline",
 	            "url": "http://www.tesa.hr/",
 	            "url_info": "",
 	            "phone": [
@@ -1053,7 +1053,7 @@ window.decoded = [
 	{
 	    "Czech Republic": [
 	        {
-	            "name": "ModrÃ¡ linka",
+	            "name": "Modrá linka",
 	            "url": "https://www.modralinka.cz/",
 	            "url_info": "",
 	            "phone": [
@@ -1062,7 +1062,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Most k nadÄji",
+	            "name": "Most k naději",
 	            "url": "http://www.mostknadeji.eu/",
 	            "url_info": "",
 	            "phone": [
@@ -1071,7 +1071,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Linka prvnÃ­ psychickÃ© pomoci",
+	            "name": "Linka první psychické pomoci",
 	            "url": "https://www.cestazkrize.net",
 	            "url_info": "",
 	            "phone": [
@@ -1080,7 +1080,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "PraÅ¾skÃ¡ linka dÅ¯vÄry",
+	            "name": "Pražská linka důvěry",
 	            "url": "https://www.csspraha.cz/prazska-linka-duvery",
 	            "url_info": "",
 	            "phone": [
@@ -1089,7 +1089,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Linka pro rodinu a Å¡kolu / Family and School Emergency LIne",
+	            "name": "Linka pro rodinu a školu / Family and School Emergency LIne",
 	            "url": "https://linkaztracenedite.cz/chat/",
 	            "url_info": "",
 	            "phone": [
@@ -1098,7 +1098,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Linka bezpeÄÃ­",
+	            "name": "Linka bezpečí",
 	            "url": "https://www.linkabezpeci.cz/chat",
 	            "url_info": "",
 	            "phone": [
@@ -1136,7 +1136,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "BÃ¸rneTelefonen",
+	            "name": "BørneTelefonen",
 	            "url": "sms:116 111",
 	            "url_info": "",
 	            "phone": [
@@ -1156,7 +1156,7 @@ window.decoded = [
 	{
 	    "Djibouti": [
 	        {
-	            "name": "LâUnion Nationale des Femmes Djiboutienne (service d'Ãcoute)",
+	            "name": "L’Union Nationale des Femmes Djiboutienne (service d'Écoute)",
 	            "url": "https://www.womenconnect.org/web/djibouti/legal-aid",
 	            "url_info": "",
 	            "phone": [
@@ -1205,7 +1205,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea Vivir",
+	            "name": "Línea Vivir",
 	            "url": "https://institutosaludmental.org/lo-que-hacemos/",
 	            "url_info": "",
 	            "phone": [
@@ -1451,7 +1451,7 @@ window.decoded = [
 	{
 	    "France": [
 	        {
-	            "name": "SOS AmitiÃ©",
+	            "name": "SOS Amitié",
 	            "url": "https://www.sos-amitie.com/chat/",
 	            "url_info": "",
 	            "phone": [
@@ -1460,7 +1460,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "3114, numÃ©ro national de prÃ©vention du suicide",
+	            "name": "3114, numéro national de prévention du suicide",
 	            "url": "https://3114.fr/",
 	            "url_info": "",
 	            "phone": [
@@ -1478,7 +1478,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Croix-Rouge Ã©coute",
+	            "name": "Croix-Rouge écoute",
 	            "url": "https://www.croix-rouge.fr/Nos-actions/Action-sociale/Soutien-psychologique-et-isolement-social/Croix-Rouge-Ecoute-service-de-soutien-psychologique-par-telephone",
 	            "url_info": "",
 	            "phone": [
@@ -1487,7 +1487,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Ecoute-famille de Unafam-Union Nationale de Familles et Amis de personnes malades et/ ou handicapÃ©es psychiques",
+	            "name": "Ecoute-famille de Unafam-Union Nationale de Familles et Amis de personnes malades et/ ou handicapées psychiques",
 	            "url": "https://www.unafam.org/",
 	            "url_info": "",
 	            "phone": [
@@ -1496,7 +1496,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Association France DÃ©pression - Ecoute patients",
+	            "name": "Association France Dépression - Ecoute patients",
 	            "url": "https://francedepression.fr/index.php/contact",
 	            "url_info": "",
 	            "phone": [
@@ -1505,7 +1505,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Suicide Ãcoute",
+	            "name": "Suicide Écoute",
 	            "url": "https://www.suicide-ecoute.fr/",
 	            "url_info": "",
 	            "phone": [
@@ -1514,7 +1514,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Agri'Ã©coute",
+	            "name": "Agri'écoute",
 	            "url": "https://www.msa.fr/lfy/solidarite/prevention-suicide",
 	            "url_info": "",
 	            "phone": [
@@ -1523,7 +1523,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "La FÃ©dÃ©ration SOS Suicide PhÃ©nix France",
+	            "name": "La Fédération SOS Suicide Phénix France",
 	            "url": "https://sos-suicide-phenix.org/",
 	            "url_info": "",
 	            "phone": [
@@ -1532,7 +1532,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Cellule de soutien psychologique pour les chefs dâentreprises",
+	            "name": "Cellule de soutien psychologique pour les chefs d’entreprises",
 	            "url": "https://www.economie.gouv.fr/mise-en-place-cellule-ecoute-soutien-psychologique-chefs-entreprise#",
 	            "url_info": "",
 	            "phone": [
@@ -1550,7 +1550,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "FÃ©dÃ©ration 3977 contre les maltraitances",
+	            "name": "Fédération 3977 contre les maltraitances",
 	            "url": "https://3977.fr/",
 	            "url_info": "",
 	            "phone": [
@@ -1577,7 +1577,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "SolitudâÃ©coute - Petits FrÃ¨res des Pauvres",
+	            "name": "Solitud’écoute - Petits Frères des Pauvres",
 	            "url": "https://www.petitsfreresdespauvres.fr/",
 	            "url_info": "",
 	            "phone": [
@@ -1604,7 +1604,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Fil SantÃ© Jeunes",
+	            "name": "Fil Santé Jeunes",
 	            "url": "https://www.filsantejeunes.com/tchat-individuel",
 	            "url_info": "",
 	            "phone": [
@@ -1613,7 +1613,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Allo Parents BÃ©bÃ© - Enfance et Partage National",
+	            "name": "Allo Parents Bébé - Enfance et Partage National",
 	            "url": "https://enfance-et-partage.org/",
 	            "url_info": "",
 	            "phone": [
@@ -1647,7 +1647,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "FÃ©dÃ©ration Nationale des Associations et des Centres de prise en Charge d'Auteurs de Violences conjugales & Familiales (FNACAV)",
+	            "name": "Fédération Nationale des Associations et des Centres de prise en Charge d'Auteurs de Violences conjugales & Familiales (FNACAV)",
 	            "url": "http://www.fnacav.fr/",
 	            "url_info": "",
 	            "phone": [
@@ -1745,7 +1745,7 @@ window.decoded = [
 	{
 	    "Greece": [
 	        {
-	            "name": "1018 - 24ÏÏÎ· ÎÏÎ±Î¼Î¼Î® Î Î±ÏÎ­Î¼Î²Î±ÏÎ·Ï Î³Î¹Î± ÏÎ·Î½ ÎÏÏÎ¿ÎºÏÎ¿Î½Î¯Î±",
+	            "name": "1018 - 24ωρη Γραμμή Παρέμβασης για την Αυτοκτονία",
 	            "url": "http://suicide-help.gr/",
 	            "url_info": "",
 	            "phone": [
@@ -1754,7 +1754,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÎÎ¸Î½Î¹ÎºÎ® Î¤Î·Î»ÎµÏÏÎ½Î¹ÎºÎ® ÎÏÎ±Î¼Î¼Î® Î³Î¹Î± ÏÎ± Î Î±Î¹Î´Î¹Î¬ SOS 1056",
+	            "name": "Εθνική Τηλεφωνική Γραμμή για τα Παιδιά SOS 1056",
 	            "url": "https://www.hamogelo.gr/gr/el/paidia-thimata-vias:sos-1056/?fbclid=IwAR1VEEdmP5pu7ahBlyndD2TT_87xFh6Ix6qD-BfeSUId4NZVXyt00pZv14Q",
 	            "url_info": "",
 	            "phone": [
@@ -1852,7 +1852,7 @@ window.decoded = [
 	{
 	    "Honduras": [
 	        {
-	            "name": "TelÃ©fono De La Esperanza de San Pedro Sula",
+	            "name": "Teléfono De La Esperanza de San Pedro Sula",
 	            "url": "https://www.facebook.com/telefonodelaesperanzasps",
 	            "url_info": "",
 	            "phone": [
@@ -1872,7 +1872,7 @@ window.decoded = [
 	{
 	    "Hong Kong": [
 	        {
-	            "name": "æçªå©äºæ The Samaritans, 24 Hour Multi-Lingual Suicide Prevention Services",
+	            "name": "撒瑪利亞會 The Samaritans, 24 Hour Multi-Lingual Suicide Prevention Services",
 	            "url": "https://samaritans.org.hk/",
 	            "url_info": "",
 	            "phone": [
@@ -1881,7 +1881,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "é¦æ¸¯æçªå©äºé²æ­¢èªæ®ºæ 24 å°ææç·æ¯æ´ç±ç·ï¼å»£æ±è©±ï¼The Samaritan Befrienders Hong Kong 24-Hour Emotional Support Hotline (Cantonese)",
+	            "name": "香港撒瑪利亞防止自殺會 24 小時情緒支援熱線（廣東話）The Samaritan Befrienders Hong Kong 24-Hour Emotional Support Hotline (Cantonese)",
 	            "url": "https://chatpoint.org.hk/",
 	            "url_info": "",
 	            "phone": [
@@ -1890,7 +1890,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "24å°æ¶é¢é²èªæç­çº¿æå¡24-hour Suicide Prevention Hotline Service",
+	            "name": "24小时预防自杀热线服务24-hour Suicide Prevention Hotline Service",
 	            "url": "https://saysomething.solutiononehk.com/SPS/",
 	            "url_info": "",
 	            "phone": [
@@ -1908,7 +1908,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "èªæèäº²åæ¯æ´è®¡åServices for Survivors of Suicide Loss",
+	            "name": "自杀者亲友支援计划Services for Survivors of Suicide Loss",
 	            "url": "https://www.sps.org.hk",
 	            "url_info": "",
 	            "phone": [
@@ -1917,7 +1917,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "åéç¤¾24å°æ¶ç­çº¿æå¡24 Hours Hotline of Youth Outreach",
+	            "name": "协青社24小时热线服务24 Hours Hotline of Youth Outreach",
 	            "url": "https://www.yo.org.hk",
 	            "url_info": "",
 	            "phone": [
@@ -1926,7 +1926,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "åæ´ç­çº¿Caritas-Hong Kong Family Crisis Support Centre Crisis Hotline",
+	            "name": "向晴热线Caritas-Hong Kong Family Crisis Support Centre Crisis Hotline",
 	            "url": "https://fcsc.caritas.org.hk/",
 	            "url_info": "",
 	            "phone": [
@@ -1935,7 +1935,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "è´¢å°ååè¾å¯¼ä¸çº¿Financial Stress Counselling Hotline",
+	            "name": "财困压力辅导专线Financial Stress Counselling Hotline",
 	            "url": "https://fcsc.caritas.org.hk/",
 	            "url_info": "",
 	            "phone": [
@@ -1944,7 +1944,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "éå°å¹´çå½ä¸çº¿Youth Link",
+	            "name": "青少年生命专线Youth Link",
 	            "url": "https://www.sps.org.hk",
 	            "url_info": "",
 	            "phone": [
@@ -1953,7 +1953,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "çç±çå½é¿èç­çº¿Hotline for Elderly",
+	            "name": "珍爱生命长者热线Hotline for Elderly",
 	            "url": "https://www.sps.org.hk",
 	            "url_info": "",
 	            "phone": [
@@ -1971,7 +1971,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "é¢é²é¿èèªææå¡Suicide Prevention Services for the Elderly",
+	            "name": "预防长者自杀服务Suicide Prevention Services for the Elderly",
 	            "url": "https://www.sps.org.hk",
 	            "url_info": "",
 	            "phone": [
@@ -1980,7 +1980,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "åè«§ä¹å®¶24å°æå©¦å¥³æ±å©ç±ç· / Harmony House 24-hour Woman Hotline",
+	            "name": "和諧之家24小時婦女求助熱線 / Harmony House 24-hour Woman Hotline",
 	            "url": "https://www.harmonyhousehk.org/chi/hotlines",
 	            "url_info": "",
 	            "phone": [
@@ -1989,7 +1989,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ç·å£«ç­çº¿ / Harmony House Man Hotline",
+	            "name": "男士热线 / Harmony House Man Hotline",
 	            "url": "https://www.harmonyhousehk.org/chi/hotlines",
 	            "url_info": "",
 	            "phone": [
@@ -1998,7 +1998,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å©¦å¥³æ±å©ç±ç· Womenâs Helpline",
+	            "name": "婦女求助熱線 Women’s Helpline",
 	            "url": "https://womencentre.org.hk/Zh/Services/counselling/womenhelpline/",
 	            "url_info": "",
 	            "phone": [
@@ -2007,7 +2007,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å°ç½åå¿å£°å¿ç«¥ç­çº¿ / Harmony House Children Hotline",
+	            "name": "小白兔心声儿童热线 / Harmony House Children Hotline",
 	            "url": "https://www.harmonyhousehk.org/chi/hotlines",
 	            "url_info": "",
 	            "phone": [
@@ -2016,7 +2016,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "äº²åèªæå±æºå¨è¯¢ä¸çº¿Suicide Crisis Consultation Helpline for Family Members and Friends",
+	            "name": "亲友自杀危机咨询专线Suicide Crisis Consultation Helpline for Family Members and Friends",
 	            "url": "https://www.sbhk.org.hk/scic_service.php",
 	            "url_info": "",
 	            "phone": [
@@ -2025,7 +2025,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "å³æ¶é24å°æ¶å¬ä¼ç­çº¿Justone 24-hour Public Hotline",
+	            "name": "即时通24小时公众热线Justone 24-hour Public Hotline",
 	            "url": "https://reurl.cc/R0jMRn",
 	            "url_info": "",
 	            "phone": [
@@ -2045,7 +2045,7 @@ window.decoded = [
 	{
 	    "Hungary": [
 	        {
-	            "name": "Telefonos LelkisegÃ©ly-szolgÃ¡lat",
+	            "name": "Telefonos Lelkisegély-szolgálat",
 	            "url": "https://sos116-123.hu",
 	            "url_info": "",
 	            "phone": [
@@ -2054,7 +2054,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "KÃ©k Vonal GyermekkrÃ­zis AlapÃ­tvÃ¡ny",
+	            "name": "Kék Vonal Gyermekkrízis Alapítvány",
 	            "url": "https://kek-vonal.hu/",
 	            "url_info": "",
 	            "phone": [
@@ -2074,7 +2074,7 @@ window.decoded = [
 	{
 	    "Iceland": [
 	        {
-	            "name": "HjÃ¡lparsÃ­mi RauÃ°a krossins 1717",
+	            "name": "Hjálparsími Rauða krossins 1717",
 	            "url": "https://www.raudikrossinn.is/verkefni/innanlandsverkefni/heilbrigdi-og-velferd/hjalparsiminn-1717-og-netspjallid/",
 	            "url_info": "",
 	            "phone": [
@@ -2256,7 +2256,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ØµØ¯Ø§Û ÛØ§Ø±Ø§ - Yara's Voice",
+	            "name": "صدای یارا - Yara's Voice",
 	            "url": "https://www.irsprc.org/sedaye-yara/",
 	            "url_info": "",
 	            "phone": [
@@ -2328,7 +2328,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Donegal Womenâs Centre",
+	            "name": "Donegal Women’s Centre",
 	            "url": "http://donegalwomenscentre.ie/",
 	            "url_info": "",
 	            "phone": [
@@ -2492,7 +2492,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ï¼ãã®ã¡SOS",
+	            "name": "＃いのちSOS",
 	            "url": "https://www.lifelink.or.jp/inochisos/",
 	            "url_info": "",
 	            "phone": [
@@ -2570,7 +2570,7 @@ window.decoded = [
 	{
 	    "Kazakhstan": [
 	        {
-	            "name": "Ð±Ð°Ð»Ð°Ð»Ð°Ñ Ð¼ÐµÐ½ Ð¶Ð°ÑÓ©ÑÐ¿ÑÑÑÐ¼Ð´ÐµÑÐ³Ðµ Ð°ÑÐ½Ð°Ð»ÒÐ°Ð½ ÑÐµÐ½ÑÐ¼ ÑÐµÐ»ÐµÑÐ¾Ð½Ñ No150",
+	            "name": "балалар мен жасөспірімдерге арналған сенім телефоны No150",
 	            "url": "https://www.telefon150.kz/",
 	            "url_info": "",
 	            "phone": [
@@ -2610,7 +2610,7 @@ window.decoded = [
 	{
 	    "South Korea": [
 	        {
-	            "name": "ìì´ìë°©ìë´ì í 1393",
+	            "name": "자살예방상담전화 1393",
 	            "url": "http://www.129.go.kr/1393/",
 	            "url_info": "",
 	            "phone": [
@@ -2619,7 +2619,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ì¬ëìì í ìë´ì¤ - Love Call Center",
+	            "name": "사랑의전화 상담실 - Love Call Center",
 	            "url": "http://www.counsel24.com/",
 	            "url_info": "",
 	            "phone": [
@@ -2628,7 +2628,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ì ì ê±´ê°ë³µì§ì¼í° ì ì ê±´ê°ìê¸°ìë´ì í Mental Health Center Crisis Counseling",
+	            "name": "정신건강복지센터 정신건강위기상담전화 Mental Health Center Crisis Counseling",
 	            "url": "https://www.061mind.or.kr/",
 	            "url_info": "",
 	            "phone": [
@@ -2637,7 +2637,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "í¬ë§ì ì í 129!",
+	            "name": "희망의 전화 129!",
 	            "url": "https://accounts.kakao.com/login?continue=https%3A%2F%2Fbizmessage.kakao.com%2Fchat%2Fs_GCEANNQ_YKvlqQ51jHkQ%3Frf%3Dhttp%3A%2F%2Fwww.129.go.kr%2F",
 	            "url_info": "",
 	            "phone": [
@@ -2657,7 +2657,7 @@ window.decoded = [
 	{
 	    "Kosovo": [
 	        {
-	            "name": "Linja e JetÃ«s",
+	            "name": "Linja e Jetës",
 	            "url": "https://qips.quantech-ks.com/linja-e-jetes/",
 	            "url_info": "",
 	            "phone": [
@@ -2677,7 +2677,7 @@ window.decoded = [
 	{
 	    "Latvia": [
 	        {
-	            "name": "Vienotais krÄ«zes tÄlrunis",
+	            "name": "Vienotais krīzes tālrunis",
 	            "url": "https://www.skalbes.lv/",
 	            "url_info": "",
 	            "phone": [
@@ -2726,7 +2726,7 @@ window.decoded = [
 	{
 	    "Libya": [
 	        {
-	            "name": "âÙØ±ÙÙ Ø§ÙØ¯Ø¹Ù Ø§ÙÙÙØ³ Ø§Ø¬ØªÙØ§Ø¹Ù -ÙÙØ¨ÙØ§ - Libyan Psychosocial Support Team",
+	            "name": "‎فريق الدعم النفس اجتماعي -ليبيا - Libyan Psychosocial Support Team",
 	            "url": "sms:00218923978252",
 	            "url_info": "",
 	            "phone": [
@@ -2746,7 +2746,7 @@ window.decoded = [
 	{
 	    "Lithuania": [
 	        {
-	            "name": "Pagalbos smurtÄ patyrusiems linija",
+	            "name": "Pagalbos smurtą patyrusiems linija",
 	            "url": "https://www.specializuotospagalboscentras.lt/",
 	            "url_info": "",
 	            "phone": [
@@ -2782,7 +2782,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "SidabrinÄ linija (the Silver Line)",
+	            "name": "Sidabrinė linija (the Silver Line)",
 	            "url": "https://www.sidabrinelinija.lt/",
 	            "url_info": "",
 	            "phone": [
@@ -2800,7 +2800,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "VaikÅ³ Linija (Child Line)",
+	            "name": "Vaikų Linija (Child Line)",
 	            "url": "https://www.vaikulinija.lt/",
 	            "url_info": "",
 	            "phone": [
@@ -2809,7 +2809,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "VyrÅ³ linija",
+	            "name": "Vyrų linija",
 	            "url": "https://www.vyrulinija.lt/",
 	            "url_info": "",
 	            "phone": [
@@ -2829,7 +2829,7 @@ window.decoded = [
 	{
 	    "Luxembourg": [
 	        {
-	            "name": "SOS DÃ©tresse",
+	            "name": "SOS Détresse",
 	            "url": "https://454545.lu/",
 	            "url_info": "",
 	            "phone": [
@@ -2997,7 +2997,7 @@ window.decoded = [
 	{
 	    "Mexico": [
 	        {
-	            "name": "OceÃ¡nica Helpline",
+	            "name": "Oceánica Helpline",
 	            "url": "https://oceanica.com.mx/",
 	            "url_info": "",
 	            "phone": [
@@ -3006,7 +3006,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "AtenciÃ³n PsicolÃ³gica A Distancia UNAM",
+	            "name": "Atención Psicológica A Distancia UNAM",
 	            "url": "http://www.psicologia.unam.mx/centros-de-formacion/",
 	            "url_info": "",
 	            "phone": [
@@ -3015,7 +3015,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea De La Vida",
+	            "name": "Línea De La Vida",
 	            "url": "https://www.gob.mx/salud/conadic/acciones-y-programas/centro-de-atencion-ciudadana-contra-las-adicciones-134381",
 	            "url_info": "",
 	            "phone": [
@@ -3071,7 +3071,7 @@ window.decoded = [
 	{
 	    "Mongolia": [
 	        {
-	            "name": "Ð¡ÑÑÐ³ÑÑÐ¸Ð¹Ð½ ÑÑÒ¯Ò¯Ð» Ð¼ÑÐ½Ð´Ð¸Ð¹Ð½ Ð¼ÑÐ´ÑÑÐ»ÑÐ» Ó©Ð³Ó©Ñ ÑÑÐ°Ñ 1800-2000",
+	            "name": "Сэтгэцийн эрүүл мэндийн мэдээлэл өгөх утас 1800-2000",
 	            "url": "https://ncmh.gov.mn",
 	            "url_info": "",
 	            "phone": [
@@ -3118,7 +3118,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "à¥§à¥§à¥¬à¥¬ à¤à¤¤à¥à¤®à¤¹à¤¤à¥à¤¯à¤¾ à¤°à¥à¤à¤¥à¤¾à¤®à¤à¥ à¤²à¤¾à¤à¤¿ à¤°à¤¾à¤·à¥à¤à¥à¤°à¤¿à¤¯ à¤¹à¥à¤²à¥à¤ªà¤²à¤¾à¤à¤¨",
+	            "name": "११६६ आत्महत्या रोकथामको लागि राष्ट्रिय हेल्पलाईन",
 	            "url": "https://www.facebook.com/1166helpline",
 	            "url_info": "",
 	            "phone": [
@@ -3201,7 +3201,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Alles okÃ©? Supportlijn",
+	            "name": "Alles oké? Supportlijn",
 	            "url": "https://www.allesoke.nl/",
 	            "url_info": "",
 	            "phone": [
@@ -3302,7 +3302,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "The Lowdown â Youth Helpline",
+	            "name": "The Lowdown – Youth Helpline",
 	            "url": "sms:5626",
 	            "url_info": "",
 	            "phone": [
@@ -3387,7 +3387,7 @@ window.decoded = [
 	{
 	    "North Macedonia": [
 	        {
-	            "name": "ÐÑÐ¸ÑÐ¾Ð»Ð¾ÑÐºÐ° Ð¿Ð¾Ð´Ð´ÑÑÐºÐ° Ð½Ð° Ð²Ð¾Ð·ÑÐ°ÑÐ½Ð¸ Ð»Ð¸ÑÐ° Ð²Ð¾ ÑÐ°Ð¼Ð¾Ð¸Ð·Ð¾Ð»Ð°ÑÐ¸ÑÐ° - Psychological support for people in self-isolation",
+	            "name": "Психолошка поддршка на возрасни лица во самоизолација - Psychological support for people in self-isolation",
 	            "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
 	            "url_info": "",
 	            "phone": [
@@ -3396,7 +3396,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Ð¢ÑÑÐ´Ð½Ð¸ÑÐ¸ÑÐµ Ð¸ ÑÐ¾Ð´Ð¸Ð»ÐºÐ¸ÑÐµ Ð½Ð° ÐºÐ¾Ð¸ Ð¸Ð¼ Ðµ Ð¿Ð¾ÑÑÐµÐ±Ð½Ð° Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾ÑÐºÐ° Ð¿Ð¾Ð´Ð´ÑÑÐºÐ° - Pregnant Women and Mothers In Need Psychological Support",
+	            "name": "Трудниците и родилките на кои им е потребна психолошка поддршка - Pregnant Women and Mothers In Need Psychological Support",
 	            "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
 	            "url_info": "",
 	            "phone": [
@@ -3405,7 +3405,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÑÐ¸ÑÐ¾Ð»Ð¾ÑÐºÐ° Ð¿Ð¾Ð´Ð´ÑÑÐºÐ° Ð·Ð° Ð»Ð¸ÑÐ° ÑÐ¾ Ð½Ð°ÑÑÑÑÐ²Ð°ÑÐµ Ð½Ð° ÑÐ»ÑÑÐ¾Ñ, Ð³Ð¾Ð²Ð¾ÑÐ¾Ñ Ð¸ Ð³Ð»Ð°ÑÐ¾Ñ - Psychological Support for People with Hearing, Speech and Voice Disorders",
+	            "name": "Психолошка поддршка за лица со нарушување на слухот, говорот и гласот - Psychological Support for People with Hearing, Speech and Voice Disorders",
 	            "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
 	            "url_info": "",
 	            "phone": [
@@ -3414,7 +3414,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÑÐ¸ÑÐ¾Ð»Ð¾ÑÐºÐ° Ð¿Ð¾Ð´Ð´ÑÑÐºÐ° Ð·Ð° ÑÐ¾Ð´Ð¸ÑÐµÐ»Ð¸ Ð½Ð° Ð´ÐµÑÐ° ÑÐ¾ Ð¿Ð¾Ð¿ÑÐµÑÐµÐ½Ð¾ÑÑ - Psychological Support for Parents of Children with Disabilities",
+	            "name": "Психолошка поддршка за родители на деца со попреченост - Psychological Support for Parents of Children with Disabilities",
 	            "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
 	            "url_info": "",
 	            "phone": [
@@ -3423,7 +3423,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÑÐ¸ÑÐ¾Ð»Ð¾ÑÐºÐ° Ð¿Ð¾Ð´Ð´ÑÑÐºÐ° Ð½Ð° ÑÐ¾Ð´Ð¸ÑÐµÐ»Ð¸ Ð½Ð° Ð´ÐµÑÐ° Ð¾Ð´ Ð¿ÑÐµÐ´ÑÑÐ¸Ð»Ð¸ÑÐ½Ð° Ð¸ ÑÑÐ¸Ð»Ð¸ÑÐ½Ð° Ð²Ð¾Ð·ÑÐ°ÑÑ - Psychological support for parents of preschool and school children",
+	            "name": "Психолошка поддршка на родители на деца од предучилишна и училишна возраст - Psychological support for parents of preschool and school children",
 	            "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
 	            "url_info": "",
 	            "phone": [
@@ -3567,7 +3567,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "TÃ­a Elaine Helpline",
+	            "name": "Tía Elaine Helpline",
 	            "url": "https://senniaf.gob.pa/?page_id=16121",
 	            "url_info": "",
 	            "phone": [
@@ -3607,7 +3607,7 @@ window.decoded = [
 	{
 	    "Peru": [
 	        {
-	            "name": "Infosalud PerÃº",
+	            "name": "Infosalud Perú",
 	            "url": "https://www.gob.pe/555-recibir-informacion-y-orientacion-en-salud",
 	            "url_info": "",
 	            "phone": [
@@ -3625,7 +3625,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea 100",
+	            "name": "Línea 100",
 	            "url": "https://www.gob.pe/481-ayuda-contra-la-violencia-familiar-y-sexual-linea-100",
 	            "url_info": "",
 	            "phone": [
@@ -3692,7 +3692,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Telefon zaufania migrantÃ³w i migrantek",
+	            "name": "Telefon zaufania migrantów i migrantek",
 	            "url": "https://slowopomoc.pl/",
 	            "url_info": "",
 	            "phone": [
@@ -3701,7 +3701,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "OlsztyÅskie Stowarzyszenie Pomocy Telefoniczej (Olsztyn Telephone Emergency Help Association)",
+	            "name": "Olsztyńskie Stowarzyszenie Pomocy Telefoniczej (Olsztyn Telephone Emergency Help Association)",
 	            "url": "http://telefonzaufania.org/",
 	            "url_info": "",
 	            "phone": [
@@ -3728,7 +3728,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Stowarzyszenie Animo - OdwaÅ¼ siÄ Å¼yÄ!",
+	            "name": "Stowarzyszenie Animo - Odważ się żyć!",
 	            "url": "https://stowarzyszenieanimo.pl/",
 	            "url_info": "",
 	            "phone": [
@@ -3737,7 +3737,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Telefon Zaufania uzaleÅ¼nienia behawioralne",
+	            "name": "Telefon Zaufania uzależnienia behawioralne",
 	            "url": "https://kcpu.gov.pl/",
 	            "url_info": "",
 	            "phone": [
@@ -3746,7 +3746,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Infolinia Towarzystwa PrzyjaciÃ³Å Dzieci",
+	            "name": "Infolinia Towarzystwa Przyjaciół Dzieci",
 	            "url": "https://800119119.pl/",
 	            "url_info": "",
 	            "phone": [
@@ -3764,7 +3764,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Telefon Zaufania dla dzieci i mÅodzieÅ¼y",
+	            "name": "Telefon Zaufania dla dzieci i młodzieży",
 	            "url": "https://panel.116111.pl/",
 	            "url_info": "",
 	            "phone": [
@@ -3773,7 +3773,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Telefon zaufania dla mÄÅ¼czyzn / Helpline for men",
+	            "name": "Telefon zaufania dla mężczyzn / Helpline for men",
 	            "url": "https://www.fundacjaipw.org/mezczyzni",
 	            "url_info": "",
 	            "phone": [
@@ -3782,7 +3782,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Infolinia dla osÃ³b starszych",
+	            "name": "Infolinia dla osób starszych",
 	            "url": "https://www.malibracia.org.pl/nasze-projekty/telefon-zaufania-dla-osob-starszych/",
 	            "url_info": "",
 	            "phone": [
@@ -3820,7 +3820,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Vozes Amigas de EsperanÃ§a",
+	            "name": "Vozes Amigas de Esperança",
 	            "url": "https://www.voades.pt/",
 	            "url_info": "",
 	            "phone": [
@@ -3858,7 +3858,7 @@ window.decoded = [
 	{
 	    "Puerto Rico": [
 	        {
-	            "name": "LÃ­nea PAS",
+	            "name": "Línea PAS",
 	            "url": "https://lineapas.assmca.pr.gov/",
 	            "url_info": "",
 	            "phone": [
@@ -3867,7 +3867,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea De OrientaciÃ³n Confidencial De La Oficina De La Procuradora De Mujeres",
+	            "name": "Línea De Orientación Confidencial De La Oficina De La Procuradora De Mujeres",
 	            "url": "https://mujer.pr.gov/Pages/default.aspx",
 	            "url_info": "",
 	            "phone": [
@@ -3945,7 +3945,7 @@ window.decoded = [
 	{
 	    "Russia": [
 	        {
-	            "name": "Ð­ÐºÑÑÑÐµÐ½Ð½Ð¾Ð¹ Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ ÐÐ§Ð¡ Ð Ð¾ÑÑÐ¸Ð¸ - Emergency Psychological Assistance EMERCOM of Russia",
+	            "name": "Экстренной психологической помощи МЧС России - Emergency Psychological Assistance EMERCOM of Russia",
 	            "url": "https://psi.mchs.gov.ru/",
 	            "url_info": "",
 	            "phone": [
@@ -3954,7 +3954,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Ð¢ÐµÐ»ÐµÑÐ¾Ð½ Ð´Ð¾Ð²ÐµÑÐ¸Ñ Ð¡ÑÐ¸ÑÐ¸Ð´ ÐÐ±Ð»Ð°ÑÑÐ½Ð°Ñ Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ° â 20",
+	            "name": "Телефон доверия Суицид Областная больница № 20",
 	            "url": "https://ob20uvat.ru/polezno/422-telefon-doveriya-suitsid.html",
 	            "url_info": "",
 	            "phone": [
@@ -3972,7 +3972,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ°Ñ ÐÐÐÐ¢-ÑÐµÑÑ",
+	            "name": "Российская ЛГБТ-сеть",
 	            "url": "https://lgbtnet.org/helps/",
 	            "url_info": "",
 	            "phone": [
@@ -3981,7 +3981,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Ð¢ÑÐÐµÐÐ´Ð½Ð° ÐÐµÐÐ¾ÑÑÑÐ°ÑÐÐ¸Ð½Ð¸Ñ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ (YouAreNotAlone Women's Helpline)",
+	            "name": "ТыНеОдна НеГорячаяЛиния помощи (YouAreNotAlone Women's Helpline)",
 	            "url": "https://tineodna.ru/#how",
 	            "url_info": "",
 	            "phone": [
@@ -3990,7 +3990,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÐµÐÐ¾ÑÑÑÐ°ÑÐÐ¸Ð½Ð¸Ñ",
+	            "name": "НеГорячаяЛиния",
 	            "url": "https://hotlineformen.ru/",
 	            "url_info": "",
 	            "phone": [
@@ -3999,7 +3999,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÑÐ²Ð¾ÑÑÐµÑÑÐ¸ÑÐ¾ÑÐ¸Ñ - Your Territory Online",
+	            "name": "твоятерритория - Your Territory Online",
 	            "url": "https://www.xn--b1agja1acmacmce7nj.xn--80asehdb/",
 	            "url_info": "",
 	            "phone": [],
@@ -4229,7 +4229,7 @@ window.decoded = [
 	{
 	    "Slovakia": [
 	        {
-	            "name": "Linka dÃ´very NezÃ¡budka",
+	            "name": "Linka dôvery Nezábudka",
 	            "url": "https://www.linkanezabudka.sk",
 	            "url_info": "",
 	            "phone": [
@@ -4238,7 +4238,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Pomoc obetiam nÃ¡silia",
+	            "name": "Pomoc obetiam násilia",
 	            "url": "http://pomocobetiam.sk",
 	            "url_info": "",
 	            "phone": [
@@ -4256,7 +4256,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "IPÄko",
+	            "name": "IPčko",
 	            "url": "https://ipcko.sk/chatova-poradna/",
 	            "url_info": "",
 	            "phone": [
@@ -4285,7 +4285,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "Klic v duÅ¡evni stiski - A Call In Mental Distress",
+	            "name": "Klic v duševni stiski - A Call In Mental Distress",
 	            "url": "https://www.psih-klinika.si/",
 	            "url_info": "",
 	            "phone": [
@@ -4294,7 +4294,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "SOS telefon za Å¾enske in otroke - Å¾rtve nasilja",
+	            "name": "SOS telefon za ženske in otroke - žrtve nasilja",
 	            "url": "https://drustvo-sos.si/",
 	            "url_info": "",
 	            "phone": [
@@ -4397,7 +4397,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "AsociaciÃ³n Internacional TelÃ©fono de la Esperanza (ASITES)",
+	            "name": "Asociación Internacional Teléfono de la Esperanza (ASITES)",
 	            "url": "https://telefonodelaesperanza.org/",
 	            "url_info": "",
 	            "phone": [
@@ -4406,7 +4406,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "PsicÃ³logos Sin Fronteras EspaÃ±a",
+	            "name": "Psicólogos Sin Fronteras España",
 	            "url": "https://fundacionpsf.org/",
 	            "url_info": "",
 	            "phone": [
@@ -4415,7 +4415,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "TelÃ©fono De La Mujer Galicia",
+	            "name": "Teléfono De La Mujer Galicia",
 	            "url": "http://igualdade.xunta.gal/es/content/telefono-de-la-mujer",
 	            "url_info": "",
 	            "phone": [
@@ -4424,7 +4424,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "FundaciÃ³n ANAR de Ayuda A NiÃ±os/as y Adolescentes",
+	            "name": "Fundación ANAR de Ayuda A Niños/as y Adolescentes",
 	            "url": "https://www.anar.org",
 	            "url_info": "",
 	            "phone": [
@@ -4433,7 +4433,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "LÃ­nea 024",
+	            "name": "Línea 024",
 	            "url": "https://www.sanidad.gob.es/linea024/home.htm",
 	            "url_info": "",
 	            "phone": [
@@ -4442,7 +4442,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "TelÃ©fono Contra el Suicidio",
+	            "name": "Teléfono Contra el Suicidio",
 	            "url": "https://www.telefonocontraelsuicidio.org/",
 	            "url_info": "",
 	            "phone": [
@@ -4462,7 +4462,7 @@ window.decoded = [
 	{
 	    "Sri Lanka": [
 	        {
-	            "name": "à·à·à·à·à·à·à¶½à¶ºà·à¶±à· 1333",
+	            "name": "සීසීසීලයින් 1333",
 	            "url": "https://1333.lk",
 	            "url_info": "",
 	            "phone": [
@@ -4500,7 +4500,7 @@ window.decoded = [
 	{
 	    "Sudan": [
 	        {
-	            "name": "9696 Hotline - Ø§ÙØ®Ø· Ø§ÙØ³Ø§Ø®Ù 9696",
+	            "name": "9696 Hotline - الخط الساخن 9696",
 	            "url": "https://www.facebook.com/FCPA.SD/?fref=ts",
 	            "url_info": "",
 	            "phone": [
@@ -4623,7 +4623,7 @@ window.decoded = [
 	{
 	    "Taiwan": [
 	        {
-	            "name": "å½éçå½çº¿å°æ¹¾æ»ä¼ (International Lifeline Taiwan Association)",
+	            "name": "国际生命线台湾总会 (International Lifeline Taiwan Association)",
 	            "url": "http://www.life1995.org.tw/",
 	            "url_info": "",
 	            "phone": [
@@ -4672,7 +4672,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "à¸à¸£à¸¶à¸à¸©à¸²à¸à¸±à¸à¸«à¸²à¸ªà¸¸à¸à¸ à¸²à¸à¸à¸´à¸ 1323",
+	            "name": "ปรึกษาปัญหาสุขภาพจิต 1323",
 	            "url": "https://www.facebook.com/helpline1323",
 	            "url_info": "",
 	            "phone": [
@@ -4681,7 +4681,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "à¸¨à¸¹à¸à¸¢à¹à¸à¹à¸§à¸¢à¹à¸«à¸¥à¸·à¸­à¸ªà¸±à¸à¸à¸¡ à¸ªà¸²à¸¢à¸à¹à¸§à¸ 1300 (Social Help Center Hotline 1300)",
+	            "name": "ศูนย์ช่วยเหลือสังคม สายด่วน 1300 (Social Help Center Hotline 1300)",
 	            "url": "https://1300thailand.m-society.go.th/",
 	            "url_info": "",
 	            "phone": [
@@ -4786,7 +4786,7 @@ window.decoded = [
 	{
 	    "Ukraine": [
 	        {
-	            "name": "ÐÐ°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ð° Ð³Ð°ÑÑÑÐ° Ð»ÑÐ½ÑÑ Ð· Ð¿Ð¾Ð¿ÐµÑÐµÐ´Ð¶ÐµÐ½Ð½Ñ Ð´Ð¾Ð¼Ð°ÑÐ½ÑÐ¾Ð³Ð¾ Ð½Ð°ÑÐ¸Ð»ÑÑÑÐ²Ð°, ÑÐ¾ÑÐ³ÑÐ²Ð»Ñ Ð»ÑÐ´ÑÐ¼Ð¸ ÑÐ° Ð³ÐµÐ½Ð´ÐµÑÐ½Ð¾Ñ Ð´Ð¸ÑÐºÑÐ¸Ð¼ÑÐ½Ð°ÑÑÑ",
+	            "name": "Національна гаряча лінія з попередження домашнього насильства, торгівлі людьми та гендерної дискримінації",
 	            "url": "https://la-strada.org.ua/",
 	            "url_info": "",
 	            "phone": [
@@ -4795,7 +4795,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "ÐÐ°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ð° Ð³Ð°ÑÑÑÐ° Ð»ÑÐ½ÑÑ Ð´Ð»Ñ Ð´ÑÑÐµÐ¹ ÑÐ° Ð¼Ð¾Ð»Ð¾Ð´Ñ - National Toll-Free Hot Line for Children and Youth",
+	            "name": "Національна гаряча лінія для дітей та молоді - National Toll-Free Hot Line for Children and Youth",
 	            "url": "https://la-strada.org.ua/kontakty",
 	            "url_info": "",
 	            "phone": [
@@ -5313,7 +5313,7 @@ window.decoded = [
 	{
 	    "Uruguay": [
 	        {
-	            "name": "LÃ­nea Nacional de PrevenciÃ³n del Suicidio",
+	            "name": "Línea Nacional de Prevención del Suicidio",
 	            "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/linea-de-prevencion-del-suicidio-0800-0767#:~:text=La%20l%C3%ADnea%20es%20un%20servicio,los%20suicidios%20a%20nivel%20pa%C3%ADs.",
 	            "url_info": "",
 	            "phone": [
@@ -5333,7 +5333,7 @@ window.decoded = [
 	{
 	    "Venezuela": [
 	        {
-	            "name": "LÃ­nea de Ayuda PsicolÃ³gica (LAPSI) / FederaciÃ³n de PsicÃ³logos de Venezuela",
+	            "name": "Línea de Ayuda Psicológica (LAPSI) / Federación de Psicólogos de Venezuela",
 	            "url": "http://www.fpv.org.ve/",
 	            "url_info": "",
 	            "phone": [
@@ -5353,7 +5353,7 @@ window.decoded = [
 	{
 	    "Vietnam": [
 	        {
-	            "name": "TÃ¢m lÃ½ NQH",
+	            "name": "Tâm lý NQH",
 	            "url": "https://tamlynqh.vn/",
 	            "url_info": "",
 	            "phone": [
@@ -5362,7 +5362,7 @@ window.decoded = [
 	            "phone_info": ""
 	        },
 	        {
-	            "name": "NgÃ y mai",
+	            "name": "Ngày mai",
 	            "url": "https://duongdaynongngaymai.vn/",
 	            "url_info": "",
 	            "phone": [

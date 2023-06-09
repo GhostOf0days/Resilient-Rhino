@@ -38,11 +38,6 @@ npm run test
 * Github: [@tkoz0](https://github.com/tkoz0)
 * Role: Scraper
 
-👤 **Andy Zhu**
-
-* Github: [@blitzionic](https://github.com/blitzionic)
-* Role: Resources
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/0dayReaper/Resilient-Rhino/issues). 
