@@ -8,7 +8,7 @@ def decode_json_file(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as infile:
         data = json.load(infile)
 
-    formatted_data = {}
+    formatted_data = []
     countries = {
         'Afghanistan': 'af',
         'Albania': 'al',
@@ -253,11 +253,14 @@ def decode_json_file(input_file, output_file):
     }
 
     for country in data:
-        if country in countries:
-            country_code = countries[country]
+        codes_to_countries = {v: k for k, v in countries.items()}
+        if country in codes_to_countries:
+            country_name = codes_to_countries[country]
         else:
             continue
-        formatted_data[country_code] = []
+
+        country_data = {country_name: []}
+
         for item in data[country]:
             new_item = {}
             new_item['name'] = decode_unicode_string(item['name'])
@@ -272,10 +275,10 @@ def decode_json_file(input_file, output_file):
                 else:
                     new_item['url'] = link
             
-            formatted_data[country_code].append(new_item)
+            country_data[country_name].append(new_item)
 
         # add 7 Cups resource
-        formatted_data[country_code].append({
+        country_data[country_name].append({
             "name": "7 Cups",
             "url": "https://www.7cups.com/",
             "url_info": "",
@@ -283,14 +286,22 @@ def decode_json_file(input_file, output_file):
             "phone_info": ""
         })
 
+        formatted_data.append(country_data)
+
     with open(output_file, 'w', encoding='utf-8') as outfile:
-        json.dump(formatted_data, outfile, ensure_ascii=False, indent=4)
+        outfile.write('window.decoded = [\n')
+        for i, country_data in enumerate(formatted_data):
+            indented_data = json.dumps(country_data, ensure_ascii=False, indent=4).replace('\n', '\n\t')
+            indented_data = indented_data.replace('{', '\t{', 1)
+            outfile.write(indented_data)
+            outfile.write(',\n')
+        outfile.write('\n];')
 
 # Get the directory of the current script
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define the relative paths to the input and output files
 input_file = os.path.join(current_dir, '..', 'scraper', 'scraped.json')
-output_file = os.path.join(current_dir, 'decoded.json')
+output_file = os.path.join(current_dir, 'decoded.js')
 
 decode_json_file(input_file, output_file)
