@@ -31,6 +31,10 @@ npm run test
 
 * Github: [@0dayReaper](https://github.com/0dayReaper)
 
+**Thomas Kozlowski**
+
+* Github: [@tkoz0](https://github.com/tkoz0)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/0dayReaper/Resilient-Rhino/issues). 
