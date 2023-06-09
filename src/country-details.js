@@ -29,5 +29,5 @@ if (countryName) {
     countryElement.textContent = 'Country not found';
   }
 } else {
-  window.location.href = 'index.html'; // Redirect to the main page if country name is not provided
+  window.location.href = './index.html'; // Redirect to the main page if country name is not provided
 }
