@@ -43,13 +43,16 @@
   
       #country-details a {
         color: #FF4081;
-        text-decoration: none;
-        transition: color 0.2s;
+        text-decoration: underline;
+        text-decoration-color: #FF4081;
+        transition: color 0.2s, text-decoration-color 0.2s;
         font-weight: bold;
       }
   
       #country-details a:hover {
         color: #FF6E98;
+        text-decoration: underline;
+        text-decoration-color: #FF6E98;
         transform: scale(1.05);
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
       }
