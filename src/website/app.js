@@ -132,8 +132,19 @@ function displayCountryDetails(countryName) {
       const countryNameLower = countryName.toLowerCase();
       const countryNicknames = window.countryNicknames[countryName] || [];
       const lowerCaseNicknames = countryNicknames.map(nickname => nickname.toLowerCase());
-      return countryNameLower.includes(searchTerm) || lowerCaseNicknames.some(nickname => nickname.includes(searchTerm));
-    });     
+    
+      if (countryNameLower.includes(searchTerm)) {
+        return true;
+      }
+
+      for (const nickname of lowerCaseNicknames) {
+        if (nickname === searchTerm) {
+          return true; // Exact match with nickname
+        }
+      }
+    
+      return false; // No match found
+    });      
   
     if (filteredCountries.length === 0) {
       displayCountryCards(window.countries);
