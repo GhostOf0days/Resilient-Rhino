@@ -6,8 +6,8 @@
 "description": "Resilient Rhino is a global resource platform providing local suicide prevention hotlines, counseling resources, and mental health support.",
 "lang": "en",
 "dir": "auto",
-"theme_color": "#000000",
-"background_color": "#000000",
+"theme_color": "#FF6E98",
+"background_color": "#FF6E98",
 "orientation": "any",
 "icons": [
     {
