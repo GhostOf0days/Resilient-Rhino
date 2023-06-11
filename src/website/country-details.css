@@ -1,5 +1,5 @@
     /* General Body CSS */
-    body {
+      body {
         cursor: url('../../public/cursors/rhinoHeartCursor.cur'), auto;
         font-family: 'Helvetica Neue', Arial, sans-serif;
         background: linear-gradient(120deg, #E6E6FA, #C9E8FF);
@@ -19,8 +19,11 @@
         background-color: #FFF;
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
       }
-  
+
       #country-details h2 {
         color: #3E4147;
         font-size: 28px;
@@ -28,17 +31,28 @@
         text-align: center;
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
         transition: text-shadow 0.3s ease-in-out;
+        width: 100%;
       }
-  
+
       #country-details ul {
         list-style-type: none;
         padding: 0;
         margin: 0;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
       }
-  
+
       #country-details li {
-        margin-bottom: 10px;
+        margin: 10px;
         text-align: center;
+        background: #e8e8f9;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        flex-basis: calc(50% - 20px);
+        max-width: calc(50% - 20px);
       }
   
       #country-details a {
