@@ -277,6 +277,18 @@
         .top-bar h1 {
             justify-content: center;
         }
+        
+        .country-card {
+            width: calc(50% - 20px); /* Display two country cards per row */
+            box-sizing: border-box;
+            margin: 10px;
+        }
+
+        #resources {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
 
         h2 {
             font-size: 18px;
