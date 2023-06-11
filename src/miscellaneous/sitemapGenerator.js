@@ -1,4 +1,127 @@
-const countries = window.countries;
+const fs = require('fs');
+const path = require('path');
+
+const countries = [
+  "Argentina",
+  "Australia",
+  "Austria",
+  "Belgium",
+  "Brazil",
+  "Bulgaria",
+  "Canada",
+  "China",
+  "Croatia",
+  "Cyprus",
+  "Czech Republic",
+  "Denmark",
+  "Egypt",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hong Kong",
+  "Hungary",
+  "Iceland",
+  "India",
+  "Ireland",
+  "Israel",
+  "Italy",
+  "Japan",
+  "Kenya",
+  "Malaysia",
+  "Mexico",
+  "Netherlands",
+  "New Zealand",
+  "Nigeria",
+  "Norway",
+  "Philippines",
+  "Poland",
+  "Portugal",
+  "Puerto Rico",
+  "Romania",
+  "Russia",
+  "Singapore",
+  "South Africa",
+  "South Korea",
+  "Spain",
+  "Sweden",
+  "Switzerland",
+  "Taiwan",
+  "Thailand",
+  "Turkey",
+  "Ukraine",
+  "United States",
+  "United Kingdom",
+  "Vietnam",
+  "Zimbabwe",
+  "Albania",
+  "Bahamas",
+  "Bangladesh",
+  "Barbados",
+  "Belarus",
+  "Bosnia and Herzegovina",
+  "Burundi",
+  "Cambodia",
+  "Chile",
+  "Colombia",
+  "Costa Rica",
+  "Djibouti",
+  "Dominica",
+  "Dominican Republic",
+  "Ecuador",
+  "England",
+  "Estonia",
+  "Fiji",
+  "Gambia",
+  "Gibraltar",
+  "Guernsey",
+  "Guyana",
+  "Haiti",
+  "Honduras",
+  "Iran",
+  "Jamaica",
+  "Jersey",
+  "Jordan",
+  "Kazakhstan",
+  "Kosovo",
+  "Latvia",
+  "Lebanon",
+  "Libya",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Mauritius",
+  "Moldova",
+  "Mongolia",
+  "Morocco",
+  "Nepal",
+  "North Macedonia",
+  "Northern Ireland",
+  "Pakistan",
+  "Panama",
+  "Papua New Guinea",
+  "Peru",
+  "Qatar",
+  "Rwanda",
+  "Saint Lucia",
+  "Samoa",
+  "Saudi Arabia",
+  "Scotland",
+  "Serbia",
+  "Seychelles",
+  "Slovakia",
+  "Slovenia",
+  "Sri Lanka",
+  "Sudan",
+  "Tanzania",
+  "Trinidad and Tobago",
+  "Uganda",
+  "United Arab Emirates",
+  "Uruguay",
+  "Venezuela",
+  "Wales",
+  "Yemen"
+];
 
 // Generate sitemap.xml content
 const generateSitemapXML = () => {
@@ -9,27 +132,22 @@ const generateSitemapXML = () => {
   </url>
   <url>
     <loc>https://resilientrhino.org/refresh.html</loc>
-  </url>
-`;
+  </url>`;
 
   // Generate URLs for individual country detail pages
-  countries.forEach((countryData) => {
-    const country = Object.keys(countryData)[0];
+  countries.forEach((country) => {
+    const url = `https://resilientrhino.org/country-details.html?country=${encodeURIComponent(country)}`;
 
-    countryData[country].forEach((entry) => {
-      const url = `https://resilientrhino.org/src/country-details.html?country=${encodeURIComponent(country)}`;
-
-      sitemap += `
-  <url>
+sitemap +=
+  `<url>
     <loc>${url}</loc>
   </url>`;
-    });
-  });
+});
 
-  sitemap += `
+sitemap += `
 </urlset>`;
 
-  return sitemap;
+    return sitemap;
 };
 
 // Generate sitemap.xml file
