@@ -138,8 +138,8 @@ function displayCountryDetails(countryName) {
       }
 
       for (const nickname of lowerCaseNicknames) {
-        if (nickname === searchTerm) {
-          return true; // Exact match with nickname
+        if (nickname === searchTerm || (nickname.slice(0, 7) === searchTerm.slice(0, 7))) {
+          return true;
         }
       }
     
