@@ -6957,10 +6957,23 @@ for (const formattedCountry of formatted) {
       main.push(formattedCountry);
     }
   }
+
+// Sort countries by country names
+main.sort((countryA, countryB) => {
+	const countryNameA = Object.keys(countryA)[0].toUpperCase();
+	const countryNameB = Object.keys(countryB)[0].toUpperCase();
+	if (countryNameA < countryNameB) {
+	  return -1;
+	}
+	if (countryNameA > countryNameB) {
+	  return 1;
+	}
+	return 0; // names must be equal
+  });
   
   // Write merged array to file
-  const outputFilePath = path.join(__dirname, 'test.js');
-  const outputData = `window.test = ${JSON.stringify(main, null, 4)};`;
+  const outputFilePath = path.join(__dirname, 'data.js');
+  const outputData = `window.data = ${JSON.stringify(main, null, 4)};`;
   
   fs.writeFileSync(outputFilePath, outputData, 'utf-8');
   

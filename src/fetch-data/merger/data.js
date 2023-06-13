@@ -1,4 +1,24 @@
-window.test = [
+window.data = [
+    {
+        "Albania": [
+            {
+                "name": "Alo 116",
+                "url": "https://www.alo116.al",
+                "url_info": "",
+                "phone": [
+                    "116 111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
     {
         "Argentina": [
             {
@@ -313,6 +333,106 @@ window.test = [
         ]
     },
     {
+        "Bahamas": [
+            {
+                "name": "Bahamas Crisis Centre",
+                "url": "http://www.bahamascrisiscentre.com/",
+                "url_info": "",
+                "phone": [
+                    "(242) 328 0922"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Bangladesh": [
+            {
+                "name": "Kaan Pete Roi",
+                "url": "http://shuni.org/",
+                "url_info": "",
+                "phone": [
+                    "09612-119911"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Moner Bondhu",
+                "url": "https://www.monerbondhu.org/",
+                "url_info": "",
+                "phone": [
+                    "+8801776632344"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Barbados": [
+            {
+                "name": "Samaritans Barbados",
+                "url": "",
+                "url_info": "",
+                "phone": [
+                    "(246) 429 9999"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "BPW Safe Haven for Women Crisis Hotline",
+                "url": "https://bpwbarbados.wordpress.com/",
+                "url_info": "",
+                "phone": [
+                    "(246) 435-8222",
+                    "(246) 845-0623"
+                ],
+                "phone_info": "Text (246) 845-0623. Call (246) 435-8222."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Belarus": [
+            {
+                "name": "Телефон доверия экстренной психологической помощи",
+                "url": "https://mokc.by/",
+                "url_info": "",
+                "phone": [
+                    "375 (17) 311-00-99",
+                    "375 (29) 101-73-73"
+                ],
+                "phone_info": "Text 375 (29) 101-73-73. Call 375 (17) 311-00-99."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Belgium": [
             {
                 "name": "Zelfmoordlijn1813",
@@ -405,6 +525,26 @@ window.test = [
         ]
     },
     {
+        "Bosnia and Herzegovina": [
+            {
+                "name": "Plavi Telefon - Blue Phone",
+                "url": "https://plavitelefon.ba/",
+                "url_info": "",
+                "phone": [
+                    "080 05 03 05"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Brazil": [
             {
                 "name": "CVV",
@@ -468,6 +608,56 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "0800 1 8676"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Burundi": [
+            {
+                "name": "Human Health Aid Burundi",
+                "url": "https://humanhealthaid.com/",
+                "url_info": "",
+                "phone": [
+                    "+25769776367",
+                    "+25769776367"
+                ],
+                "phone_info": "Text +25769776367. Call +25769776367."
+            },
+            {
+                "name": "SOS FED - SOS Femmes en Detresse",
+                "url": "http://sosfed.org/",
+                "url_info": "",
+                "phone": [
+                    "75-33-17-27"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Cambodia": [
+            {
+                "name": "TPO Cambodia Suicide Prevention Helpline",
+                "url": "http://tpocambodia.org/",
+                "url_info": "",
+                "phone": [
+                    "017 222 372"
                 ],
                 "phone_info": ""
             },
@@ -624,6 +814,35 @@ window.test = [
                     "1-866-627-3342"
                 ],
                 "phone_info": "Text 1-866-627-3342. Call 1-866-627-3342."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Chile": [
+            {
+                "name": "Psicólogos X Chile",
+                "url": "https://psicologosvoluntarios.cl/",
+                "url_info": "",
+                "phone": [
+                    "67613603"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Línea Libre",
+                "url": "https://www.linealibre.cl/",
+                "url_info": "",
+                "phone": [
+                    "1515"
+                ],
+                "phone_info": ""
             },
             {
                 "name": "7 Cups",
@@ -864,6 +1083,64 @@ window.test = [
         ]
     },
     {
+        "Colombia": [
+            {
+                "name": "Línea 106 \"El poder de ser escuchado\" Bogotá D.C",
+                "url": "http://www.saludcapital.gov.co/Paginas2/Linea106-Inicio.aspx",
+                "url_info": "",
+                "phone": [
+                    "106"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Línea Salvavidas",
+                "url": "https://www.sergiourrego.org/",
+                "url_info": "",
+                "phone": [
+                    "3117668666"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "141 Línea de Protección a Niños, Niñas y Adolescentes",
+                "url": "https://www.icbf.gov.co/noticias/linea-141",
+                "url_info": "",
+                "phone": [
+                    "141"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Costa Rica": [
+            {
+                "name": "Línea Aquí Estoy del Colegio De Profesionales en Psicología",
+                "url": "https://psicologiacr.com/aqui-estoy/",
+                "url_info": "",
+                "phone": [
+                    "+506 2272-3774"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Croatia": [
             {
                 "name": "Hrabri Telefon",
@@ -1062,6 +1339,106 @@ window.test = [
         ]
     },
     {
+        "Djibouti": [
+            {
+                "name": "L’Union Nationale des Femmes Djiboutienne (service d'Écoute)",
+                "url": "https://www.womenconnect.org/web/djibouti/legal-aid",
+                "url_info": "",
+                "phone": [
+                    "(+253) 21 35 04 21"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Dominica": [
+            {
+                "name": "Dominica Red Cross",
+                "url": "https://www.dominicaredcross.com/",
+                "url_info": "",
+                "phone": [
+                    "(767) 611-4357"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Dominican Republic": [
+            {
+                "name": "Linea Familiar",
+                "url": "https://lineafamiliar.do/",
+                "url_info": "",
+                "phone": [
+                    "1 809 636 3507"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Línea Vivir",
+                "url": "https://institutosaludmental.org/lo-que-hacemos/",
+                "url_info": "",
+                "phone": [
+                    "8097792124"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Ecuador": [
+            {
+                "name": "Anima EC",
+                "url": "https://institutoneurociencias.med.ec/",
+                "url_info": "",
+                "phone": [
+                    "(593) 99 719 6911",
+                    "(593) 99 719 6911"
+                ],
+                "phone_info": "Text (593) 99 719 6911. Call (593) 99 719 6911."
+            },
+            {
+                "name": "Linea de Apoyo a Mujeres, para enfrentar la violencia NO ESTAMOS SOLAS",
+                "url": "https://www.facebook.com/lineadeapoyo/",
+                "url_info": "",
+                "phone": [
+                    "2832817",
+                    "958934487"
+                ],
+                "phone_info": "Text 958934487. Call 2832817."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Egypt": [
             {
                 "name": "Befrienders Cairo",
@@ -1078,6 +1455,121 @@ window.test = [
                 "url_info": "",
                 "phone": [],
                 "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "England": [
+            {
+                "name": "Womankind Helpline",
+                "url": "https://www.womankindbristol.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0345 458 2914"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "The Royal British Legion Helpline",
+                "url": "https://www.britishlegion.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0808 802 8080"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "The Openness Project Helpline",
+                "url": "https://www.ekrcc.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0800 458 2818"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Breaking the Silence Helpline",
+                "url": "https://www.breaking-the-silence.org.uk",
+                "url_info": "",
+                "phone": [
+                    "01274 497535"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Maytree Suicide Respite House",
+                "url": "https://www.maytree.org.uk/",
+                "url_info": "",
+                "phone": [
+                    "020 7263 7070"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Estonia": [
+            {
+                "name": "Emotsionaalse toe telefon Eluliin",
+                "url": "https://www.eluliin.ee",
+                "url_info": "",
+                "phone": [
+                    "655 8088"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Ohvriabi kriisitelefon",
+                "url": "https://sotsiaalkindlustusamet.ee/et/ohvriabi-ennetustoo/116-006-ohvriabi-kriisitelefon",
+                "url_info": "",
+                "phone": [
+                    "116006"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Fiji": [
+            {
+                "name": "National Crisis Toll-Free Line",
+                "url": "https://lifelinefiji.com",
+                "url_info": "",
+                "phone": [
+                    "1543"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Empower Pacific 24/7 Counselling Helpline",
+                "url": "http://empowerpacific.com/",
+                "url_info": "",
+                "phone": [
+                    "2937141",
+                    "5626"
+                ],
+                "phone_info": "Text 2937141. Call 5626."
             },
             {
                 "name": "7 Cups",
@@ -1363,6 +1855,26 @@ window.test = [
         ]
     },
     {
+        "Gambia": [
+            {
+                "name": "Child Helpline Gambia ( Ministry Of Women Children And Social Welfare)",
+                "url": "https://www.mowcsw.gov.gm/",
+                "url_info": "",
+                "phone": [
+                    "199"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Germany": [
             {
                 "name": "Telefonseelsorge",
@@ -1401,6 +1913,36 @@ window.test = [
         ]
     },
     {
+        "Gibraltar": [
+            {
+                "name": "GibSams",
+                "url": "http://www.gibsams.gi/",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Childline Gibraltar",
+                "url": "https://childline.gi/",
+                "url_info": "",
+                "phone": [
+                    "8008",
+                    "58008288"
+                ],
+                "phone_info": "Text 58008288. Call 8008."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Greece": [
             {
                 "name": "Suicide Help Greece",
@@ -1426,6 +1968,105 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "1056"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Guernsey": [
+            {
+                "name": "Samaritans",
+                "url": "https://www.samaritans.org",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Childline",
+                "url": "https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/",
+                "url_info": "",
+                "phone": [
+                    "0800 1111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Guyana": [
+            {
+                "name": "Inter-agency Suicide Prevention Help Line",
+                "url": "https://www.facebook.com/pages/category/Community/Guyana-Inter-Agency-Suicide-Prevention-Helpline-1479461159034151/",
+                "url_info": "",
+                "phone": [
+                    "623-4444",
+                    "(592) 600-7896"
+                ],
+                "phone_info": "Text 623-4444. Call (592) 600-7896."
+            },
+            {
+                "name": "Guyana 24-Hr Crisis Hotline",
+                "url": "https://www.guyanastandard.com/2019/07/29/24-hour-crisis-hotline-available-to-guyanese-public/?fbclid=IwAR2Jr9d607D7D598D1Q84q7mXDjRxuDoIR9S6eli5XSRw7raKa0X4XnVUBc",
+                "url_info": "",
+                "phone": [
+                    "(592) 603-3666"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Haiti": [
+            {
+                "name": "Asistans Sikolojik an IJANS",
+                "url": "https://ahpsy.org.ht/",
+                "url_info": "",
+                "phone": [
+                    "2919-9000"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Honduras": [
+            {
+                "name": "Teléfono De La Esperanza de San Pedro Sula",
+                "url": "https://www.facebook.com/telefonodelaesperanzasps",
+                "url_info": "",
+                "phone": [
+                    "150"
                 ],
                 "phone_info": ""
             },
@@ -1863,6 +2504,33 @@ window.test = [
         ]
     },
     {
+        "Iran": [
+            {
+                "name": "Iran Crisis Text Line",
+                "url": "https://irancrisisline.org/get-help/text/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "صدای یارا - Yara's Voice",
+                "url": "https://www.irsprc.org/sedaye-yara/",
+                "url_info": "",
+                "phone": [
+                    "42152"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Ireland": [
             {
                 "name": "Samaritans Ireland",
@@ -2048,6 +2716,45 @@ window.test = [
         ]
     },
     {
+        "Jamaica": [
+            {
+                "name": "Mental Health and Suicide Prevention Helpline",
+                "url": "https://www.moh.gov.jm/mental-health/",
+                "url_info": "",
+                "phone": [
+                    "(888) 639-5433"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "U-Matter",
+                "url": "https://jamaica.ureport.in/page/umatterprivacypolicy/",
+                "url_info": "",
+                "phone": [
+                    "876-838-4897"
+                ],
+                "phone_info": "Text 876-838-4897."
+            },
+            {
+                "name": "SafeSpot",
+                "url": "https://safespotja.com/",
+                "url_info": "",
+                "phone": [
+                    "888-723-3776",
+                    "876-439-5199"
+                ],
+                "phone_info": "Text 876-439-5199. Call 888-723-3776."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Japan": [
             {
                 "name": "Tokyo Mental Health",
@@ -2095,6 +2802,85 @@ window.test = [
         ]
     },
     {
+        "Jersey": [
+            {
+                "name": "Samaritans",
+                "url": "https://www.samaritans.org",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Childline",
+                "url": "https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/",
+                "url_info": "",
+                "phone": [
+                    "0800 1111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "YES",
+                "url": "https://www.yes.je/",
+                "url_info": "",
+                "phone": [
+                    "0800 7350 010"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Jordan": [
+            {
+                "name": "JCPA Hotline",
+                "url": "https://www.facebook.com/Jordanian-Clinical-Psychologists-Association-987247728018555",
+                "url_info": "",
+                "phone": [
+                    "962795440416",
+                    "962 7 9544 0416"
+                ],
+                "phone_info": "Text 962795440416. Call 962 7 9544 0416."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Kazakhstan": [
+            {
+                "name": "балалар мен жасөспірімдерге арналған сенім телефоны No150",
+                "url": "https://www.telefon150.kz/",
+                "url_info": "",
+                "phone": [
+                    "150"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Kenya": [
             {
                 "name": "Befrienders Kenya",
@@ -2111,6 +2897,217 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "(072) 217-8177"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Kosovo": [
+            {
+                "name": "Linja e Jetës",
+                "url": "https://qips.quantech-ks.com/linja-e-jetes/",
+                "url_info": "",
+                "phone": [
+                    "0800 12345"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Latvia": [
+            {
+                "name": "Vienotais krīzes tālrunis",
+                "url": "https://www.skalbes.lv/",
+                "url_info": "",
+                "phone": [
+                    "116123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Child Helpline 116111",
+                "url": "https://uzticibastalrunis.lv",
+                "url_info": "",
+                "phone": [
+                    "116 111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Lebanon": [
+            {
+                "name": "The Lifeline",
+                "url": "https://embracelebanon.org/",
+                "url_info": "",
+                "phone": [
+                    "1564"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Libya": [
+            {
+                "name": "‎فريق الدعم النفس اجتماعي -ليبيا - Libyan Psychosocial Support Team",
+                "url": "https://www.facebook.com/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-Libyan-Psychosocial-Support-Team-1617969611764812/",
+                "url_info": "",
+                "phone": [
+                    "1417",
+                    "00218923978252"
+                ],
+                "phone_info": "Text 00218923978252. Call 1417."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Lithuania": [
+            {
+                "name": "Pagalbos smurtą patyrusiems linija",
+                "url": "https://www.specializuotospagalboscentras.lt/",
+                "url_info": "",
+                "phone": [
+                    "8 700 55516"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Vilties linija",
+                "url": "https://www.viltieslinija.lt/",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Nelik vienas",
+                "url": "https://nelikvienas.lt/",
+                "url_info": "",
+                "phone": [
+                    "8 604 11119"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Pagalbos Moterims Linija",
+                "url": "https://pagalbosmoterimslinija.lt/",
+                "url_info": "",
+                "phone": [
+                    "8 800 66366"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Sidabrinė linija (the Silver Line)",
+                "url": "https://www.sidabrinelinija.lt/",
+                "url_info": "",
+                "phone": [
+                    "8 800 800 20"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Jaunimo linija",
+                "url": "https://jaunimolinija.lt/lt/pagalba/pagalba-pokalbiais-internetu/",
+                "url_info": "",
+                "phone": [
+                    "8 800 28888"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Vaikų Linija (Child Line)",
+                "url": "https://www.vaikulinija.lt/",
+                "url_info": "",
+                "phone": [
+                    "116111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Vyrų linija",
+                "url": "https://www.vyrulinija.lt/",
+                "url_info": "",
+                "phone": [
+                    "8 670 00027"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Luxembourg": [
+            {
+                "name": "SOS Détresse",
+                "url": "https://454545.lu/",
+                "url_info": "",
+                "phone": [
+                    "454545"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Centre psycho-social et d'accompagnement scolaires - service d'ecoute/helpline",
+                "url": "https://cepas.public.lu/fr/actualites/2021/sante-mentale.html",
+                "url_info": "",
+                "phone": [
+                    "8002-9393"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Elterentelefon - Ecoute parents (KJT)",
+                "url": "https://www.kjt.lu/fr/ecoute-parents/",
+                "url_info": "",
+                "phone": [
+                    "26-640-555"
                 ],
                 "phone_info": ""
             },
@@ -2199,6 +3196,63 @@ window.test = [
         ]
     },
     {
+        "Malta": [
+            {
+                "name": "Crisis Resolution Malta",
+                "url": "https://m.facebook.com/CrisisResolutionMalta/",
+                "url_info": "",
+                "phone": [
+                    "9933 9966",
+                    "9933 9966"
+                ],
+                "phone_info": "Text 9933 9966. Call 9933 9966."
+            },
+            {
+                "name": "Supportline 179",
+                "url": "https://fsws.gov.mt/en/appogg/Pages/supportline.aspx",
+                "url_info": "",
+                "phone": [
+                    "179"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Kellimni",
+                "url": "https://kellimni.com",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Mauritius": [
+            {
+                "name": "SOS Femmes Mauritius (Helpline for Women)",
+                "url": "http://sosfemmes-mu.com/",
+                "url_info": "",
+                "phone": [
+                    "233-3054"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Mexico": [
             {
                 "name": "Telefono de la Esperanza",
@@ -2242,6 +3296,128 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "555-259-8121"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Moldova": [
+            {
+                "name": "Linia Verde Prevenire Suicid",
+                "url": "https://pentruviata.md/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "Telefon Copilului",
+                "url": "https://telefonulcopilului.md/",
+                "url_info": "",
+                "phone": [
+                    "116 111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Mongolia": [
+            {
+                "name": "Сэтгэцийн эрүүл мэндийн мэдээлэл өгөх утас 1800-2000",
+                "url": "https://ncmh.gov.mn",
+                "url_info": "",
+                "phone": [
+                    "1800-2000"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Morocco": [
+            {
+                "name": "Stop Silence",
+                "url": "https://www.stopsilence.net/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Nepal": [
+            {
+                "name": "TPO Nepal",
+                "url": "http://www.tponepal.org/",
+                "url_info": "",
+                "phone": [
+                    "+977 9847386158",
+                    "+977 16600102005"
+                ],
+                "phone_info": "Text +977 9847386158. Call +977 16600102005."
+            },
+            {
+                "name": "११६६ आत्महत्या रोकथामको लागि राष्ट्रिय हेल्पलाईन",
+                "url": "https://www.facebook.com/1166helpline",
+                "url_info": "",
+                "phone": [
+                    "1166"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "CMC Hotline",
+                "url": "http://www.cmcnepal.org.np/",
+                "url_info": "",
+                "phone": [
+                    "16600185080"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Patan Hospital Suicide Hotline",
+                "url": "https://www.pahs.edu.np/pahs-community/hospital/",
+                "url_info": "",
+                "phone": [
+                    "9813476123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Mental Health Promotion & Suicide Prevention Center",
+                "url": "https://mhpspc.org.np/?fbclid=IwAR1a5oxVmG4gtmmvyVLZxZ3kN209AzKowqiWq6Iypey6V0BNXqPeDTI5ico",
+                "url_info": "",
+                "phone": [
+                    "+977-01-4411264"
                 ],
                 "phone_info": ""
             },
@@ -2503,6 +3679,101 @@ window.test = [
         ]
     },
     {
+        "North Macedonia": [
+            {
+                "name": "Психолошка поддршка на возрасни лица во самоизолација - Psychological support for people in self-isolation",
+                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
+                "url_info": "",
+                "phone": [
+                    "072 919 009"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Трудниците и родилките на кои им е потребна психолошка поддршка - Pregnant Women and Mothers In Need Psychological Support",
+                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
+                "url_info": "",
+                "phone": [
+                    "078 378 766"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Психолошка поддршка за лица со нарушување на слухот, говорот и гласот - Psychological Support for People with Hearing, Speech and Voice Disorders",
+                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
+                "url_info": "",
+                "phone": [
+                    "072 919 009"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Психолошка поддршка за родители на деца со попреченост - Psychological Support for Parents of Children with Disabilities",
+                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
+                "url_info": "",
+                "phone": [
+                    "070 291 574"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Психолошка поддршка на родители на деца од предучилишна и училишна возраст - Psychological support for parents of preschool and school children",
+                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
+                "url_info": "",
+                "phone": [
+                    "072 912 676"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Northern Ireland": [
+            {
+                "name": "Lifeline",
+                "url": "https://www.lifelinehelpline.info",
+                "url_info": "",
+                "phone": [
+                    "18001 0808 808 8000",
+                    "0808 808 8000"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Rural Support Helpline",
+                "url": "https://www.ruralsupport.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0800 138 1678"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "ParentingNI Infomation and Support Line",
+                "url": "https://www.parentingni.org",
+                "url_info": "",
+                "phone": [
+                    "0808 801 0722"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Norway": [
             {
                 "name": "Kirkens SOS",
@@ -2541,6 +3812,122 @@ window.test = [
                     "116 111"
                 ],
                 "phone_info": "Text 417 16 111. Call 116 111."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Pakistan": [
+            {
+                "name": "Rozan Counseling Helpline",
+                "url": "https://rozan.org",
+                "url_info": "",
+                "phone": [
+                    "0304 111 1741"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Child Helpline, Child Protection and Welfare Bureau",
+                "url": "https://cpwb.punjab.gov.pk/",
+                "url_info": "",
+                "phone": [
+                    "1121"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Panama": [
+            {
+                "name": "Te Escucho Panama",
+                "url": "https://www.teescuchopanama.org/",
+                "url_info": "",
+                "phone": [
+                    "831-7600"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Tía Elaine Helpline",
+                "url": "https://senniaf.gob.pa/?page_id=16121",
+                "url_info": "",
+                "phone": [
+                    "6378-3466"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Papua New Guinea": [
+            {
+                "name": "1-TOK Kaunselin Helpim Lain",
+                "url": "https://www.facebook.com/1TokHelpimLain",
+                "url_info": "",
+                "phone": [
+                    "7150-8000"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Peru": [
+            {
+                "name": "Infosalud Perú",
+                "url": "https://www.gob.pe/555-recibir-informacion-y-orientacion-en-salud",
+                "url_info": "",
+                "phone": [
+                    "113"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "La Voz Amiga",
+                "url": "http://www.lavozamigaperu.org/",
+                "url_info": "",
+                "phone": [
+                    "0800 4 1212"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Línea 100",
+                "url": "https://www.gob.pe/481-ayuda-contra-la-violencia-familiar-y-sexual-linea-100",
+                "url_info": "",
+                "phone": [
+                    "100"
+                ],
+                "phone_info": ""
             },
             {
                 "name": "7 Cups",
@@ -2833,6 +4220,26 @@ window.test = [
         ]
     },
     {
+        "Qatar": [
+            {
+                "name": "Protection and Social Rehabilitation Centre (AMAN Centre)",
+                "url": "http://www.aman.org.qa/En/Pages/Home.aspx",
+                "url_info": "",
+                "phone": [
+                    "919"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Romania": [
             {
                 "name": "Alianța Română de Prevenție a Suicidului",
@@ -2970,6 +4377,193 @@ window.test = [
         ]
     },
     {
+        "Rwanda": [
+            {
+                "name": "8015 Suicide Prevention Hotline",
+                "url": "https://mentalhealth-first.org/",
+                "url_info": "",
+                "phone": [
+                    "8015"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Saint Lucia": [
+            {
+                "name": "Saint Lucia National Health Helpline, Mental, Social and Emotional Issues",
+                "url": "http://www.govt.lc/news/national-health-helpline-launched",
+                "url_info": "",
+                "phone": [
+                    "203"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Samoa": [
+            {
+                "name": "Faataua Le Ola (Samoa Lifeline)",
+                "url": "https://www.facebook.com/FLOsamoalife/",
+                "url_info": "",
+                "phone": [
+                    "800-5433"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Saudi Arabia": [
+            {
+                "name": "National Center for Mental Health Promotion",
+                "url": "https://ncmh.org.sa/",
+                "url_info": "",
+                "phone": [
+                    "920033360"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Scotland": [
+            {
+                "name": "Parentline (Scotland)",
+                "url": "https://www.children1st.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0800 028 2233"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Scottish Families Affected by Alcohol and Drugs",
+                "url": "https://www.sfad.org.uk/",
+                "url_info": "",
+                "phone": [
+                    "0808 0101 011"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Breathing Space Scotland",
+                "url": "https://breathingspace.scot",
+                "url_info": "",
+                "phone": [
+                    "(080) 083-8587"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "SAMH",
+                "url": "https://www.samh.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0344 800 0550"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "LGBT Helpline Scotland",
+                "url": "https://www.lgbthealth.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0300 123 2523"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Serbia": [
+            {
+                "name": "Centar \"Srce\"",
+                "url": "https://www.centarsrce.org/index.php#max-widget",
+                "url_info": "",
+                "phone": [
+                    "0800-300-303"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Seychelles": [
+            {
+                "name": "Quality of Life Division Helpline - Ministry of Family, Youth and Sport",
+                "url": "https://qld-counselling.sc/",
+                "url_info": "",
+                "phone": [
+                    "2722293",
+                    "2722293"
+                ],
+                "phone_info": "Text 2722293. Call 2722293."
+            },
+            {
+                "name": "Elderly and Disabled Helpline - Ministry of Family, Youth and Sport",
+                "url": "",
+                "url_info": "",
+                "phone": [
+                    "2603030",
+                    "2603030"
+                ],
+                "phone_info": "Text 2603030. Call 2603030."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Singapore": [
             {
                 "name": "Samaritans of Singapore",
@@ -2985,6 +4579,91 @@ window.test = [
                 "url": "https://ec2.sg/",
                 "url_info": "",
                 "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Slovakia": [
+            {
+                "name": "Linka dôvery Nezábudka",
+                "url": "https://www.linkanezabudka.sk",
+                "url_info": "",
+                "phone": [
+                    "0800 800 566"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Pomoc obetiam násilia",
+                "url": "http://pomocobetiam.sk",
+                "url_info": "",
+                "phone": [
+                    "0850 111 321"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Linka detskej istoty",
+                "url": "http://www.ldi.sk/",
+                "url_info": "",
+                "phone": [
+                    "116111"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "IPčko",
+                "url": "https://ipcko.sk/chatova-poradna/",
+                "url_info": "",
+                "phone": [
+                    "0800 500 333"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Slovenia": [
+            {
+                "name": "Zaupni telefon Samarijan",
+                "url": "http://www.telefon-samarijan.si/",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Klic v duševni stiski - A Call In Mental Distress",
+                "url": "https://www.psih-klinika.si/",
+                "url_info": "",
+                "phone": [
+                    "(01) 520-99-00"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "SOS telefon za ženske in otroke - žrtve nasilja",
+                "url": "https://drustvo-sos.si/",
+                "url_info": "",
+                "phone": [
+                    "080 11 55"
+                ],
                 "phone_info": ""
             },
             {
@@ -3221,6 +4900,65 @@ window.test = [
         ]
     },
     {
+        "Sri Lanka": [
+            {
+                "name": "සීසීසීලයින් 1333",
+                "url": "https://1333.lk",
+                "url_info": "",
+                "phone": [
+                    "1333"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "1926 - National Mental Health Helpline",
+                "url": "https://nimh.health.gov.lk/en/1926-national-mental-health-helpline/",
+                "url_info": "",
+                "phone": [
+                    "1926",
+                    "1926"
+                ],
+                "phone_info": "Text 1926. Call 1926."
+            },
+            {
+                "name": "Sri Lanka Sumithrayo",
+                "url": "https://srilankasumithrayo.lk",
+                "url_info": "",
+                "phone": [
+                    "0707 308 308"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Sudan": [
+            {
+                "name": "9696 Hotline - الخط الساخن 9696",
+                "url": "https://www.facebook.com/FCPA.SD/?fref=ts",
+                "url_info": "",
+                "phone": [
+                    "9696"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Sweden": [
             {
                 "name": "Mind Sverige",
@@ -3390,6 +5128,26 @@ window.test = [
         ]
     },
     {
+        "Tanzania": [
+            {
+                "name": "National Child Helpline Tanzania - 116",
+                "url": "https://www.sematanzania.org/child-helpline",
+                "url_info": "",
+                "phone": [
+                    "116"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Thailand": [
             {
                 "name": "Samaritans Thailand",
@@ -3429,6 +5187,72 @@ window.test = [
         ]
     },
     {
+        "Trinidad and Tobago": [
+            {
+                "name": "Lifeline",
+                "url": "http://lifelinett.com",
+                "url_info": "",
+                "phone": [
+                    "800-5588"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Families in Action",
+                "url": "https://www.familiesinaction.net/",
+                "url_info": "",
+                "phone": [
+                    "(868) 628-2333"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Childline",
+                "url": "https://childlinett.org/",
+                "url_info": "",
+                "phone": [
+                    "800-4321"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "GROOTS Trinidad & Tobago",
+                "url": "https://www.facebook.com/grootstrinidad",
+                "url_info": "",
+                "phone": [
+                    "1868 384-4722"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "RN Vincent & Associates",
+                "url": "https://www.facebook.com/globalpropheticministries",
+                "url_info": "",
+                "phone": [
+                    "1(868) 486-0708",
+                    "1(868) 689-9391"
+                ],
+                "phone_info": "Text 1(868) 689-9391. Call 1(868) 486-0708."
+            },
+            {
+                "name": "Trinidad and Tobago Red Cross Society",
+                "url": "https://www.ttrcs.org/",
+                "url_info": "",
+                "phone": [
+                    "1-(868)-627-8215"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
         "Turkey": [
             {
                 "name": "Turkish Psychological Association",
@@ -3445,6 +5269,26 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "0850 234 4100"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Uganda": [
+            {
+                "name": "Mental Health Uganda",
+                "url": "https://mentalhealthuganda.org/",
+                "url_info": "",
+                "phone": [
+                    "(0800) 21-21-21"
                 ],
                 "phone_info": ""
             },
@@ -3494,6 +5338,293 @@ window.test = [
                     "7333"
                 ],
                 "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "United Arab Emirates": [
+            {
+                "name": "Mental Support Line",
+                "url": "https://hope.hw.gov.ae/",
+                "url_info": "",
+                "phone": [
+                    "8004673",
+                    "8004673"
+                ],
+                "phone_info": "Text 8004673. Call 8004673."
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "United Kingdom": [
+            {
+                "name": "Samaritans",
+                "url": "https://www.samaritans.org/",
+                "url_info": "",
+                "phone": [
+                    "116 123"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Mind",
+                "url": "https://www.mind.org.uk/",
+                "url_info": "",
+                "phone": [
+                    "0300 123 3393"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "NHS - Suicide",
+                "url": "https://www.nhs.uk/conditions/suicide/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "PAPYRUS",
+                "url": "https://papyrus-uk.org/",
+                "url_info": "Hopeline UK",
+                "phone": [
+                    "0800 068 4141"
+                ],
+                "phone_info": "For people who are under 35 years old"
+            },
+            {
+                "name": "CALM (Campaign Against Living Miserably)",
+                "url": "https://www.calmzone.net/",
+                "url_info": "",
+                "phone": [
+                    "0800 58 58 58"
+                ],
+                "phone_info": "For men"
+            },
+            {
+                "name": "SANE",
+                "url": "https://www.sane.org.uk/",
+                "url_info": "Mental Health Support Line",
+                "phone": [
+                    "0300 304 7000"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Childline",
+                "url": "https://www.childline.org.uk/",
+                "url_info": "",
+                "phone": [
+                    "0800 1111"
+                ],
+                "phone_info": "For people under 19 years old"
+            },
+            {
+                "name": "Rethink Mental Illness",
+                "url": "https://www.rethink.org/",
+                "url_info": "Advice Line",
+                "phone": [
+                    "0300 5000 927"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Mental Health Foundation",
+                "url": "https://www.mentalhealth.org.uk/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            },
+            {
+                "name": "SOS Silence of Suicide",
+                "url": "https://sossilenceofsuicide.org/",
+                "url_info": "",
+                "phone": [
+                    "0300 1020 505"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "National Suicide Prevention Helpline UK",
+                "url": "https://www.spuk.org.uk/national-suicide-prevention-helpline-uk/",
+                "url_info": "",
+                "phone": [
+                    "0800 689 5652"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "CALM Helpline",
+                "url": "https://www.thecalmzone.net/#open-calmbot",
+                "url_info": "",
+                "phone": [
+                    "0800 58 58 58"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "SEED Advice Line",
+                "url": "https://seed.charity/",
+                "url_info": "",
+                "phone": [
+                    "01482 421525"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Shout",
+                "url": "https://www.giveusashout.org",
+                "url_info": "",
+                "phone": [
+                    "85258"
+                ],
+                "phone_info": "Text 85258."
+            },
+            {
+                "name": "Runaway Helpline",
+                "url": "https://www.runawayhelpline.org.uk",
+                "url_info": "",
+                "phone": [
+                    "116 000",
+                    "116 000"
+                ],
+                "phone_info": "Text 116 000. Call 116 000."
+            },
+            {
+                "name": "The Mix",
+                "url": "https://www.themix.org.uk/get-support/speak-to-our-team",
+                "url_info": "",
+                "phone": [
+                    "0808 808 4994"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "No Panic Youth Helpline",
+                "url": "https://www.nopanic.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0330 606 1174"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "LGBT Foundation Helpline",
+                "url": "https://lgbt.foundation",
+                "url_info": "",
+                "phone": [
+                    "0345 330 3030"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "OCD Action Helpline",
+                "url": "https://www.ocdaction.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0845 390 6232"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Silver Line Helpline",
+                "url": "https://thesilverline.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0800 470 8090",
+                    "0800 470 8090"
+                ],
+                "phone_info": "Text 0800 470 8090. Call 0800 470 8090."
+            },
+            {
+                "name": "Combat Stress Helpline - Serving Personnel",
+                "url": "https://www.combatstress.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0800 323 4444",
+                    "075 3740 4719"
+                ],
+                "phone_info": "Text 075 3740 4719. Call 0800 323 4444."
+            },
+            {
+                "name": "Premier Lifeline",
+                "url": "http://www.premierlifeline.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0300 111 0101"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Towards Healing (United Kingdom)",
+                "url": "https://towardshealing.ie/",
+                "url_info": "",
+                "phone": [
+                    "0800 0963315",
+                    "(085) 802-2859"
+                ],
+                "phone_info": "Text (085) 802-2859. Call 0800 0963315."
+            },
+            {
+                "name": "Muslim Youth Helpline",
+                "url": "https://www.myh.org.uk/helpline",
+                "url_info": "",
+                "phone": [
+                    "0808 808 2008"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Moodswings Helpline",
+                "url": "https://www.moodswings.org.uk",
+                "url_info": "",
+                "phone": [
+                    "0161 832 37 36"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "Mermaids Helpline",
+                "url": "https://mermaidsuk.org.uk/contact-us/",
+                "url_info": "",
+                "phone": [
+                    "0808 801 0400",
+                    "85258"
+                ],
+                "phone_info": "Text 85258. Call 0808 801 0400."
+            },
+            {
+                "name": "HOPELINEUK",
+                "url": "https://papyrus-uk.org",
+                "url_info": "",
+                "phone": [
+                    "0800 068 4141",
+                    "078 6003 9967"
+                ],
+                "phone_info": "Text 078 6003 9967. Call 0800 068 4141."
+            },
+            {
+                "name": "Self Injury Support",
+                "url": "https://www.selfinjurysupport.org.uk",
+                "url_info": "",
+                "phone": [
+                    "01179279600",
+                    "075 3743 2444"
+                ],
+                "phone_info": "Text 075 3743 2444. Call 01179279600."
             },
             {
                 "name": "7 Cups",
@@ -3834,261 +5965,35 @@ window.test = [
         ]
     },
     {
-        "United Kingdom": [
+        "Uruguay": [
             {
-                "name": "Samaritans",
-                "url": "https://www.samaritans.org/",
+                "name": "Línea Nacional de Prevención del Suicidio",
+                "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/linea-de-prevencion-del-suicidio-0800-0767#:~:text=La%20l%C3%ADnea%20es%20un%20servicio,los%20suicidios%20a%20nivel%20pa%C3%ADs.",
                 "url_info": "",
                 "phone": [
-                    "116 123"
+                    "0800 0767"
                 ],
                 "phone_info": ""
             },
             {
-                "name": "Mind",
-                "url": "https://www.mind.org.uk/",
-                "url_info": "",
-                "phone": [
-                    "0300 123 3393"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "NHS - Suicide",
-                "url": "https://www.nhs.uk/conditions/suicide/",
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
                 "url_info": "",
                 "phone": [],
                 "phone_info": ""
-            },
+            }
+        ]
+    },
+    {
+        "Venezuela": [
             {
-                "name": "PAPYRUS",
-                "url": "https://papyrus-uk.org/",
-                "url_info": "Hopeline UK",
-                "phone": [
-                    "0800 068 4141"
-                ],
-                "phone_info": "For people who are under 35 years old"
-            },
-            {
-                "name": "CALM (Campaign Against Living Miserably)",
-                "url": "https://www.calmzone.net/",
+                "name": "Línea de Ayuda Psicológica (LAPSI) / Federación de Psicólogos de Venezuela",
+                "url": "http://www.fpv.org.ve/",
                 "url_info": "",
                 "phone": [
-                    "0800 58 58 58"
-                ],
-                "phone_info": "For men"
-            },
-            {
-                "name": "SANE",
-                "url": "https://www.sane.org.uk/",
-                "url_info": "Mental Health Support Line",
-                "phone": [
-                    "0300 304 7000"
+                    "02124163116"
                 ],
                 "phone_info": ""
-            },
-            {
-                "name": "Childline",
-                "url": "https://www.childline.org.uk/",
-                "url_info": "",
-                "phone": [
-                    "0800 1111"
-                ],
-                "phone_info": "For people under 19 years old"
-            },
-            {
-                "name": "Rethink Mental Illness",
-                "url": "https://www.rethink.org/",
-                "url_info": "Advice Line",
-                "phone": [
-                    "0300 5000 927"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Mental Health Foundation",
-                "url": "https://www.mentalhealth.org.uk/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            },
-            {
-                "name": "SOS Silence of Suicide",
-                "url": "https://sossilenceofsuicide.org/",
-                "url_info": "",
-                "phone": [
-                    "0300 1020 505"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "National Suicide Prevention Helpline UK",
-                "url": "https://www.spuk.org.uk/national-suicide-prevention-helpline-uk/",
-                "url_info": "",
-                "phone": [
-                    "0800 689 5652"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "CALM Helpline",
-                "url": "https://www.thecalmzone.net/#open-calmbot",
-                "url_info": "",
-                "phone": [
-                    "0800 58 58 58"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "SEED Advice Line",
-                "url": "https://seed.charity/",
-                "url_info": "",
-                "phone": [
-                    "01482 421525"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Shout",
-                "url": "https://www.giveusashout.org",
-                "url_info": "",
-                "phone": [
-                    "85258"
-                ],
-                "phone_info": "Text 85258."
-            },
-            {
-                "name": "Runaway Helpline",
-                "url": "https://www.runawayhelpline.org.uk",
-                "url_info": "",
-                "phone": [
-                    "116 000",
-                    "116 000"
-                ],
-                "phone_info": "Text 116 000. Call 116 000."
-            },
-            {
-                "name": "The Mix",
-                "url": "https://www.themix.org.uk/get-support/speak-to-our-team",
-                "url_info": "",
-                "phone": [
-                    "0808 808 4994"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "No Panic Youth Helpline",
-                "url": "https://www.nopanic.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0330 606 1174"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "LGBT Foundation Helpline",
-                "url": "https://lgbt.foundation",
-                "url_info": "",
-                "phone": [
-                    "0345 330 3030"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "OCD Action Helpline",
-                "url": "https://www.ocdaction.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0845 390 6232"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Silver Line Helpline",
-                "url": "https://thesilverline.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0800 470 8090",
-                    "0800 470 8090"
-                ],
-                "phone_info": "Text 0800 470 8090. Call 0800 470 8090."
-            },
-            {
-                "name": "Combat Stress Helpline - Serving Personnel",
-                "url": "https://www.combatstress.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0800 323 4444",
-                    "075 3740 4719"
-                ],
-                "phone_info": "Text 075 3740 4719. Call 0800 323 4444."
-            },
-            {
-                "name": "Premier Lifeline",
-                "url": "http://www.premierlifeline.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0300 111 0101"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Towards Healing (United Kingdom)",
-                "url": "https://towardshealing.ie/",
-                "url_info": "",
-                "phone": [
-                    "0800 0963315",
-                    "(085) 802-2859"
-                ],
-                "phone_info": "Text (085) 802-2859. Call 0800 0963315."
-            },
-            {
-                "name": "Muslim Youth Helpline",
-                "url": "https://www.myh.org.uk/helpline",
-                "url_info": "",
-                "phone": [
-                    "0808 808 2008"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Moodswings Helpline",
-                "url": "https://www.moodswings.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0161 832 37 36"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Mermaids Helpline",
-                "url": "https://mermaidsuk.org.uk/contact-us/",
-                "url_info": "",
-                "phone": [
-                    "0808 801 0400",
-                    "85258"
-                ],
-                "phone_info": "Text 85258. Call 0808 801 0400."
-            },
-            {
-                "name": "HOPELINEUK",
-                "url": "https://papyrus-uk.org",
-                "url_info": "",
-                "phone": [
-                    "0800 068 4141",
-                    "078 6003 9967"
-                ],
-                "phone_info": "Text 078 6003 9967. Call 0800 068 4141."
-            },
-            {
-                "name": "Self Injury Support",
-                "url": "https://www.selfinjurysupport.org.uk",
-                "url_info": "",
-                "phone": [
-                    "01179279600",
-                    "075 3743 2444"
-                ],
-                "phone_info": "Text 075 3743 2444. Call 01179279600."
             },
             {
                 "name": "7 Cups",
@@ -4157,1931 +6062,6 @@ window.test = [
         ]
     },
     {
-        "Zimbabwe": [
-            {
-                "name": "Samaritans Bulawayo",
-                "url": "https://www.samaritanspurse.org/",
-                "url_info": "",
-                "phone": [
-                    "263 9 220 630"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Albania": [
-            {
-                "name": "Alo 116",
-                "url": "https://www.alo116.al",
-                "url_info": "",
-                "phone": [
-                    "116 111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Bahamas": [
-            {
-                "name": "Bahamas Crisis Centre",
-                "url": "http://www.bahamascrisiscentre.com/",
-                "url_info": "",
-                "phone": [
-                    "(242) 328 0922"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Bangladesh": [
-            {
-                "name": "Kaan Pete Roi",
-                "url": "http://shuni.org/",
-                "url_info": "",
-                "phone": [
-                    "09612-119911"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Moner Bondhu",
-                "url": "https://www.monerbondhu.org/",
-                "url_info": "",
-                "phone": [
-                    "+8801776632344"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Barbados": [
-            {
-                "name": "Samaritans Barbados",
-                "url": "",
-                "url_info": "",
-                "phone": [
-                    "(246) 429 9999"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "BPW Safe Haven for Women Crisis Hotline",
-                "url": "https://bpwbarbados.wordpress.com/",
-                "url_info": "",
-                "phone": [
-                    "(246) 435-8222",
-                    "(246) 845-0623"
-                ],
-                "phone_info": "Text (246) 845-0623. Call (246) 435-8222."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Belarus": [
-            {
-                "name": "Телефон доверия экстренной психологической помощи",
-                "url": "https://mokc.by/",
-                "url_info": "",
-                "phone": [
-                    "375 (17) 311-00-99",
-                    "375 (29) 101-73-73"
-                ],
-                "phone_info": "Text 375 (29) 101-73-73. Call 375 (17) 311-00-99."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Bosnia and Herzegovina": [
-            {
-                "name": "Plavi Telefon - Blue Phone",
-                "url": "https://plavitelefon.ba/",
-                "url_info": "",
-                "phone": [
-                    "080 05 03 05"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Burundi": [
-            {
-                "name": "Human Health Aid Burundi",
-                "url": "https://humanhealthaid.com/",
-                "url_info": "",
-                "phone": [
-                    "+25769776367",
-                    "+25769776367"
-                ],
-                "phone_info": "Text +25769776367. Call +25769776367."
-            },
-            {
-                "name": "SOS FED - SOS Femmes en Detresse",
-                "url": "http://sosfed.org/",
-                "url_info": "",
-                "phone": [
-                    "75-33-17-27"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Cambodia": [
-            {
-                "name": "TPO Cambodia Suicide Prevention Helpline",
-                "url": "http://tpocambodia.org/",
-                "url_info": "",
-                "phone": [
-                    "017 222 372"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Chile": [
-            {
-                "name": "Psicólogos X Chile",
-                "url": "https://psicologosvoluntarios.cl/",
-                "url_info": "",
-                "phone": [
-                    "67613603"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Línea Libre",
-                "url": "https://www.linealibre.cl/",
-                "url_info": "",
-                "phone": [
-                    "1515"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Colombia": [
-            {
-                "name": "Línea 106 \"El poder de ser escuchado\" Bogotá D.C",
-                "url": "http://www.saludcapital.gov.co/Paginas2/Linea106-Inicio.aspx",
-                "url_info": "",
-                "phone": [
-                    "106"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Línea Salvavidas",
-                "url": "https://www.sergiourrego.org/",
-                "url_info": "",
-                "phone": [
-                    "3117668666"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "141 Línea de Protección a Niños, Niñas y Adolescentes",
-                "url": "https://www.icbf.gov.co/noticias/linea-141",
-                "url_info": "",
-                "phone": [
-                    "141"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Costa Rica": [
-            {
-                "name": "Línea Aquí Estoy del Colegio De Profesionales en Psicología",
-                "url": "https://psicologiacr.com/aqui-estoy/",
-                "url_info": "",
-                "phone": [
-                    "+506 2272-3774"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Djibouti": [
-            {
-                "name": "L’Union Nationale des Femmes Djiboutienne (service d'Écoute)",
-                "url": "https://www.womenconnect.org/web/djibouti/legal-aid",
-                "url_info": "",
-                "phone": [
-                    "(+253) 21 35 04 21"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Dominica": [
-            {
-                "name": "Dominica Red Cross",
-                "url": "https://www.dominicaredcross.com/",
-                "url_info": "",
-                "phone": [
-                    "(767) 611-4357"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Dominican Republic": [
-            {
-                "name": "Linea Familiar",
-                "url": "https://lineafamiliar.do/",
-                "url_info": "",
-                "phone": [
-                    "1 809 636 3507"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Línea Vivir",
-                "url": "https://institutosaludmental.org/lo-que-hacemos/",
-                "url_info": "",
-                "phone": [
-                    "8097792124"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Ecuador": [
-            {
-                "name": "Anima EC",
-                "url": "https://institutoneurociencias.med.ec/",
-                "url_info": "",
-                "phone": [
-                    "(593) 99 719 6911",
-                    "(593) 99 719 6911"
-                ],
-                "phone_info": "Text (593) 99 719 6911. Call (593) 99 719 6911."
-            },
-            {
-                "name": "Linea de Apoyo a Mujeres, para enfrentar la violencia NO ESTAMOS SOLAS",
-                "url": "https://www.facebook.com/lineadeapoyo/",
-                "url_info": "",
-                "phone": [
-                    "2832817",
-                    "958934487"
-                ],
-                "phone_info": "Text 958934487. Call 2832817."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "England": [
-            {
-                "name": "Womankind Helpline",
-                "url": "https://www.womankindbristol.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0345 458 2914"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "The Royal British Legion Helpline",
-                "url": "https://www.britishlegion.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0808 802 8080"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "The Openness Project Helpline",
-                "url": "https://www.ekrcc.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0800 458 2818"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Breaking the Silence Helpline",
-                "url": "https://www.breaking-the-silence.org.uk",
-                "url_info": "",
-                "phone": [
-                    "01274 497535"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Maytree Suicide Respite House",
-                "url": "https://www.maytree.org.uk/",
-                "url_info": "",
-                "phone": [
-                    "020 7263 7070"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Estonia": [
-            {
-                "name": "Emotsionaalse toe telefon Eluliin",
-                "url": "https://www.eluliin.ee",
-                "url_info": "",
-                "phone": [
-                    "655 8088"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Ohvriabi kriisitelefon",
-                "url": "https://sotsiaalkindlustusamet.ee/et/ohvriabi-ennetustoo/116-006-ohvriabi-kriisitelefon",
-                "url_info": "",
-                "phone": [
-                    "116006"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Fiji": [
-            {
-                "name": "National Crisis Toll-Free Line",
-                "url": "https://lifelinefiji.com",
-                "url_info": "",
-                "phone": [
-                    "1543"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Empower Pacific 24/7 Counselling Helpline",
-                "url": "http://empowerpacific.com/",
-                "url_info": "",
-                "phone": [
-                    "2937141",
-                    "5626"
-                ],
-                "phone_info": "Text 2937141. Call 5626."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Gambia": [
-            {
-                "name": "Child Helpline Gambia ( Ministry Of Women Children And Social Welfare)",
-                "url": "https://www.mowcsw.gov.gm/",
-                "url_info": "",
-                "phone": [
-                    "199"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Gibraltar": [
-            {
-                "name": "GibSams",
-                "url": "http://www.gibsams.gi/",
-                "url_info": "",
-                "phone": [
-                    "116 123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Childline Gibraltar",
-                "url": "https://childline.gi/",
-                "url_info": "",
-                "phone": [
-                    "8008",
-                    "58008288"
-                ],
-                "phone_info": "Text 58008288. Call 8008."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Guernsey": [
-            {
-                "name": "Samaritans",
-                "url": "https://www.samaritans.org",
-                "url_info": "",
-                "phone": [
-                    "116 123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Childline",
-                "url": "https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/",
-                "url_info": "",
-                "phone": [
-                    "0800 1111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Guyana": [
-            {
-                "name": "Inter-agency Suicide Prevention Help Line",
-                "url": "https://www.facebook.com/pages/category/Community/Guyana-Inter-Agency-Suicide-Prevention-Helpline-1479461159034151/",
-                "url_info": "",
-                "phone": [
-                    "623-4444",
-                    "(592) 600-7896"
-                ],
-                "phone_info": "Text 623-4444. Call (592) 600-7896."
-            },
-            {
-                "name": "Guyana 24-Hr Crisis Hotline",
-                "url": "https://www.guyanastandard.com/2019/07/29/24-hour-crisis-hotline-available-to-guyanese-public/?fbclid=IwAR2Jr9d607D7D598D1Q84q7mXDjRxuDoIR9S6eli5XSRw7raKa0X4XnVUBc",
-                "url_info": "",
-                "phone": [
-                    "(592) 603-3666"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Haiti": [
-            {
-                "name": "Asistans Sikolojik an IJANS",
-                "url": "https://ahpsy.org.ht/",
-                "url_info": "",
-                "phone": [
-                    "2919-9000"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Honduras": [
-            {
-                "name": "Teléfono De La Esperanza de San Pedro Sula",
-                "url": "https://www.facebook.com/telefonodelaesperanzasps",
-                "url_info": "",
-                "phone": [
-                    "150"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Iran": [
-            {
-                "name": "Iran Crisis Text Line",
-                "url": "https://irancrisisline.org/get-help/text/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            },
-            {
-                "name": "صدای یارا - Yara's Voice",
-                "url": "https://www.irsprc.org/sedaye-yara/",
-                "url_info": "",
-                "phone": [
-                    "42152"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Jamaica": [
-            {
-                "name": "Mental Health and Suicide Prevention Helpline",
-                "url": "https://www.moh.gov.jm/mental-health/",
-                "url_info": "",
-                "phone": [
-                    "(888) 639-5433"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "U-Matter",
-                "url": "https://jamaica.ureport.in/page/umatterprivacypolicy/",
-                "url_info": "",
-                "phone": [
-                    "876-838-4897"
-                ],
-                "phone_info": "Text 876-838-4897."
-            },
-            {
-                "name": "SafeSpot",
-                "url": "https://safespotja.com/",
-                "url_info": "",
-                "phone": [
-                    "888-723-3776",
-                    "876-439-5199"
-                ],
-                "phone_info": "Text 876-439-5199. Call 888-723-3776."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Jersey": [
-            {
-                "name": "Samaritans",
-                "url": "https://www.samaritans.org",
-                "url_info": "",
-                "phone": [
-                    "116 123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Childline",
-                "url": "https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/",
-                "url_info": "",
-                "phone": [
-                    "0800 1111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "YES",
-                "url": "https://www.yes.je/",
-                "url_info": "",
-                "phone": [
-                    "0800 7350 010"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Jordan": [
-            {
-                "name": "JCPA Hotline",
-                "url": "https://www.facebook.com/Jordanian-Clinical-Psychologists-Association-987247728018555",
-                "url_info": "",
-                "phone": [
-                    "962795440416",
-                    "962 7 9544 0416"
-                ],
-                "phone_info": "Text 962795440416. Call 962 7 9544 0416."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Kazakhstan": [
-            {
-                "name": "балалар мен жасөспірімдерге арналған сенім телефоны No150",
-                "url": "https://www.telefon150.kz/",
-                "url_info": "",
-                "phone": [
-                    "150"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Kosovo": [
-            {
-                "name": "Linja e Jetës",
-                "url": "https://qips.quantech-ks.com/linja-e-jetes/",
-                "url_info": "",
-                "phone": [
-                    "0800 12345"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Latvia": [
-            {
-                "name": "Vienotais krīzes tālrunis",
-                "url": "https://www.skalbes.lv/",
-                "url_info": "",
-                "phone": [
-                    "116123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Child Helpline 116111",
-                "url": "https://uzticibastalrunis.lv",
-                "url_info": "",
-                "phone": [
-                    "116 111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Lebanon": [
-            {
-                "name": "The Lifeline",
-                "url": "https://embracelebanon.org/",
-                "url_info": "",
-                "phone": [
-                    "1564"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Libya": [
-            {
-                "name": "‎فريق الدعم النفس اجتماعي -ليبيا - Libyan Psychosocial Support Team",
-                "url": "https://www.facebook.com/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-Libyan-Psychosocial-Support-Team-1617969611764812/",
-                "url_info": "",
-                "phone": [
-                    "1417",
-                    "00218923978252"
-                ],
-                "phone_info": "Text 00218923978252. Call 1417."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Lithuania": [
-            {
-                "name": "Pagalbos smurtą patyrusiems linija",
-                "url": "https://www.specializuotospagalboscentras.lt/",
-                "url_info": "",
-                "phone": [
-                    "8 700 55516"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Vilties linija",
-                "url": "https://www.viltieslinija.lt/",
-                "url_info": "",
-                "phone": [
-                    "116 123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Nelik vienas",
-                "url": "https://nelikvienas.lt/",
-                "url_info": "",
-                "phone": [
-                    "8 604 11119"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Pagalbos Moterims Linija",
-                "url": "https://pagalbosmoterimslinija.lt/",
-                "url_info": "",
-                "phone": [
-                    "8 800 66366"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Sidabrinė linija (the Silver Line)",
-                "url": "https://www.sidabrinelinija.lt/",
-                "url_info": "",
-                "phone": [
-                    "8 800 800 20"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Jaunimo linija",
-                "url": "https://jaunimolinija.lt/lt/pagalba/pagalba-pokalbiais-internetu/",
-                "url_info": "",
-                "phone": [
-                    "8 800 28888"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Vaikų Linija (Child Line)",
-                "url": "https://www.vaikulinija.lt/",
-                "url_info": "",
-                "phone": [
-                    "116111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Vyrų linija",
-                "url": "https://www.vyrulinija.lt/",
-                "url_info": "",
-                "phone": [
-                    "8 670 00027"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Luxembourg": [
-            {
-                "name": "SOS Détresse",
-                "url": "https://454545.lu/",
-                "url_info": "",
-                "phone": [
-                    "454545"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Centre psycho-social et d'accompagnement scolaires - service d'ecoute/helpline",
-                "url": "https://cepas.public.lu/fr/actualites/2021/sante-mentale.html",
-                "url_info": "",
-                "phone": [
-                    "8002-9393"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Elterentelefon - Ecoute parents (KJT)",
-                "url": "https://www.kjt.lu/fr/ecoute-parents/",
-                "url_info": "",
-                "phone": [
-                    "26-640-555"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Malta": [
-            {
-                "name": "Crisis Resolution Malta",
-                "url": "https://m.facebook.com/CrisisResolutionMalta/",
-                "url_info": "",
-                "phone": [
-                    "9933 9966",
-                    "9933 9966"
-                ],
-                "phone_info": "Text 9933 9966. Call 9933 9966."
-            },
-            {
-                "name": "Supportline 179",
-                "url": "https://fsws.gov.mt/en/appogg/Pages/supportline.aspx",
-                "url_info": "",
-                "phone": [
-                    "179"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Kellimni",
-                "url": "https://kellimni.com",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Mauritius": [
-            {
-                "name": "SOS Femmes Mauritius (Helpline for Women)",
-                "url": "http://sosfemmes-mu.com/",
-                "url_info": "",
-                "phone": [
-                    "233-3054"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Moldova": [
-            {
-                "name": "Linia Verde Prevenire Suicid",
-                "url": "https://pentruviata.md/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            },
-            {
-                "name": "Telefon Copilului",
-                "url": "https://telefonulcopilului.md/",
-                "url_info": "",
-                "phone": [
-                    "116 111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Mongolia": [
-            {
-                "name": "Сэтгэцийн эрүүл мэндийн мэдээлэл өгөх утас 1800-2000",
-                "url": "https://ncmh.gov.mn",
-                "url_info": "",
-                "phone": [
-                    "1800-2000"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Morocco": [
-            {
-                "name": "Stop Silence",
-                "url": "https://www.stopsilence.net/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Nepal": [
-            {
-                "name": "TPO Nepal",
-                "url": "http://www.tponepal.org/",
-                "url_info": "",
-                "phone": [
-                    "+977 9847386158",
-                    "+977 16600102005"
-                ],
-                "phone_info": "Text +977 9847386158. Call +977 16600102005."
-            },
-            {
-                "name": "११६६ आत्महत्या रोकथामको लागि राष्ट्रिय हेल्पलाईन",
-                "url": "https://www.facebook.com/1166helpline",
-                "url_info": "",
-                "phone": [
-                    "1166"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "CMC Hotline",
-                "url": "http://www.cmcnepal.org.np/",
-                "url_info": "",
-                "phone": [
-                    "16600185080"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Patan Hospital Suicide Hotline",
-                "url": "https://www.pahs.edu.np/pahs-community/hospital/",
-                "url_info": "",
-                "phone": [
-                    "9813476123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Mental Health Promotion & Suicide Prevention Center",
-                "url": "https://mhpspc.org.np/?fbclid=IwAR1a5oxVmG4gtmmvyVLZxZ3kN209AzKowqiWq6Iypey6V0BNXqPeDTI5ico",
-                "url_info": "",
-                "phone": [
-                    "+977-01-4411264"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "North Macedonia": [
-            {
-                "name": "Психолошка поддршка на возрасни лица во самоизолација - Psychological support for people in self-isolation",
-                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
-                "url_info": "",
-                "phone": [
-                    "072 919 009"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Трудниците и родилките на кои им е потребна психолошка поддршка - Pregnant Women and Mothers In Need Psychological Support",
-                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
-                "url_info": "",
-                "phone": [
-                    "078 378 766"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Психолошка поддршка за лица со нарушување на слухот, говорот и гласот - Psychological Support for People with Hearing, Speech and Voice Disorders",
-                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
-                "url_info": "",
-                "phone": [
-                    "072 919 009"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Психолошка поддршка за родители на деца со попреченост - Psychological Support for Parents of Children with Disabilities",
-                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
-                "url_info": "",
-                "phone": [
-                    "070 291 574"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Психолошка поддршка на родители на деца од предучилишна и училишна возраст - Psychological support for parents of preschool and school children",
-                "url": "https://koronavirus.gov.mk/pomos-neregularnosti/psiholoshka-poddrshka",
-                "url_info": "",
-                "phone": [
-                    "072 912 676"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Northern Ireland": [
-            {
-                "name": "Lifeline",
-                "url": "https://www.lifelinehelpline.info",
-                "url_info": "",
-                "phone": [
-                    "18001 0808 808 8000",
-                    "0808 808 8000"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Rural Support Helpline",
-                "url": "https://www.ruralsupport.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0800 138 1678"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "ParentingNI Infomation and Support Line",
-                "url": "https://www.parentingni.org",
-                "url_info": "",
-                "phone": [
-                    "0808 801 0722"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Pakistan": [
-            {
-                "name": "Rozan Counseling Helpline",
-                "url": "https://rozan.org",
-                "url_info": "",
-                "phone": [
-                    "0304 111 1741"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Child Helpline, Child Protection and Welfare Bureau",
-                "url": "https://cpwb.punjab.gov.pk/",
-                "url_info": "",
-                "phone": [
-                    "1121"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Panama": [
-            {
-                "name": "Te Escucho Panama",
-                "url": "https://www.teescuchopanama.org/",
-                "url_info": "",
-                "phone": [
-                    "831-7600"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Tía Elaine Helpline",
-                "url": "https://senniaf.gob.pa/?page_id=16121",
-                "url_info": "",
-                "phone": [
-                    "6378-3466"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Papua New Guinea": [
-            {
-                "name": "1-TOK Kaunselin Helpim Lain",
-                "url": "https://www.facebook.com/1TokHelpimLain",
-                "url_info": "",
-                "phone": [
-                    "7150-8000"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Peru": [
-            {
-                "name": "Infosalud Perú",
-                "url": "https://www.gob.pe/555-recibir-informacion-y-orientacion-en-salud",
-                "url_info": "",
-                "phone": [
-                    "113"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "La Voz Amiga",
-                "url": "http://www.lavozamigaperu.org/",
-                "url_info": "",
-                "phone": [
-                    "0800 4 1212"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Línea 100",
-                "url": "https://www.gob.pe/481-ayuda-contra-la-violencia-familiar-y-sexual-linea-100",
-                "url_info": "",
-                "phone": [
-                    "100"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Qatar": [
-            {
-                "name": "Protection and Social Rehabilitation Centre (AMAN Centre)",
-                "url": "http://www.aman.org.qa/En/Pages/Home.aspx",
-                "url_info": "",
-                "phone": [
-                    "919"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Rwanda": [
-            {
-                "name": "8015 Suicide Prevention Hotline",
-                "url": "https://mentalhealth-first.org/",
-                "url_info": "",
-                "phone": [
-                    "8015"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Saint Lucia": [
-            {
-                "name": "Saint Lucia National Health Helpline, Mental, Social and Emotional Issues",
-                "url": "http://www.govt.lc/news/national-health-helpline-launched",
-                "url_info": "",
-                "phone": [
-                    "203"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Samoa": [
-            {
-                "name": "Faataua Le Ola (Samoa Lifeline)",
-                "url": "https://www.facebook.com/FLOsamoalife/",
-                "url_info": "",
-                "phone": [
-                    "800-5433"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Saudi Arabia": [
-            {
-                "name": "National Center for Mental Health Promotion",
-                "url": "https://ncmh.org.sa/",
-                "url_info": "",
-                "phone": [
-                    "920033360"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Scotland": [
-            {
-                "name": "Parentline (Scotland)",
-                "url": "https://www.children1st.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0800 028 2233"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Scottish Families Affected by Alcohol and Drugs",
-                "url": "https://www.sfad.org.uk/",
-                "url_info": "",
-                "phone": [
-                    "0808 0101 011"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Breathing Space Scotland",
-                "url": "https://breathingspace.scot",
-                "url_info": "",
-                "phone": [
-                    "(080) 083-8587"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "SAMH",
-                "url": "https://www.samh.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0344 800 0550"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "LGBT Helpline Scotland",
-                "url": "https://www.lgbthealth.org.uk",
-                "url_info": "",
-                "phone": [
-                    "0300 123 2523"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Serbia": [
-            {
-                "name": "Centar \"Srce\"",
-                "url": "https://www.centarsrce.org/index.php#max-widget",
-                "url_info": "",
-                "phone": [
-                    "0800-300-303"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Seychelles": [
-            {
-                "name": "Quality of Life Division Helpline - Ministry of Family, Youth and Sport",
-                "url": "https://qld-counselling.sc/",
-                "url_info": "",
-                "phone": [
-                    "2722293",
-                    "2722293"
-                ],
-                "phone_info": "Text 2722293. Call 2722293."
-            },
-            {
-                "name": "Elderly and Disabled Helpline - Ministry of Family, Youth and Sport",
-                "url": "",
-                "url_info": "",
-                "phone": [
-                    "2603030",
-                    "2603030"
-                ],
-                "phone_info": "Text 2603030. Call 2603030."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Slovakia": [
-            {
-                "name": "Linka dôvery Nezábudka",
-                "url": "https://www.linkanezabudka.sk",
-                "url_info": "",
-                "phone": [
-                    "0800 800 566"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Pomoc obetiam násilia",
-                "url": "http://pomocobetiam.sk",
-                "url_info": "",
-                "phone": [
-                    "0850 111 321"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Linka detskej istoty",
-                "url": "http://www.ldi.sk/",
-                "url_info": "",
-                "phone": [
-                    "116111"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "IPčko",
-                "url": "https://ipcko.sk/chatova-poradna/",
-                "url_info": "",
-                "phone": [
-                    "0800 500 333"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Slovenia": [
-            {
-                "name": "Zaupni telefon Samarijan",
-                "url": "http://www.telefon-samarijan.si/",
-                "url_info": "",
-                "phone": [
-                    "116 123"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Klic v duševni stiski - A Call In Mental Distress",
-                "url": "https://www.psih-klinika.si/",
-                "url_info": "",
-                "phone": [
-                    "(01) 520-99-00"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "SOS telefon za ženske in otroke - žrtve nasilja",
-                "url": "https://drustvo-sos.si/",
-                "url_info": "",
-                "phone": [
-                    "080 11 55"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Sri Lanka": [
-            {
-                "name": "සීසීසීලයින් 1333",
-                "url": "https://1333.lk",
-                "url_info": "",
-                "phone": [
-                    "1333"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "1926 - National Mental Health Helpline",
-                "url": "https://nimh.health.gov.lk/en/1926-national-mental-health-helpline/",
-                "url_info": "",
-                "phone": [
-                    "1926",
-                    "1926"
-                ],
-                "phone_info": "Text 1926. Call 1926."
-            },
-            {
-                "name": "Sri Lanka Sumithrayo",
-                "url": "https://srilankasumithrayo.lk",
-                "url_info": "",
-                "phone": [
-                    "0707 308 308"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Sudan": [
-            {
-                "name": "9696 Hotline - الخط الساخن 9696",
-                "url": "https://www.facebook.com/FCPA.SD/?fref=ts",
-                "url_info": "",
-                "phone": [
-                    "9696"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Tanzania": [
-            {
-                "name": "National Child Helpline Tanzania - 116",
-                "url": "https://www.sematanzania.org/child-helpline",
-                "url_info": "",
-                "phone": [
-                    "116"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Trinidad and Tobago": [
-            {
-                "name": "Lifeline",
-                "url": "http://lifelinett.com",
-                "url_info": "",
-                "phone": [
-                    "800-5588"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Families in Action",
-                "url": "https://www.familiesinaction.net/",
-                "url_info": "",
-                "phone": [
-                    "(868) 628-2333"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "Childline",
-                "url": "https://childlinett.org/",
-                "url_info": "",
-                "phone": [
-                    "800-4321"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "GROOTS Trinidad & Tobago",
-                "url": "https://www.facebook.com/grootstrinidad",
-                "url_info": "",
-                "phone": [
-                    "1868 384-4722"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "RN Vincent & Associates",
-                "url": "https://www.facebook.com/globalpropheticministries",
-                "url_info": "",
-                "phone": [
-                    "1(868) 486-0708",
-                    "1(868) 689-9391"
-                ],
-                "phone_info": "Text 1(868) 689-9391. Call 1(868) 486-0708."
-            },
-            {
-                "name": "Trinidad and Tobago Red Cross Society",
-                "url": "https://www.ttrcs.org/",
-                "url_info": "",
-                "phone": [
-                    "1-(868)-627-8215"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Uganda": [
-            {
-                "name": "Mental Health Uganda",
-                "url": "https://mentalhealthuganda.org/",
-                "url_info": "",
-                "phone": [
-                    "(0800) 21-21-21"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "United Arab Emirates": [
-            {
-                "name": "Mental Support Line",
-                "url": "https://hope.hw.gov.ae/",
-                "url_info": "",
-                "phone": [
-                    "8004673",
-                    "8004673"
-                ],
-                "phone_info": "Text 8004673. Call 8004673."
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Uruguay": [
-            {
-                "name": "Línea Nacional de Prevención del Suicidio",
-                "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/linea-de-prevencion-del-suicidio-0800-0767#:~:text=La%20l%C3%ADnea%20es%20un%20servicio,los%20suicidios%20a%20nivel%20pa%C3%ADs.",
-                "url_info": "",
-                "phone": [
-                    "0800 0767"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
-        "Venezuela": [
-            {
-                "name": "Línea de Ayuda Psicológica (LAPSI) / Federación de Psicólogos de Venezuela",
-                "url": "http://www.fpv.org.ve/",
-                "url_info": "",
-                "phone": [
-                    "02124163116"
-                ],
-                "phone_info": ""
-            },
-            {
-                "name": "7 Cups",
-                "url": "https://www.7cups.com/",
-                "url_info": "",
-                "phone": [],
-                "phone_info": ""
-            }
-        ]
-    },
-    {
         "Wales": [
             {
                 "name": "C.A.L.L. Helpline",
@@ -6129,6 +6109,26 @@ window.test = [
                 "url_info": "",
                 "phone": [
                     "136"
+                ],
+                "phone_info": ""
+            },
+            {
+                "name": "7 Cups",
+                "url": "https://www.7cups.com/",
+                "url_info": "",
+                "phone": [],
+                "phone_info": ""
+            }
+        ]
+    },
+    {
+        "Zimbabwe": [
+            {
+                "name": "Samaritans Bulawayo",
+                "url": "https://www.samaritanspurse.org/",
+                "url_info": "",
+                "phone": [
+                    "263 9 220 630"
                 ],
                 "phone_info": ""
             },
