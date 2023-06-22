@@ -10,6 +10,25 @@
         overflow-x: hidden;
         background-color: #E6E6FA; /* Set a background color to match the gradient */
       }
+
+    /* Background CSS */
+    .gradient-background {
+        background: linear-gradient(300deg, #FFBDF7, #E6E6FA, #C9E8FF);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+      }
+          
+    @keyframes gradient-animation {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
   
       /* Content CSS */
       #country-details {

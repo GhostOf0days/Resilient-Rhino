@@ -39,8 +39,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap" rel="stylesheet">
 </head>
-<body>
-
+<body class="gradient-background">
+    
     <script src="./quickExit.js"></script>
 
     <div class="top-bar">
@@ -53,31 +53,33 @@
         <p>Try to find the easter eggs! 😄</p>
         <p id="counter">Potential Rescues (Manually Verified): 0</p>
     </div> 
-
-    <h1>Suicide Prevention Resources</h1>
-    <h2>Need help? Find resources for your location:</h2>
-
-    <div class="search-bar">
-        <img src="../../public/images/mascots/rhinoHeart.webp" alt="Image" style="width: 75px; height: 75px; margin-right: 10px;">
-        <input type="text" id="search-input" placeholder="Search for a country" onkeydown="if (event.keyCode === 13 || event.key === 'Enter') searchCountry()">
-        <button type="button" onclick="searchCountry()">Search</button>
-    </div>
     
-    <!-- Anime easter egg (see animeCursors.js and app.js) -->
-    <div id="anime-dropdown-container" class="anime-dropdown-container">
-        <button id="anime-dropdown-button" class="anime-dropdown-button" onclick="toggleDropdown()">Select an Anime Cursor</button>
-        <ul id="anime-dropdown-list" class="anime-dropdown-list"></ul>
-    </div>
+    <div class="gradient-background">
+        <h1>Suicide Prevention Resources</h1>
+        <h2>Need help? Find resources for your location:</h2>
 
-    <div id="resources"></div>
+        <div class="search-bar">
+            <img src="../../public/images/mascots/rhinoHeart.webp" alt="Image" style="width: 75px; height: 75px; margin-right: 10px;">
+            <input type="text" id="search-input" placeholder="Search for a country" onkeydown="if (event.keyCode === 13 || event.key === 'Enter') searchCountry()">
+            <button type="button" onclick="searchCountry()">Search</button>
+        </div>
+        
+        <!-- Anime easter egg (see animeCursors.js and app.js) -->
+        <div id="anime-dropdown-container" class="anime-dropdown-container">
+            <button id="anime-dropdown-button" class="anime-dropdown-button" onclick="toggleDropdown()">Select an Anime Cursor</button>
+            <ul id="anime-dropdown-list" class="anime-dropdown-list"></ul>
+        </div>
 
-    <div id="disclaimer">
-        <h2>Disclaimer:</h2>
-        <p>
-            The provided resources include suicide prevention hotlines, counseling services, and other mental health support. 
-            These resources have been sourced from various organizations and manually verified to ensure accuracy. 
-            However, please note that the availability and quality of the services may vary. 
-        </p>
+        <div id="resources"></div>
+
+        <div id="disclaimer">
+            <h2>Disclaimer:</h2>
+            <p>
+                The provided resources include suicide prevention hotlines, counseling services, and other mental health support. 
+                These resources have been sourced from various organizations and manually verified to ensure accuracy. 
+                However, please note that the availability and quality of the services may vary. 
+            </p>
+        </div>
     </div>
 
     <script src="./countries.js"></script>

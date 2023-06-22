@@ -2,13 +2,32 @@
     body {
         cursor: url('../../public/cursors/rhinoHeartCursor.cur'), auto;
         font-family: 'Helvetica Neue', Arial, sans-serif;
-        background: linear-gradient(120deg, #E6E6FA, #C9E8FF); /* Light lavender color and linear gradient to decrease stress */
+        background: linear-gradient(120deg, #FFBDF7, #E6E6FA, #C9E8FF); /* Light lavender color and linear gradient to decrease stress */
         color: #333;
         line-height: 1.5;
         margin: 0;
         padding: 0;
         overflow-x: hidden; /* Prevent white background if too far left or right */
         background-color: #E6E6FA; /* Set a background color to match the gradient */
+    }
+
+    /* Background CSS */
+    .gradient-background {
+        background: linear-gradient(300deg, #FFBDF7, #E6E6FA, #C9E8FF);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+    }
+        
+    @keyframes gradient-animation {
+        0% {
+        background-position: 0% 50%;
+        }
+        50% {
+        background-position: 100% 50%;
+        }
+        100% {
+        background-position: 0% 50%;
+        }
     }
 
     /* Top bar styling */
