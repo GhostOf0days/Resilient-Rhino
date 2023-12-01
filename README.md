@@ -42,7 +42,7 @@ npm run test
 
 * Github: [@nepthius](https://github.com/nepthius)
 
-* Roles: Founder, Code-Migrator, Website Functionality
+* Roles: Founder, Tech Lead
 
 *Check out the codebase rehaul here: https://github.com/nepthius/ResilientRhino
 
