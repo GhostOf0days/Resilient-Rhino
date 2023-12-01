@@ -38,6 +38,14 @@ npm run test
 * Github: [@tkoz0](https://github.com/tkoz0)
 * Role: Scraper
 
+👤 **Anish Dhanasekaran**
+
+* Github: [@nepthius](https://github.com/nepthius)
+
+* Roles: Founder, Code-Migrator, Website Functionality
+
+*Check out the codebase rehaul here: https://github.com/nepthius/ResilientRhino
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/0dayReaper/Resilient-Rhino/issues). 
